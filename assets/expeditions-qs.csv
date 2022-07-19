@@ -1,0 +1,503 @@
+Ask a Question,,File 15,,,,,
+,,,,,,,
+Character?,|,Question,|,Comment,|,Correct answer?,|
+Byleth M,|,Ask about their likes.,|,"I don't know if ""like"" is the right word, but I find myself helping people almost reflexively.",|,Commend that.,|
+Byleth M,|,Ask about their dislikes.,|,"You know, I'm not sure—though I suppose if someone were to harm my father, I could never forgive them.",|,End things there.,|
+Byleth M,|,Ask about dreams for the future.,|,I honestly have no idea. I'm not even sure if I'll take over the mercenaries or not.,|,Offer encouragement.,|
+Byleth M,|,Ask about their worries.,|,None of my worries would be helped by talking them out.,|,Be relieved.,|
+Byleth M,|,Ask about their home.,|,"I have no hometown. As far back as I can remember, I've been traveling with the mercenaries.",|,Be impressed.,|
+Byleth M,|,Ask about memories of the past.,|,I remember all of our fights—you're probably the only person I've ever feared on the battlefield.,|,Sympathize.,|
+Byleth M,|,Ask about their friends.,|,You have a different aura from my mercenary companions. It was hard to get used to at first.,|,Acknowledge it.,|
+Byleth M,|,Ask about preferred fighting style.,|,"Swordwork, as well as the sort of guerrilla warfare I learned from my father.",|,Get competitive over it.,|
+Byleth M,|,Ask what they think of you.,|,I feel that you and I are very much alike.,|,Agree.,|
+Byleth M,|,Ask what they think of you.,|,"You swore to surpass me one day, but I've not been standing still in the meantime.",|,Nod emphatically.,|
+Byleth M,|,Ask about any personal news.,|,"I can still wield a blade, so I must be fine.",|,Extend a challenge.,|
+Byleth M,|,Ask about any personal news.,|,"If you're asking how well Jeralt's band is fitting in, I'd say things are...getting better.",|,Be relieved.,|
+Byleth F,|,Ask about their likes.,|,"I don't know if ""like"" is the right word, but I find myself helping people almost reflexively.",|,Commend that.,|
+Byleth F,|,Ask about their dislikes.,|,"You know, I'm not sure—though I suppose if someone were to harm my father, I could never forgive them.",|,End things there.,|
+Byleth F,|,Ask about dreams for the future.,|,I honestly have no idea. I'm not even sure if I'll take over the mercenaries or not.,|,Offer encouragement.,|
+Byleth F,|,Ask about their worries.,|,None of my worries would be helped by talking them out.,|,Be relieved.,|
+Byleth F,|,Ask about their home.,|,"I have no hometown. As far back as I can remember, I've been traveling with the mercenaries.",|,Be impressed.,|
+Byleth F,|,Ask about memories of the past.,|,I remember all of our fights—you're probably the only person I've ever feared on the battlefield.,|,Sympathize.,|
+Byleth F,|,Ask about their friends.,|,You have a different aura from my mercenary companions. It was hard to get used to at first.,|,Acknowledge it.,|
+Byleth F,|,Ask about preferred fighting style.,|,"Swordwork, as well as the sort of guerrilla warfare I learned from my father.",|,Get competitive over it.,|
+Byleth F,|,Ask what they think of you.,|,I feel that you and I are very much alike.,|,Agree.,|
+Byleth F,|,Ask what they think of you.,|,"You swore to surpass me one day, but I've not been standing still in the meantime.",|,Nod emphatically.,|
+Byleth F,|,Ask about any personal news.,|,"I can still wield a blade, so I must be fine.",|,Extend a challenge.,|
+Byleth F,|,Ask about any personal news.,|,"If you're asking how well Jeralt's band is fitting in, I'd say things are...getting better.",|,Be relieved.,|
+Edelgard,|,Ask about their likes.,|,"I adore nature, which is precisely why I treasure days such as this.",|,Smile.,|
+Edelgard,|,Ask about their dislikes.,|,"I dislike convention. I can't stand missing a good opportunity simply because I'm ""not supposed to.""",|,State your thoughts.,|
+Edelgard,|,Ask about dreams for the future.,|,"My dream is to sit about and simply do...nothing. Sadly, there's so much demanded of me it will likely remain a dream until my final days.",|,Give a pep talk.,|
+Edelgard,|,Ask about their worries.,|,"Oh, I could go on and on about all of my intractable problems. How much time do you have?",|,Act dependable.,|
+Edelgard,|,Ask about their family.,|,"I'd rather not talk about that right now. Perhaps some evening, when sleep eludes me.",|,Let that sink in for a moment.,|
+Edelgard,|,Ask about memories of the past.,|,"Have I told you about the boy who gave me the dagger? I called him ""Dee,"" which is all I really remember about him.",|,Be envious.,|
+Edelgard,|,Ask about their friends.,|,"I'm lucky they're all so capable, as are you. I do hope you see that.",|,Give a pep talk.,|
+Edelgard,|,Ask about preferred fighting style.,|,"I don't object to swords or magic, but an axe has always felt most natural in my hand. I'm not sure why.",|,Ask for more details.,|
+Edelgard,|,Ask what they think of you.,|,I hope I'm paying you adequately for your service. The Imperial army would be lost without you.,|,Act dependable.,|
+Edelgard,|,Ask what they think of you.,|,I hope you'll continue to lend me your strength long after this war is over.,|,Be shocked.,|
+Edelgard,|,Ask about any personal news.,|,"Me? Oh, I suppose I can't complain.",|,Express worry.,|
+Edelgard,|,Ask about any personal news.,|,"Don't worry, I'm taking care not to overwork myself.",|,Express worry.,|
+Dimitri,|,Ask about their likes.,|,"Seeing my people and my friends happy, for one. Beyond that, perhaps sparring and maintaining my weapons.",|,Sympathize.,|
+Dimitri,|,Ask about their dislikes.,|,Hm. What do you think the answer is?,|,State your thoughts.,|
+Dimitri,|,Ask about dreams for the future.,|,"The future, eh? I suppose I'll have to think about it. All my dreams at the moment pertain to our present.",|,Nod.,|
+Dimitri,|,Ask about their worries.,|,Do be kind to Felix. His new duties seem to be taking more out of him than I think he realizes.,|,Nod emphatically.,|
+Dimitri,|,Ask about their home.,|,"I hope you've grown to like Faerghus, even if only a little. It's a harsh place, but it is our home.",|,Smile and nod.,|
+Dimitri,|,Ask about memories of the past.,|,Had I not met Dedue on that fateful day...I dare say I would be a very different person than I am now.,|,Agree.,|
+Dimitri,|,Ask about their friends.,|,I owe them my thanks and more. I would not be king were it not for the support of my friends.,|,Offer encouragement.,|
+Dimitri,|,Ask about preferred fighting style.,|,There is no greater art than charging past the enemy lines singlehandedly. The fighting ends all the quicker if you can defeat their commander in one fell swoop.,|,Acknowledge it.,|
+Dimitri,|,Ask what they think of you.,|,"I don't care what power lurks within you. I have chosen to trust you, and that is what I'll do.",|,Nod emphatically.,|
+Dimitri,|,Ask what they think of you.,|,I hope you stay with us after the war. You've become an irreplaceable asset to the Kingdom's army.,|,Act dependable.,|
+Dimitri,|,Ask about any personal news.,|,I've had much on my mind of late. The funding for our war effort is a particularly pressing concern.,|,State your thoughts.,|
+Dimitri,|,Ask about any personal news.,|,Many have lost their lives because of me. It is my duty to seek vengeance for their souls.,|,Nod.,|
+Claude,|,Ask about their likes.,|,"Hmmm... It's tough to say, but I do have a pretty strong interest in poisons.",|,Laugh.,|
+Claude,|,Ask about their dislikes.,|,Gambling isn't for me. It's not in my nature to leave things up to chance.,|,Reach out and commiserate.,|
+Claude,|,Ask about dreams for the future.,|,"Once I accomplish all my goals in Fódlan, I'll... Actually, I'm not sure what I'll do after that.",|,Ask for more details.,|
+Claude,|,Ask about their worries.,|,"I'm constantly buried under an avalanche of problems. But that's what happens when you're in my position. You know what I mean, right?",|,Offer encouragement.,|
+Claude,|,Ask about their family.,|,"My mother's quite the formidable woman. Even more so than Judith, if you can believe it.",|,Speculate.,|
+Claude,|,Ask about memories of the past.,|,I've been surrounded by enemies ever since I was a kid. Friends were in short supply those days.,|,Struggle to answer.,|
+Claude,|,Ask about their friends.,|,"I have a hard time trusting other people, but I trust you and all our friends from the bottom of my heart. I mean that.",|,Act dependable.,|
+Claude,|,Ask about preferred fighting style.,|,I'll leave the brawls to other people. I prefer to fight with my brains.,|,Question that.,|
+Claude,|,Ask what they think of you.,|,"I admit, your power intrigues me. But that's all. I haven't formulated any theories about it yet.",|,Express gratitude.,|
+Claude,|,Ask what they think of you.,|,"No matter your true identity, it won't change the fact that you're a valued friend to me.",|,Reach out and commiserate.,|
+Claude,|,Ask about any personal news.,|,"I'm extremely busy, as you know. But hey, you're in this thing just as deep as I am.",|,Give a pep talk.,|
+Claude,|,Ask about any personal news.,|,"Things aren't too bad, but I'm dead tired. I want to end this war as soon as I can.",|,Give a pep talk.,|
+Hubert,|,Ask about their likes.,|,I enjoy clever people who are committed to serving Lady Edelgard—and I am certain you wish me to include you in that number.,|,Nod seriously.,|
+Hubert,|,Ask about their dislikes.,|,"I have an entire laundry list of loathings, but if I had to pick one, it would be reminiscing.",|,Be doubtful.,|
+Hubert,|,Ask about dreams for the future.,|,Dreams retain their luster when you keep them private—though feel free to guess if you like.,|,Shrug.,|
+Hubert,|,Ask about their worries.,|,"Oh, you wish to help me with my troubles? In that case, simply tell me how to dispose of you.",|,Laugh.,|
+Hubert,|,Ask about their family.,|,"My father is dead, as you know. As to the rest? Ah, but that is a fascinating subject indeed...",|,Speculate.,|
+Hubert,|,Ask about memories of the past.,|,"Ah, I have one. Do you remember when we first met and I thought, ""Great, another worthless scoundrel""?",|,Sympathize.,|
+Hubert,|,Ask thoughts on their employer.,|,Her Majesty acts more liberated of late. I think it is a wonderful thing.,|,Be pleased.,|
+Hubert,|,Ask about preferred fighting style.,|,Why be choosy? All that matters is that the enemy is dead and you continue to draw breath.,|,Smile.,|
+Hubert,|,Ask what they think of you.,|,"I would classify you as a threat, frankly—so do not expect me to take my eyes off you anytime soon.",|,Extend a challenge.,|
+Hubert,|,Ask what they think of you.,|,I would say you are a person of extreme importance to Her Majesty—or at least extreme utility.,|,Brush it off.,|
+Hubert,|,Ask about any personal news.,|,I am well—and please do not join the chorus of wailers who claim I look pale as the grave.,|,Laugh.,|
+Hubert,|,Ask about any personal news.,|,"I am quite tired, if we are being honest. Hence the need for little reprieves such as this.",|,Be pleased.,|
+Ferdinand,|,Ask about their likes.,|,"Oh, I enjoy tea, horseback riding, collecting weapons, mountain vistas... The usual noble pursuits.",|,Applaud that.,|
+Ferdinand,|,Ask about their dislikes.,|,"Hmm. I cannot think of anything—save, perhaps, a few foods that do not agree with me.",|,Speculate.,|
+Ferdinand,|,Ask about dreams for the future.,|,"You have placed me in quite a position! Well, if you must know, I dream of steering the Empire in a better direction for the future.",|,Promise your support.,|
+Ferdinand,|,Ask about their worries.,|,"I suffer endless troubles, but the future of Aegir territory is ever at the forefront of my mind.",|,Act encouraging.,|
+Ferdinand,|,Ask about their family.,|,"My mother is in terrible spirits after what befell my father, and I fear her health was poor to begin with.",|,Give a pep talk.,|
+Ferdinand,|,Ask about memories of the past.,|,I fear you have only ever seen me at my most inept. Perhaps we will look back on this one day and laugh.,|,Blush.,|
+Ferdinand,|,Ask about their friends.,|,"We are good friends and fine rivals, which makes us strong. I have all faith the Empire will prevail!",|,Vow to achieve victory.,|
+Ferdinand,|,Ask about preferred fighting style.,|,"Any noble worth their salt knows how to wield any weapon with grace, be it sword, lance, or even axe.",|,Be impressed.,|
+Ferdinand,|,Ask what they think of you.,|,I think you are a perfect enigma—which is also the finest thing about you.,|,Act dependable.,|
+Ferdinand,|,Ask what they think of you.,|,"I think you a fine comrade of unwavering principle, and one with more resolve than you are likely to find in a dozen others lumped together.",|,Reach out and commiserate.,|
+Ferdinand,|,Ask about any personal news.,|,"I still have much to work through, but I continue to press on as best I can to a brighter future.",|,Tease.,|
+Ferdinand,|,Ask about any personal news.,|,"I sometimes recall my father, and... Ah, that is all part of who I am now. I must learn to live with it.",|,Agree.,|
+Linhardt,|,Ask about their likes.,|,I enjoy our time together. What about you?,|,Smile.,|
+Linhardt,|,Ask about their dislikes.,|,What worries me most is that I might have to follow in my father's footsteps and take up politics.,|,Console.,|
+Linhardt,|,Ask about dreams for the future.,|,I long for an age of peace when I can nap any old time I please.,|,Yawn.,|
+Linhardt,|,Ask about their worries.,|,"Oh, I don't believe in moping. Either I find a solution to my problem, or I run from it as fast as my legs will carry me.",|,Be impressed.,|
+Linhardt,|,Ask about their family.,|,I basically live however I please—and I'm sure you can imagine how my family feels about that.,|,Contemplate that.,|
+Linhardt,|,Ask about memories of the past.,|,Wouldn't you rather hear about a book I've read? Or perhaps some tales of Caspar's daring exploits?,|,Pick one.,|
+Linhardt,|,Ask about their friends.,|,"I count myself blessed to be among such diligent friends, though I could certainly do without all of this warfare.",|,Act dependable.,|
+Linhardt,|,Ask about preferred fighting style.,|,"I mildly resent the implication that I'm into fighting, but I suppose I would have to say magic.",|,Be impressed.,|
+Linhardt,|,Ask what they think of you.,|,Are you offering to subject yourself to my research? No? How boring.,|,Let that sink in for a moment.,|
+Linhardt,|,Ask what they think of you.,|,Have you noticed any physical changes in yourself? I worry about your well-being.,|,Act dependable.,|
+Linhardt,|,Ask about any personal news.,|,"The good things are good, and the bad ones are bad. Nothing ever changes, I suppose.",|,Sympathize.,|
+Linhardt,|,Ask about any personal news.,|,"As usual, I'm sleepy, but I've no one to blame but... myself... Zzz...",|,Be silent.,|
+Caspar,|,Ask about their likes.,|,"Fighting, obviously. Oh, but it's not like I throw a punch at whoever happens to walk by or anything.",|,Laugh.,|
+Caspar,|,Ask about their dislikes.,|,I don't like the sound of thunder. Reminds me too much of my father when I've really screwed up...,|,Be shocked.,|
+Caspar,|,Ask about dreams for the future.,|,"I'm not sure about dreams, but I've got some goals. Does traveling the world someday count?",|,Sympathize.,|
+Caspar,|,Ask about their worries.,|,"Well, my father's basically the greatest fighter in the history of fighters. It gets to me sometimes.",|,Offer encouragement.,|
+Caspar,|,Ask about their family.,|,I have an aunt who's four years younger than me. How's that for awkward?,|,Ask for more details.,|
+Caspar,|,Ask about memories of the past.,|,"When we were kids, Linhardt and I were attached at the hip. You wanna hear about that?",|,Be unsure.,|
+Caspar,|,Ask about their friends.,|,We've got a lot of tough fighters on our side. It's a shame I can't ever challenge any of them for real.,|,Join the competition.,|
+Caspar,|,Ask about preferred fighting style.,|,All that matters to me is that I get in close—I'll smack my enemies around with whatever I've got on hand.,|,Agree.,|
+Caspar,|,Ask what they think of you.,|,"You? Yeah, you're all right. Where'd this come from?",|,Blush.,|
+Caspar,|,Ask what they think of you.,|,"You're a good friend, a worthy rival, and everything I'm aiming for. So, uh...yeah.",|,Get competitive over it.,|
+Caspar,|,Ask about any personal news.,|,"Eh, I'm getting by—but if you'd asked the old me, I would've given you some nonsense about how things had never been better.",|,Commend that.,|
+Caspar,|,Ask about any personal news.,|,"I'm feeling great! Don't believe me? C'mon, let's go a few rounds and see what's what!",|,Rise to the challenge.,|
+Bernadetta,|,Ask about their likes.,|,"Oh, there are tons of things I like! Embroidery, reading, painting...",|,Be envious.,|
+Bernadetta,|,Ask about their dislikes.,|,"Um, scary people, I guess? They can stay far, far, far away from me.",|,Console.,|
+Bernadetta,|,Ask about dreams for the future.,|,"Hey, I'm not telling you that! In fact, I'm not telling anyone!",|,Laugh.,|
+Bernadetta,|,Ask about their worries.,|,"Well, it sort of bugs me that people don't just leave me alone when I wanna stay home.",|,Sympathize.,|
+Bernadetta,|,Ask about their home.,|,The only home for me is my room in the capital.,|,Nod.,|
+Bernadetta,|,Ask about memories of the past.,|,I used to like playing in the gardens when I was a kid. My friend and I would run around there all day long.,|,Be relieved.,|
+Bernadetta,|,Ask about their friends.,|,Are you kidding? Everyone's amazing! I just hope you all...you know? Wanna be friends with me?,|,Act dependable.,|
+Bernadetta,|,Ask about preferred fighting style.,|,"I'm all about safety first, so just give me a bow and plenty of space and I'm set.",|,Sympathize.,|
+Bernadetta,|,Ask what they think of you.,|,What? Why? Are you trying to learn my weaknesses or something?,|,Apologize.,|
+Bernadetta,|,Ask what they think of you.,|,I feel like I can count on you—although you do scare me a bit sometimes.,|,Be pleased.,|
+Bernadetta,|,Ask about any personal news.,|,I have good days and bad ones. But today must be a good day since you managed to get me outside!,|,Cheer up.,|
+Bernadetta,|,Ask about any personal news.,|,I'm at my best when I'm safely tucked away behind my own four walls.,|,Humor her.,|
+Dorothea,|,Ask about their likes.,|,"I was fortunate to be invited into the opera company, where I got to sing, dance, and wear the latest finery.",|,Smile and nod.,|
+Dorothea,|,Ask about their dislikes.,|,"I've never been able to truly love myself... Ahaha! Sorry, I couldn't hold a straight face. I actually can't stand nobles who are infatuated with themselves.",|,Express worry.,|
+Dorothea,|,Ask about dreams for the future.,|,"Well, I'd love a steady income, a roguishly handsome husband—or a beautiful wife—a warm household... Hey, are you listening?",|,Offer encouragement.,|
+Dorothea,|,Ask about their worries.,|,"I have a great number of troubles, sadly. For example, fighting on the front lines means I can only pack so many outfits.",|,Laugh.,|
+Dorothea,|,Ask about their family.,|,"My mother died when I was little. But now I have the opera company, and they've become my family.",|,Sympathize.,|
+Dorothea,|,Ask about memories of the past.,|,Please don't make me think about the past. It wasn't a pleasant time for me.,|,Act dependable.,|
+Dorothea,|,Ask about their friends.,|,"Well, they're all of impressive enough lineage, but... Oh, sorry, we're talking about marriage prospects, right?",|,Look confused.,|
+Dorothea,|,Ask about preferred fighting style.,|,"It's gruesome to say, but I prefer magic because it feels the least like I'm taking a life.",|,Express worry.,|
+Dorothea,|,Ask what they think of you.,|,"Why, are you fishing for compliments? Well then, I think you're someone I can rely on.",|,Blush.,|
+Dorothea,|,Ask what they think of you.,|,"Wouldn't you like to know. Sorry, not telling!",|,Speculate.,|
+Dorothea,|,Ask about any personal news.,|,"Not great. Life has been one battle after another, and it's all rather depressing to think about.",|,Act dependable.,|
+Dorothea,|,Ask about any personal news.,|,"I'm actually having a wonderful day. Something nice happened to me earlier, you see.",|,Smile.,|
+Petra,|,Ask about their likes.,|,"I like climbing trees, but it is not a thing done by people in Fódlan.",|,Express admiration.,|
+Petra,|,Ask about their dislikes.,|,I do not like laziness. But sometimes that means I am working too hard and making mistakes.,|,Sympathize.,|
+Petra,|,Ask about dreams for the future.,|,I hope to spend much time with people I love.,|,Give a pep talk.,|
+Petra,|,Ask about their worries.,|,I never seem to get better at math. What is 49 times 73 again?,|,Calculate it.,|
+Petra,|,Ask about their family.,|,"I have grandparents, and a little brother and sister. But everyone on the isles is like family, so I have a family of much largeness.",|,Be envious.,|
+Petra,|,Ask about memories of the past.,|,"Long ago, I tried to put an arrow in the sun. It was killing a bird instead. That was my first hunt.",|,Commend that.,|
+Petra,|,Ask about their friends.,|,"I have much to learn from them, so we are training each day. If mine was the way, I would have them all come live in Brigid.",|,Smile.,|
+Petra,|,Ask about preferred fighting style.,|,"I am good with the sword and bow. I want to be better at the axe. If it can be soaring through the air, I will probably like it.",|,Get competitive over it.,|
+Petra,|,Ask what they think of you.,|,I admire your strength. But I will keep training and soon be surpassing you!,|,Give a pep talk.,|
+Petra,|,Ask what they think of you.,|,Brigid is needing a person like you. I am still waiting for your answer.,|,Act dependable.,|
+Petra,|,Ask about any personal news.,|,"Now that I have adjusted to Fódlan pillows, I am fine.",|,Laugh.,|
+Petra,|,Ask about any personal news.,|,I am missing my home every so often. All I love is located so far from here.,|,Let that sink in for a moment.,|
+Dedue,|,Ask about their likes.,|,"Cooking, gardening, sewing. Such tasks help calm my nerves.",|,Sympathize.,|
+Dedue,|,Ask about their dislikes.,|,Those who would harm His Majesty. Though I do appreciate those who speak plainly with him.,|,Say you trust him.,|
+Dedue,|,Ask about dreams for the future.,|,I desire nothing more than to support His Majesty's reign.,|,Promise your support.,|
+Dedue,|,Ask about their worries.,|,"I've served His Majesty for years now, but I still don't know his favorite food.",|,Ask for more details.,|
+Dedue,|,Ask about their family.,|,I can no longer recall my parents' voices. Nor my sister's. So much time has passed since that day.,|,Let that sink in for a moment.,|
+Dedue,|,Ask about memories of the past.,|,"When I was young, I always thought I'd become a blacksmith. Just like my father.",|,Be shocked.,|
+Dedue,|,Ask about their friends.,|,"Ally or no, I will cut down anyone who betrays His Majesty.",|,Give a wordless nod.,|
+Dedue,|,Ask about preferred fighting style.,|,I train to be a shield for His Majesty. That is why I'm better suited to defensive battles.,|,Offer encouragement.,|
+Dedue,|,Ask what they think of you.,|,His Majesty trusts you. I will do the same.,|,Act dependable.,|
+Dedue,|,Ask what they think of you.,|,"You've become indispensable. Both to His Majesty, and to me.",|,Blush.,|
+Dedue,|,Ask about any personal news.,|,I thought of a new dish using vegetables from around here. You'll have to try it later.,|,Be pleased.,|
+Dedue,|,Ask about any personal news.,|,I've been teaching the language of Fódlan to Duscur's warriors. I hope both sides can reach an understanding someday.,|,Commend that.,|
+Felix,|,Ask about their likes.,|,"Strong people. The more skill, the better—especially with a sword.",|,Agree.,|
+Felix,|,Ask about their dislikes.,|,"I'm not into chivalry. But I get some of it better, now that I spend all my time with knights.",|,Commend that.,|
+Felix,|,Ask about dreams for the future.,|,"Hm. I have ideas, but we have a lot to do before I can start putting them into action.",|,Ask for more details.,|
+Felix,|,Ask about their worries.,|,If I had to pick...probably my swordwork. Let's spar later.,|,Extend a challenge.,|
+Felix,|,Ask about their family.,|,I've got nothing but appreciation for my mother and my uncle. They've taken on all of my duties while I'm out fighting this war.,|,Commend that.,|
+Felix,|,Ask about memories of the past.,|,"Hmph. If you want tales of the past, go ask the boar. I'm sure he'd be glad to regale you.",|,Acquiesce.,|
+Felix,|,Ask about their friends.,|,"Everyone fights in their own way, but somehow it just...works. We've got a good group here.",|,Sympathize.,|
+Felix,|,Ask about preferred fighting style.,|,"Hard to say. Leading the charge on the front lines, I guess.",|,Agree.,|
+Felix,|,Ask what they think of you.,|,Your unit is impressive. I'd like to watch you train sometime.,|,Be pleased.,|
+Felix,|,Ask what they think of you.,|,"Working for the boar isn't easy. Trust me, I know. But don't go slacking off.",|,Act dependable.,|
+Felix,|,Ask about any personal news.,|,"I've got a lot on my mind, but I'd rather that than be sitting bored in my room.",|,Offer to help.,|
+Felix,|,Ask about any personal news.,|,I've been training with the warriors from Duscur lately. I wonder if I could get my hands on one of their swords.,|,Agree.,|
+Ashe,|,Ask about their likes.,|,"I love reading tales of people's travels around the world. If you close your eyes and imagine really hard, it's almost like you're there on the adventure yourself!",|,Ask for more details.,|
+Ashe,|,Ask about their dislikes.,|,"I don't like it when people lie to me. Of course, I can't stand when I lie to myself either.",|,Sympathize.,|
+Ashe,|,Ask about dreams for the future.,|,"I have plenty of thoughts, but I think I'll wait until after the war's over to sort through them all.",|,Offer encouragement.,|
+Ashe,|,Ask about their worries.,|,"Well, I'm not really good at complicated math and all that. Calculating what angle to fire a cannon at, those sorts of things.",|,Act encouraging.,|
+Ashe,|,Ask about their family.,|,"My siblings back home depend on me for support. That reminds me, I still need to send them some money for the month.",|,Express admiration.,|
+Ashe,|,Ask about memories of the past.,|,"After my parents died, I...lived in absolute poverty. I did a lot of bad things I'd rather not remember.",|,Be silent.,|
+Ashe,|,Ask about their friends.,|,"No matter how big a force we're up against, I won't let any of my friends die in this war.",|,Give a pep talk.,|
+Ashe,|,Ask about preferred fighting style.,|,"Hmm, probably ranged combat. Definitely not the up-close tactics that knights normally use.",|,Commend that.,|
+Ashe,|,Ask what they think of you.,|,I'm glad we've become friends so quickly. I hope we can keep building on that friendship!,|,Say you trust him.,|
+Ashe,|,Ask what they think of you.,|,I'd love to visit your hometown someday. Probably after the war ends.,|,Talk about it more.,|
+Ashe,|,Ask about any personal news.,|,They say Albinea's even colder than Faerghus or the Sreng region to the north. I can't even imagine what that's like.,|,Picture it in your mind.,|
+Ashe,|,Ask about any personal news.,|,I want to change people's lives for the better. Just like Lonato did for me.,|,Offer encouragement.,|
+Sylvain,|,Ask about their likes.,|,"There's nothing better than chatting up a pretty lady, that's what I always say!",|,Give a rueful smile.,|
+Sylvain,|,Ask about their dislikes.,|,Getting stuck in a room full of other guys. Really not my thing.,|,Puzzle over that one.,|
+Sylvain,|,Ask about dreams for the future.,|,"I've got my ideas, but there's still plenty I want to do in the present before I can start thinking about the future.",|,Ask for more details.,|
+Sylvain,|,Ask about their worries.,|,"I'm not sure it's bothering me exactly, but it's hard watching your friends work themselves to the bone.",|,Sympathize.,|
+Sylvain,|,Ask about their family.,|,Miklan and I have two different mothers. It's a pretty common thing in noble houses.,|,Give a wordless nod.,|
+Sylvain,|,Ask about memories of the past.,|,My old friends and I stopped hanging out as much once King Lambert died. Makes sense when you think about it.,|,Be shocked.,|
+Sylvain,|,Ask about their friends.,|,We've got so many different talents in our army. His Majesty needs to do a better job of figuring out the right person for the right task.,|,State your thoughts.,|
+Sylvain,|,Ask about preferred fighting style.,|,Most Kingdom nobles care about military might above all else. A guy like me has to really use his head more to get an edge in life.,|,Say you trust him.,|
+Sylvain,|,Ask what they think of you.,|,All I can ask is that you keep helping His Majesty. He needs all the support he can get.,|,Nod emphatically.,|
+Sylvain,|,Ask what they think of you.,|,"I'm not sure how much it shows, but I believe in you. Seriously.",|,Be pleased.,|
+Sylvain,|,Ask about any personal news.,|,"I realized something the other day. As fun as it is to woo a beautiful woman, sometimes it's just as nice to kick back and enjoy their company.",|,Ask for more details.,|
+Sylvain,|,Ask about any personal news.,|,I've been borrowing a lot of books from the church lately. They're always so interesting.,|,Show interest.,|
+Mercedes,|,Ask about their likes.,|,"Hmm, I do like to bake! I always end up making far more than any one person could eat, though.",|,Show interest.,|
+Mercedes,|,Ask about their dislikes.,|,"There are plenty of things I'm not very fond of, but I prefer to stay positive when I can.",|,Sympathize.,|
+Mercedes,|,Ask about dreams for the future.,|,"I'm not sure how, but I want to help people in need. A little cliché, isn't it?",|,Promise your support.,|
+Mercedes,|,Ask about their worries.,|,"There are so many treats I'd like to make, but I've had some trouble finding the ingredients lately.",|,Agree.,|
+Mercedes,|,Ask about their family.,|,The time I spent living with my mother and brother were some of the most precious moments in my life.,|,Ask for more details.,|
+Mercedes,|,Ask about memories of the past.,|,My brother has quite the sweet tooth. I'm sure he gets it from our mother.,|,Laugh.,|
+Mercedes,|,Ask about their friends.,|,"I don't like fighting, but my friends give me the strength to keep pushing forward.",|,Sympathize.,|
+Mercedes,|,Ask about preferred fighting style.,|,"I can lead the charge if I need to, but I much prefer to stay back to support everyone and heal their wounds.",|,Commend that.,|
+Mercedes,|,Ask what they think of you.,|,Please take care of yourself. And tell me right away if you ever get hurt.,|,Express gratitude.,|
+Mercedes,|,Ask what they think of you.,|,Not many people invite me out like this. I'm glad I have the chance to be so close with you.,|,Agree to that.,|
+Mercedes,|,Ask about any personal news.,|,"I'm great at making sweets, but recently I've tried to expand my horizons into savory food too. It...hasn't gone very well.",|,Think about why that is.,|
+Mercedes,|,Ask about any personal news.,|,"Oh, I learned some new magic the other day! I'm sure it will prove very useful.",|,Express high hopes for it.,|
+Annette,|,Ask about their likes.,|,"I love studying! And I love helping other people study too! There's no thrill quite like learning something new, don't you think?",|,Agree.,|
+Annette,|,Ask about their dislikes.,|,I've always hated the dark. It's scary not knowing what else is there in the room with you.,|,Sympathize.,|
+Annette,|,Ask about dreams for the future.,|,"Hm, there are a lot of things I want to try. Ooh, maybe I could be a magic teacher!",|,Offer encouragement.,|
+Annette,|,Ask about their worries.,|,"There was this book back at the Garreg Mach library that I always wanted to read. I never got the chance before it shut down, though.",|,Sympathize.,|
+Annette,|,Ask about their family.,|,"I know he doesn't look it, but my father's a great cook! You should ask him to make you something.",|,Ask for more details.,|
+Annette,|,Ask about memories of the past.,|,I remember how proud my father looked the first time I ever used magic. That's what made me want to keep learning.,|,Smile.,|
+Annette,|,Ask about their friends.,|,Everyone's working so hard to reach their goals. It makes me feel like I've got to work extra hard too!,|,Get competitive over it.,|
+Annette,|,Ask about preferred fighting style.,|,"Magic, I guess. But I'd rather not fight in the first place if I can avoid it.",|,Nod.,|
+Annette,|,Ask what they think of you.,|,"I trust you and all...but please don't sing my songs in front of other people again, OK?",|,Promise.,|
+Annette,|,Ask what they think of you.,|,What are you going to do once the war's over? I...hope you settle down in the Kingdom.,|,Blush.,|
+Annette,|,Ask about any personal news.,|,I was cooking the other day and accidentally dumped in way too much honey. You couldn't even tell what I was trying to make anymore.,|,Give advice.,|
+Annette,|,Ask about any personal news.,|,I saw some rare fruit for sale over in town the other day! I wonder if there's something good I can whip up with it.,|,Ask for more details.,|
+Ingrid,|,Ask about their likes.,|,"Knights, I suppose. I do what I can to live like one. And I hope to die like one too...when the time comes.",|,Be silent.,|
+Ingrid,|,Ask about their dislikes.,|,I simply cannot stand lazy people. But those who keep themselves constantly busy aren't much better.,|,Give a rueful smile.,|
+Ingrid,|,Ask about dreams for the future.,|,I have always dreamt of being a knight. But now I know it will never be.,|,Act encouraging.,|
+Ingrid,|,Ask about their worries.,|,"I realized recently that I'm not cut out for desk work. But then, what will I do in peacetime?",|,Give advice.,|
+Ingrid,|,Ask about their family.,|,"Have you ever met my parents, or my brothers? You've likely seen them around Fhirdiad.",|,Ask for more details.,|
+Ingrid,|,Ask about memories of the past.,|,My friends and I used to explore the countryside together when we were young. I dearly miss those days.,|,Smile.,|
+Ingrid,|,Ask about their friends.,|,I won't let myself hold everyone back. I must train even harder.,|,Agree.,|
+Ingrid,|,Ask about preferred fighting style.,|,"House Galatea is famed for its formidable pegasus brigade. It's only natural that's how I prefer to fight, myself.",|,Ask her to teach you.,|
+Ingrid,|,Ask what they think of you.,|,You've won countless battles in support of His Majesty. Your name is known far and wide across the Kingdom.,|,Be thrilled.,|
+Ingrid,|,Ask what they think of you.,|,I have so much fun when I'm with you. I can't help but talk on and on.,|,Sympathize.,|
+Ingrid,|,Ask about any personal news.,|,"Recently, some people from Duscur helped us cultivate our land. It felt...strange.",|,Smile.,|
+Ingrid,|,Ask about any personal news.,|,I've been working with the trainees of late. I hope I'm not too strict on them.,|,Give advice.,|
+Lorenz,|,Ask about their likes.,|,"I adore anything that has beauty. In terms of flowers, I am particularly fond of red roses.",|,Commend that.,|
+Lorenz,|,Ask about their dislikes.,|,"While there are not many things I dislike, I cannot say I am fond of insects. I detest their squirmy legs.",|,Act dependable.,|
+Lorenz,|,Ask about dreams for the future.,|,"I want to work for the sake of Leicester and all of Fódlan, and to be remembered in the annals of history.",|,Express admiration.,|
+Lorenz,|,Ask about their worries.,|,"My ideals are rather lofty, so trying to reach them feels like a constant struggle up a steep path. But such is my life.",|,Offer encouragement.,|
+Lorenz,|,Ask about their family.,|,"I am proud of my father and aspire to be like him, but that does not mean I will tread the same path.",|,Be impressed.,|
+Lorenz,|,Ask about memories of the past.,|,"I briefly attended the school of sorcery in Fhirdiad some time ago, but had to withdraw due to certain circumstances.",|,Say you're sad to hear that.,|
+Lorenz,|,Ask about their friends.,|,I expect my friends to act with decorum at all times. Just because we are close does not mean one should overstep their bounds.,|,Commend that.,|
+Lorenz,|,Ask about preferred fighting style.,|,Fighting styles requiring brute strength do not suit me. I would much prefer to use magic to attain a swift victory.,|,Say you get it.,|
+Lorenz,|,Ask what they think of you.,|,"I have come to appreciate the full extent of your abilities. However, I ask that you refrain from undertaking those duties belonging to the nobility.",|,Acquiesce.,|
+Lorenz,|,Ask what they think of you.,|,"Though we occupy different social positions, I believe we are also friends capable of supporting one another.",|,Reach out and commiserate.,|
+Lorenz,|,Ask about any personal news.,|,Lately I have had fewer opportunities to make new acquaintances. I am anxious as to whether I shall ever find a suitable spouse.,|,Offer encouragement.,|
+Lorenz,|,Ask about any personal news.,|,"I used to allow myself to get bogged down with trivialities, but I have learned to see the forest for the trees.",|,Let that sink in for a moment.,|
+Raphael,|,Ask about their likes.,|,"I like meat, especially when I can share it with my friends.",|,Sympathize.,|
+Raphael,|,Ask about their dislikes.,|,"Keeping track of the itty-bitty details really isn't my thing. I'm more of a ""close enough"" kinda guy.",|,Get competitive over it.,|
+Raphael,|,Ask about dreams for the future.,|,"I've got some stuff I wanna do, sure. But I'm mostly good as long as my family and friends are happy.",|,Smile.,|
+Raphael,|,Ask about their worries.,|,"Worrying only makes you extra hungry, right? So I try not to think about stuff like that.",|,Commend that.,|
+Raphael,|,Ask about their family.,|,I wanna make this world a place where my little sis can live however she wants. That's why I'm fighting.,|,Applaud that.,|
+Raphael,|,Ask about memories of the past.,|,I used to think I was gonna be a merchant like my folks. But I've got a bad head for numbers and stuff.,|,Get competitive over it.,|
+Raphael,|,Ask about their friends.,|,Meals always taste better when you share 'em with friends.,|,Reach out and commiserate.,|
+Raphael,|,Ask about preferred fighting style.,|,Too much thinking hurts my head. I'd rather get out there and punch stuff!,|,Give a pep talk.,|
+Raphael,|,Ask what they think of you.,|,"You always try real hard, and I think that's great. Just gotta make sure you don't leave me in the dust!",|,Get competitive over it.,|
+Raphael,|,Ask what they think of you.,|,I'm glad you're my friend. It's fun coming up with different meals together.,|,Be pleased.,|
+Raphael,|,Ask about any personal news.,|,Things aren't going so well. I've been too busy to get some good training in.,|,Offer encouragement.,|
+Raphael,|,Ask about any personal news.,|,"Never mind me, what's been up with you? You won't get any stronger if you slack on your training, y'know.",|,Give a pep talk.,|
+Ignatz,|,Ask about their likes.,|,"I love anything that's beautiful. Oh, and I'm interested in historical buildings as well.",|,Lean forward in excitement.,|
+Ignatz,|,Ask about their dislikes.,|,I don't handle lightning well. I'm always terrified it might strike me.,|,Sympathize.,|
+Ignatz,|,Ask about dreams for the future.,|,I'm not sure. Right now I like imagining how things will be once the war is over and there's nothing tying me down.,|,Be shocked.,|
+Ignatz,|,Ask about their worries.,|,"It might not seem this way, but I honestly don't have that many worries. I'm usually prepared for the worst.",|,Express admiration.,|
+Ignatz,|,Ask about their family.,|,"My father says that if trade ceases, our home will wither away. That's why he's determined to continue working during the war.",|,Ask his thoughts.,|
+Ignatz,|,Ask about memories of the past.,|,An acquaintance of mine once complimented my art. I don't think I've ever felt so happy.,|,Smile.,|
+Ignatz,|,Ask about their friends.,|,"War is always terrible, but I feel lucky to have met so many wonderful friends along the way.",|,Reach out and commiserate.,|
+Ignatz,|,Ask about preferred fighting style.,|,Let's just say my forte is providing backup.,|,Commend that.,|
+Ignatz,|,Ask what they think of you.,|,It's amazing that you've been a mercenary for so long. I don't think I'd be able to do that.,|,Laugh.,|
+Ignatz,|,Ask what they think of you.,|,I'd like to paint a picture of you fighting. Would that be all right?,|,Act dependable.,|
+Ignatz,|,Ask about any personal news.,|,"Every time I go into battle, I'm painfully aware of how inadequate I am.",|,Dispute that.,|
+Ignatz,|,Ask about any personal news.,|,"My older brother sent me a fascinating book that I've been reading whenever I have the time. You could borrow it too, if you'd like.",|,Ask to borrow it.,|
+Lysithea,|,Ask about their likes.,|,"I like can...canopies. Yes, tree canopies are just so lush, don't you agree?",|,Be shocked.,|
+Lysithea,|,Ask about their dislikes.,|,"I hate gho...er, goatees. Yes. If you're not going to grow a full beard, just shave it off, I always say.",|,Be impressed.,|
+Lysithea,|,Ask about dreams for the future.,|,"As long as my parents can live out the rest of their years in peace, then...I'll be fine with whatever happens.",|,Act dependable.,|
+Lysithea,|,Ask about their worries.,|,I'd rather study and get stronger than waste time fretting.,|,Get competitive over it.,|
+Lysithea,|,Ask about their home.,|,"Apparently Ordelia territory used to have a lot of fertile land, but that's not the case now.",|,Suggest you make it fertile again.,|
+Lysithea,|,Ask about memories of the past.,|,"Ever since I can remember, the Empire... No, let's not talk about that today.",|,Talk about something else.,|
+Lysithea,|,Ask about their friends.,|,I'm grateful for all the friends I have now. Even if I never tell them that.,|,Give advice.,|
+Lysithea,|,Ask about preferred fighting style.,|,"Obviously I'm incredibly skilled in magic, but I also have a talent for coming up with clever strategies.",|,Commend that.,|
+Lysithea,|,Ask what they think of you.,|,"You don't bear a Crest, right? I wonder who you really are.",|,Look confused.,|
+Lysithea,|,Ask what they think of you.,|,"I'm sure you have your fair share of problems, but they never seem to faze you.",|,Be dispirited.,|
+Lysithea,|,Ask about any personal news.,|,"Nothing has changed to speak of. I'm doing well, as you can clearly see.",|,Get competitive over it.,|
+Lysithea,|,Ask about any personal news.,|,I have no idea how to even answer such a vague question.,|,Offer encouragement.,|
+Marianne,|,Ask about their likes.,|,"I don't mind taking care of horses. In fact, I wish I could do that for the rest of my life.",|,Commend that.,|
+Marianne,|,Ask about their dislikes.,|,I'm not very good at small talk. I never know what to say.,|,Smile.,|
+Marianne,|,Ask about dreams for the future.,|,"My adoptive father has expectations for me, but honestly, I'm useless.",|,Smile.,|
+Marianne,|,Ask about their worries.,|,I still feel like I'm of no use to any of you. I wish there was something I could do.,|,Reach out and commiserate.,|
+Marianne,|,Ask about their family.,|,My adoptive father is known as Leicester's greatest orator. But I'm the complete opposite.,|,Offer encouragement.,|
+Marianne,|,Ask about memories of the past.,|,"I've lived my whole life trying to avoid people. Oh, I'm sorry. I always talk about such gloomy things.",|,Laugh.,|
+Marianne,|,Ask about their friends.,|,I feel incredibly blessed to have people who think of me as their friend.,|,Act dependable.,|
+Marianne,|,Ask about preferred fighting style.,|,I'm not a very talented fighter. But I hope to at least heal everyone's wounds...,|,Express gratitude.,|
+Marianne,|,Ask what they think of you.,|,Have you ever wanted to hide your mysterious power?,|,Acknowledge it.,|
+Marianne,|,Ask what they think of you.,|,You've taught me a lot. I hope I can become more like you.,|,Extend a challenge.,|
+Marianne,|,Ask about any personal news.,|,"Recently, Dorte—he's one of the horses—has been in a bad mood. I wonder if he's tired.",|,Act dependable.,|
+Marianne,|,Ask about any personal news.,|,My adoptive father often sends me letters. At least he seems concerned about me.,|,Smile.,|
+Hilda,|,Ask about their likes.,|,"I love making accessories. I can make something for you too, if you want.",|,Get competitive over it.,|
+Hilda,|,Ask about their dislikes.,|,"I don't like the cold, but being hot is way worse. I can't stand getting all sweaty and gross.",|,Sympathize.,|
+Hilda,|,Ask about dreams for the future.,|,I just wanna live my life doing what I want. I wish I could make accessories for a living.,|,Offer encouragement.,|
+Hilda,|,Ask about their worries.,|,There's not a lot that weighs on my mind. I guess I've been really lucky that way.,|,Ask for more details.,|
+Hilda,|,Ask about their family.,|,"My brother's so amazing that I don't have to inherit our family title, even though I'm the one with a Crest.",|,Be doubtful.,|
+Hilda,|,Ask about memories of the past.,|,"I used to play with my brother and Baltie a lot. I wasn't afraid of anything when they were around, not even monsters.",|,Be impressed.,|
+Hilda,|,Ask about their friends.,|,It's great to have so many reliable friends. It means they can handle all the annoying jobs.,|,Be confounded.,|
+Hilda,|,Ask about preferred fighting style.,|,"I'm a real weakling, you know? So I like to hang back and cheer people on rather than jump into the fray.",|,Laugh.,|
+Hilda,|,Ask what they think of you.,|,"You're not the type to sweat the little things, are you? Me neither. I think that's why we get along.",|,Shrug.,|
+Hilda,|,Ask what they think of you.,|,"I know you're strong and all, but there's something about you that seems a little reckless.",|,Express gratitude.,|
+Hilda,|,Ask about any personal news.,|,I don't have nearly enough time to do all the stuff I want to do.,|,Nod.,|
+Hilda,|,Ask about any personal news.,|,I feel like I have a lot fewer guy friends now that my brother's constantly hanging around.,|,Agree.,|
+Leonie,|,Ask about their likes.,|,"I've been hunting ever since I was little, so it's more than a hobby to me. It's a part of my life.",|,Get competitive over it.,|
+Leonie,|,Ask about their dislikes.,|,I've hated spiders ever since one bit me when I was a kid.,|,Act dependable.,|
+Leonie,|,Ask about dreams for the future.,|,I wanna be a first-rate mercenary with a cool-sounding nickname someday.,|,Reassure her.,|
+Leonie,|,Ask about their worries.,|,Hmm. I guess I'm worried that I haven't made a name for myself as a mercenary yet.,|,Commend that.,|
+Leonie,|,Ask about their family.,|,"My father was the main hunter in our village. As was my grandfather, great-grandfather, and probably even great-great-grandfather.",|,Be impressed.,|
+Leonie,|,Ask about memories of the past.,|,I liked living in my village. Back then I didn't even realize how poor my family was.,|,Ask for more details.,|
+Leonie,|,Ask about their friends.,|,"Sure, I've got friends who help me out, but I also see some of them as rivals.",|,Join the competition.,|
+Leonie,|,Ask about preferred fighting style.,|,I follow Captain Jeralt's method—use whatever means necessary to win.,|,Give a rueful smile.,|
+Leonie,|,Ask what they think of you.,|,"You've been a mercenary longer than I have, so I'd like to learn from you.",|,Act dependable.,|
+Leonie,|,Ask what they think of you.,|,"It's hard to pick up techniques from you, since you use that strange power and all.",|,Be dispirited.,|
+Leonie,|,Ask about any personal news.,|,"Well, at least in the army we don't have to worry where our next meal's coming from.",|,Let that sink in for a moment.,|
+Leonie,|,Ask about any personal news.,|,"I used to feel like I made a lot of progress every time I trained, but now it's like I'm stuck in a rut.",|,Speculate.,|
+Seteth,|,Ask about their likes.,|,Did you know I compose fables in my spare time? I used to read them to the children at the monastery.,|,Express admiration.,|
+Seteth,|,Ask about their dislikes.,|,"I despise half-hearted efforts. If something is worth doing, it is worth giving it your all!",|,Commend that.,|
+Seteth,|,Ask about dreams for the future.,|,"So long as I can fulfill my duty when the time comes, that is sufficient.",|,Act dependable.,|
+Seteth,|,Ask about their worries.,|,"I have no time to spare ruminating upon my personal tribulations. Rather, I must focus all my attention towards our surviving this war.",|,Give a pep talk.,|
+Seteth,|,Ask about their family.,|,My dear sister Flayn has a troubling physical ailment. I often find myself reminding her not to overexert herself.,|,Follow up with concern.,|
+Seteth,|,Ask about memories of the past.,|,"I had a wife once. I lost her long ago, but her smile remains in my mind to this very day.",|,Be envious.,|
+Seteth,|,Ask about their friends.,|,"I once stood beside one I could call a true friend. I trust he is still out there somewhere, alive and well...",|,Let that sink in for a moment.,|
+Seteth,|,Ask about preferred fighting style.,|,"While personal prowess is important, clever strategic maneuvering is what makes or breaks a battle.",|,Give a pep talk.,|
+Seteth,|,Ask what they think of you.,|,I was not expecting you to invite me out like this. It appears there is yet much I do not understand about you.,|,Laugh.,|
+Seteth,|,Ask what they think of you.,|,"Were it not for that mysterious power of yours, perhaps... No, forgive me. I should not say such things.",|,Act dependable.,|
+Seteth,|,Ask about any personal news.,|,"I remain as busy as ever. Even during such times, the archbishop works tirelessly—and so must I.",|,Express admiration.,|
+Seteth,|,Ask about any personal news.,|,There is no time for weariness—though I must admit a desire to decompress now and again.,|,Act dependable.,|
+Flayn,|,Ask about their likes.,|,I absolutely adore lively places. I fear I have lived a quiet and lonely life for far too long now.,|,Be shocked.,|
+Flayn,|,Ask about their dislikes.,|,"I dislike sleeping—or rather, it frightens me. I always fear that once I drift off, I will be unable to properly awaken.",|,Cheer up.,|
+Flayn,|,Ask about dreams for the future.,|,I have long wished for a friend who would confide in me regarding matters of the heart. Perhaps someday...,|,Reassure her.,|
+Flayn,|,Ask about their worries.,|,"I am always concerned about my brother. Ironically, this is because he is far too concerned about me.",|,Be envious.,|
+Flayn,|,Ask about their home.,|,My brother has strictly forbade me from divulging any information as to my place of origin.,|,Let that sink in for a moment.,|
+Flayn,|,Ask about memories of the past.,|,"When my mother was yet alive, we used to live a carefree life somewhere not far from the sea.",|,Smile.,|
+Flayn,|,Ask about their friends.,|,Do you think the others consider me as one of their friends?,|,Nod emphatically.,|
+Flayn,|,Ask about preferred fighting style.,|,"I am quite adept with healing magic, so if you ever find yourself injured, do not hesitate to call for me.",|,Promise.,|
+Flayn,|,Ask what they think of you.,|,"My brother warned me to stay away from you, so let's keep today between us, yes?",|,Express gratitude.,|
+Flayn,|,Ask what they think of you.,|,"Though my brother remains wary, I choose to believe in you.",|,Act dependable.,|
+Flayn,|,Ask about any personal news.,|,"Though I still have my share of everyday concerns, I remain the very picture of health!",|,Get competitive over it.,|
+Flayn,|,Ask about any personal news.,|,"My brother's instructions do not permit me to travel into town, which thus limits my daily schedule.",|,Offer encouragement.,|
+Catherine,|,Ask about their likes.,|,"Training and sparring are great and all, but I also like listening to musicians play at feasts and banquets.",|,Sympathize.,|
+Catherine,|,Ask about their dislikes.,|,I can't stand bad food and cheap booze. But I save my grievances for the battlefield.,|,Agree.,|
+Catherine,|,Ask about dreams for the future.,|,My only wish is to protect Lady Rhea until I draw my last breath.,|,Nod emphatically.,|
+Catherine,|,Ask about their worries.,|,"I have my share of problems, but nothing worth complaining about.",|,Laugh.,|
+Catherine,|,Ask about their family.,|,"My father entrusted me with Thunderbrand, and I intend to live up to that honor.",|,Offer encouragement.,|
+Catherine,|,Ask about memories of the past.,|,"I met a person at the Officers Academy who I thought could be my partner, but...it didn't work out.",|,Ask for more details.,|
+Catherine,|,Ask about their friends.,|,"There are plenty of skilled fighters in both the knights and the Kingdom's army, which means I always have a sparring partner.",|,Extend a challenge.,|
+Catherine,|,Ask about preferred fighting style.,|,I usually just charge headlong into the enemy ranks and start swinging. It tends to work well enough.,|,Say you get it.,|
+Catherine,|,Ask what they think of you.,|,"Come on, let's spar! I want to see what you've got!",|,Agree to that.,|
+Catherine,|,Ask what they think of you.,|,"After the war, will you return to mercenary work? Well, whatever you do, just don't have any regrets.",|,Express gratitude.,|
+Catherine,|,Ask about any personal news.,|,"I'm fighting here because Lady Rhea told me to, but it would be nice to see her face once in a while.",|,Cheer up.,|
+Catherine,|,Ask about any personal news.,|,"When you fight for a living, it tempers you like steel. But that's not always a bad thing.",|,Laugh.,|
+Shamir,|,Ask about their likes.,|,Tough one. How about the moment my arrow pierces its target?,|,Say you get it.,|
+Shamir,|,Ask about their dislikes.,|,I can't handle insects with too many legs. No thanks. Just squish them good and walk away.,|,Wince.,|
+Shamir,|,Ask about dreams for the future.,|,I'd like to find a place where I really belong. Here? Now? It doesn't feel right.,|,Sympathize.,|
+Shamir,|,Ask about their worries.,|,"How about all the people out there who love sweets, and the way they always insist on sharing?",|,Sympathize.,|
+Shamir,|,Ask about their home.,|,"Fódlan's a strange place. Of course, you'd probably think Dagda was strange, too.",|,Ask for more details.,|
+Shamir,|,Ask about memories of the past.,|,I don't remember much. Feels like a lifetime ago.,|,Be silent.,|
+Shamir,|,Ask about their friends.,|,"Considering how few of them have ever fought for a living, I think they're handling themselves quite well.",|,Act dependable.,|
+Shamir,|,Ask about preferred fighting style.,|,I'm guessing I don't need to explain to you why the bow and dagger are my weapons of choice.,|,Follow up with concern.,|
+Shamir,|,Ask what they think of you.,|,You're pretty stoic. I like that about you.,|,Laugh.,|
+Shamir,|,Ask what they think of you.,|,"Since you're my junior, I'm tempted to spoil you. Only tempted, though.",|,Blush.,|
+Shamir,|,Ask about any personal news.,|,I've become a lot...softer than when I was in the knights. I guess I'm fine with it.,|,Reach out and commiserate.,|
+Shamir,|,Ask about any personal news.,|,"Never mind me, how are you? I see you staring off into space all the time. I think you have a problem.",|,Be silent.,|
+Manuela,|,Ask about their likes.,|,"I still love to sing, even though my voice isn't quite as robust as it was in my younger days.",|,Give a counterargument.,|
+Manuela,|,Ask about their dislikes.,|,"Ugh, why do hangovers even exist? I wish we could all just sit down and drink happily every after.",|,Sympathize.,|
+Manuela,|,Ask about dreams for the future.,|,My dream of becoming a diva already came true. Now all that's left is to live out the rest of my days with that special someone—wherever they are.,|,Nod.,|
+Manuela,|,Ask about their worries.,|,My luck with men is the worst! Or maybe it's just my taste in men that's the problem...,|,Dispute that.,|
+Manuela,|,Ask about their family.,|,"My parents inspired me to become a diva, and I'm forever grateful to them for it.",|,Ask for more details.,|
+Manuela,|,Ask about memories of the past.,|,It took a lot of hard work to stay on top as a diva. I can't say I remember that part fondly.,|,Express admiration.,|
+Manuela,|,Ask about their friends.,|,"Our opera company was a real back-biting, hair- pulling, eye-gouging sort of place. I'm so thankful I don't have to face that kind of thing here.",|,Say she really cares for her friends.,|
+Manuela,|,Ask about preferred fighting style.,|,"I always sought the spotlight on stage, but prefer supporting roles on the battlefield. That way I can help everyone else be at their best.",|,Nod.,|
+Manuela,|,Ask what they think of you.,|,You could've been one of my students... Rather a shame that's not how things turned out.,|,Laugh.,|
+Manuela,|,Ask what they think of you.,|,"I know some people still suspect your motives, but rest assured I'm not one of them!",|,Act dependable.,|
+Manuela,|,Ask about any personal news.,|,"You want to know how I'm doing? In that case, I'd be more than happy to tell you over drinks tonight...",|,Admonish.,|
+Manuela,|,Ask about any personal news.,|,"If I'm going to drink, I want to let my hair down and have fun! But there hasn't been a lot of that lately.",|,Give a pep talk.,|
+Jeralt,|,Ask about their likes.,|,There's no finer pleasure than sharing a drink with your friends.,|,Be pleased.,|
+Jeralt,|,Ask about their dislikes.,|,"Oh, I can't stand shaving. My blade's always slipping and cutting up my face.",|,Laugh.,|
+Jeralt,|,Ask about dreams for the future.,|,Me? Dreams for the future? Haha! Let's just say sharing a drink with my kid and move on.,|,Smile and nod.,|
+Jeralt,|,Ask about their worries.,|,"Well, I do my best to avoid the Knights of Seiros— Lady Rhea specifically.",|,Express worry.,|
+Jeralt,|,Ask about their family.,|,"These days, I sometimes see the kid cracking a smile. Never used to do that—maybe it was my fault.",|,Give a counterargument.,|
+Jeralt,|,Ask about memories of the past.,|,"You want to hear about the old days? Sure thing! Adventures, tales of bravery, I've got them all.",|,Be unsure.,|
+Jeralt,|,Ask about their friends.,|,"If nothing else, a leader has to keep their people fed.",|,Get competitive over it.,|
+Jeralt,|,Ask about preferred fighting style.,|,They call me the Blade Breaker. I bet you can guess why.,|,Be envious.,|
+Jeralt,|,Ask what they think of you.,|,"That group you ran with, Berling's Mercenaries? They were good—really good.",|,Let that sink in for a moment.,|
+Jeralt,|,Ask what they think of you.,|,You and me? We're mercs. We're used to breaking bread today with an enemy from yesterday.,|,Act dependable.,|
+Jeralt,|,Ask about any personal news.,|,My kid's still pretty green—except when it comes to eating. I've never seen anyone pack it away like that.,|,Laugh.,|
+Jeralt,|,Ask about any personal news.,|,"I stopped by my hometown recently. Everything was gone, and I mean down to the very last shack. All I could do was laugh.",|,Be silent.,|
+Jeritza,|,Ask about their likes.,|,Fights to the death. Also...sweets.,|,Give a wordless nod.,|
+Jeritza,|,Ask about their dislikes.,|,I detest alcohol. And parties.,|,Sympathize.,|
+Jeritza,|,Ask about dreams for the future.,|,A dream of the future? Hmph! I could never have such a thing.,|,Think about that.,|
+Jeritza,|,Ask about their worries.,|,"When the war ends and there is no one left to kill, what will become of the evil inside me?",|,Follow up with concern.,|
+Jeritza,|,Ask about their family.,|,I love my mother and sister. But even they are not safe from the evil within.,|,Keep listening.,|
+Jeritza,|,Ask about memories of the past.,|,"The long-ago days I spent with my mother and sister were hard. And yet, I was happy.",|,Keep listening.,|
+Jeritza,|,Ask about their friends.,|,"There are skilled fighters in our ranks, yet none who will fight me to the death. How frustrating.",|,Agree.,|
+Jeritza,|,Ask about preferred fighting style.,|,There is no style to my swordplay. I merely hack the enemy into pieces.,|,Admire that about him.,|
+Jeritza,|,Ask what they think of you.,|,I am as wary of you as the maggots are. But I don't sense that you intend me harm.,|,Nod.,|
+Jeritza,|,Ask what they think of you.,|,Fight me! Perhaps you will be the one to do it.,|,Promise.,|
+Jeritza,|,Ask about any personal news.,|,I remembered how to make one kind of confection.,|,Commend that.,|
+Jeritza,|,Ask about any personal news.,|,"Some of the recruits show potential. With the proper training, perhaps... Hm.",|,Smile.,|
+Yuri,|,Ask about their likes.,|,"I like a lot about this world, but people who enjoy my cooking are at the top of the list.",|,Sympathize.,|
+Yuri,|,Ask about their dislikes.,|,I hate being made to sing in front of others. Remember that.,|,Take it to heart.,|
+Yuri,|,Ask about dreams for the future.,|,"Oh, my hopes and dreams are not to be taken lightly. If you're lucky, I'll tell you about them someday.",|,Offer encouragement.,|
+Yuri,|,Ask about their worries.,|,What am I worried about? Easy—the ride back. I sure wish I could ride a horse without hating it.,|,Express worry.,|
+Yuri,|,Ask about their family.,|,All I care about is that my mother can live out her remaining years in comfort.,|,Smile.,|
+Yuri,|,Ask about memories of the past.,|,"If you want to know my past, figure it out yourself. How much you'll actually manage to dig up, though... Heh. Well, I guess that's up to you.",|,Rise to the challenge.,|
+Yuri,|,Ask about their friends.,|,"Whether you're leading an organization or an army, the top priority is stomping out infighting.",|,Agree.,|
+Yuri,|,Ask about preferred fighting style.,|,I can use any blade that's fit to throw—and I never miss.,|,Lend him yours.,|
+Yuri,|,Ask what they think of you.,|,"So long as we fight for the same side, I hope you and me keep getting to know each other.",|,Give a wordless nod.,|
+Yuri,|,Ask what they think of you.,|,You still hung up on calling me by my real name? Give it a rest already.,|,Apologize.,|
+Yuri,|,Ask about any personal news.,|,"At the end of the day, you can only count on yourself. Don't like it? Then change it.",|,Sympathize.,|
+Yuri,|,Ask about any personal news.,|,I didn't get to eat any sweets when I was a kid. It probably explains why I love the things now.,|,Laugh.,|
+Balthus,|,Ask about their likes.,|,"My likes? Ah! Money, fighting, women, and gambling—and not necessarily in that order.",|,Give a rueful smile.,|
+Balthus,|,Ask about their dislikes.,|,Probably bounty hunters. I'm too lazy to really worry about much else.,|,Ask for more details.,|
+Balthus,|,Ask about dreams for the future.,|,"Oh, that's easy. I wanna become Fódlan's Superhuman King of Grappling! I already hold the title in Leicester, see?",|,Commend that.,|
+Balthus,|,Ask about their worries.,|,"Can't make money if I don't gamble, and can't gamble if I don't make money. It's a tough old world.",|,Let that sink in for a moment.,|
+Balthus,|,Ask about their home.,|,"You came from a mountain village, right? My mom did as well, so I guess that means we're sort of alike.",|,Agree.,|
+Balthus,|,Ask about memories of the past.,|,"You talking about women? Because if not, most of my memories are of Holst. Well, and Hilda, I suppose.",|,Be confounded.,|
+Balthus,|,Ask about their friends.,|,"There's too many serious people around here. I'd rest easier if there were more oddballs, you know?",|,Act dependable.,|
+Balthus,|,Ask about preferred fighting style.,|,Are you kidding? Have you seen these fists? Though I guess I don't mind swinging a weapon occasionally.,|,Commend that.,|
+Balthus,|,Ask what they think of you.,|,"Wait, you actually care what other people think about you? Huh, that's surprising.",|,Laugh.,|
+Balthus,|,Ask what they think of you.,|,"Ah, you're just my type—and a great fighter to boot!",|,Rise to the challenge.,|
+Balthus,|,Ask about any personal news.,|,"Not bad. I get to bust as many skulls as I want, which is great for blowing off steam.",|,Give a pep talk.,|
+Balthus,|,Ask about any personal news.,|,"Actually, today's kinda rough. Up a little too late last night, if you know what I mean...",|,Be envious.,|
+Constance,|,Ask about their likes.,|,"Lamenting the past is something I've grown quite fond of lately. It is a poor habit, I know.",|,Dispute that.,|
+Constance,|,Ask about their dislikes.,|,"I dislike all of the lovely people and things in this world, as they remain forever beyond my reach.",|,Be doubtful.,|
+Constance,|,Ask about dreams for the future.,|,"As one who has lost everything, I no longer permit myself to hold dreams or aspirations.",|,Act dependable.,|
+Constance,|,Ask about their worries.,|,"There is no merit in expressing my worries, nor in you suffering them. However, I would gladly listen to your concerns, if you like.",|,Cheer up.,|
+Constance,|,Ask about their home.,|,It was a beautiful port town with a thriving fishing industry and merchant ships hailing from Brigid and beyond.,|,Follow up with concern.,|
+Constance,|,Ask about memories of the past.,|,I spent some time under Garreg Mach in Abyss. I found it to be strangely...comforting.,|,Ask for more details.,|
+Constance,|,Ask about their friends.,|,"Oh, but they are a delightful bunch. Their blinding radiance almost brings a smile to my face.",|,Laugh.,|
+Constance,|,Ask about preferred fighting style.,|,I have been studying magic for most of my life. Perhaps I might even be useful in battle one day...,|,Commend that.,|
+Constance,|,Ask what they think of you.,|,"Oh, I'm certain you regard me similarly to how I regard you.",|,Blush.,|
+Constance,|,Ask what they think of you.,|,You could not possibly find delight in learning the meaningless jumble of my thoughts.,|,Act dependable.,|
+Constance,|,Ask about any personal news.,|,You think there's a chance I might be doing well? How silly of you.,|,Look confused.,|
+Constance,|,Ask about any personal news.,|,I feel unusually fine today—although that may well be the sunstroke talking.,|,Laugh.,|
+Hapi,|,Ask about their likes.,|,"Well, I like looking at the night sky, but I usually go to bed early, so I don't do it much.",|,Laugh.,|
+Hapi,|,Ask about their dislikes.,|,Feels like there are knight-type people everywhere I go. I'm always worried they're going to talk down to me.,|,Give advice.,|
+Hapi,|,Ask about dreams for the future.,|,"I think my dream right now is... Well, to figure out what my dream is, I guess.",|,Offer encouragement.,|
+Hapi,|,Ask about their worries.,|,"I've given up on so many things, there's not much left for me to worry about.",|,Talk about something else.,|
+Hapi,|,Ask about their family.,|,I haven't seen a single person from my village in ages. Maybe I'll go back to visit someday.,|,Ask for more details.,|
+Hapi,|,Ask about memories of the past.,|,You wanna talk about the time I was kidnapped by some lady? It wasn't just me. There were a bunch of us.,|,Cheer up.,|
+Hapi,|,Ask about their friends.,|,"They do leave me scratching my head sometimes, but I think I get along with them well enough.",|,Ask what she wants from them.,|
+Hapi,|,Ask about preferred fighting style.,|,"Yeah, I'm pretty versatile. Sort of a jack-of-all- trades, I guess.",|,Laugh.,|
+Hapi,|,Ask what they think of you.,|,"What do I think about you? Well, you're a fine mercenary, I guess. Aw, I'm just kidding.",|,Give a pep talk.,|
+Hapi,|,Ask what they think of you.,|,I hope you find answers to your questions and can put all of this behind you.,|,Follow up with concern.,|
+Hapi,|,Ask about any personal news.,|,"They say there's no time to relax during war, but since I've never been able to relax, it doesn't really affect me one way or the other.",|,Give a counterargument.,|
+Hapi,|,Ask about any personal news.,|,I often think about what it means to be free. Really and truly free. What do you think?,|,Consider that.,|
+Monica,|,Ask about their likes.,|,"I mostly like to read books and perform research. Knowledge is a powerful weapon, you know!",|,Get competitive over it.,|
+Monica,|,Ask about their dislikes.,|,"Between the two of us, I'm quite awful at writing letters. I find reports to be far easier.",|,Be shocked.,|
+Monica,|,Ask about dreams for the future.,|,"My wish for the future is that Her Majesty will unify Fódlan, enact reforms, and make her dream a reality.",|,Give a pep talk.,|
+Monica,|,Ask about their worries.,|,Sometimes I wonder what would've happened if I had...died. Back in the place where I was being held.,|,Be sad.,|
+Monica,|,Ask about their home.,|,Ochs territory? I find it one of the quietest lands in the entire Empire.,|,Be doubtful.,|
+Monica,|,Ask about memories of the past.,|,"If we start discussing memories of Her Majesty, we'll need more than one night to finish.",|,Lean forward in excitement.,|
+Monica,|,Ask about their friends.,|,"Everyone here is so incredible, it can be a little intimidating. After all, I want to be considered worthy to serve at Her Majesty's side.",|,Get competitive over it.,|
+Monica,|,Ask about preferred fighting style.,|,"If it's for Her Majesty, I will use whatever I can get my hands on. Magic just happens to suit me best.",|,Get competitive over it.,|
+Monica,|,Ask what they think of you.,|,"You are a mercenary who has earned Her Majesty's respect. You are nothing more to me than that, and nothing less.",|,Be dispirited.,|
+Monica,|,Ask what they think of you.,|,"I may be somewhat jealous of you, but that's not a problem. We can still work together!",|,Laugh.,|
+Monica,|,Ask about any personal news.,|,Seeing everyone rally around Her Majesty and her cause is enough to move me to tears.,|,Be pleased.,|
+Monica,|,Ask about any personal news.,|,I am exceedingly busy. Even the thought of work tires me out.,|,Give a pep talk.,|
+Rodrigue,|,Ask about their likes.,|,"There's nothing better than sharing a drink with old friends. Though that's more of an adult pastime, I suppose.",|,Laugh.,|
+Rodrigue,|,Ask about their dislikes.,|,"Sweets, if I had to pick something. It's not that I dislike them per se, but I rarely find myself craving such saccharine pleasures.",|,Say you get it.,|
+Rodrigue,|,Ask about dreams for the future.,|,Hmm. The dreams I held dear as a child have either already come true...or never will.,|,Be doubtful.,|
+Rodrigue,|,Ask about their worries.,|,"Fraldarius territory is never far from my thoughts. I know I needn't worry myself, but at times I can't help but do just that.",|,Give advice.,|
+Rodrigue,|,Ask about their family.,|,"My wife and my brother have faced great hardship in my absence, all for the sake of our territory. For their sacrifice, I am forever grateful.",|,Ask for more details.,|
+Rodrigue,|,Ask about memories of the past.,|,"One night when he was far too many flagons of wine deep, the margrave said to Lambert... Ah, my apologies. It would be rude of me to go on.",|,Refuse to drop it.,|
+Rodrigue,|,Ask about their friends.,|,Thinking of all the fine people who chose to fight beside us fills me with nothing but the utmost pride.,|,Straighten up a little taller.,|
+Rodrigue,|,Ask about preferred fighting style.,|,"In my prime, I always used to love engaging the enemy face to face, but as the years pass I've begun to understand the joys of barking orders from the rear.",|,Show that you understand.,|
+Rodrigue,|,Ask what they think of you.,|,I only hope you'll continue to let me assess the extent of your power.,|,Vow to fight hard.,|
+Rodrigue,|,Ask what they think of you.,|,The Kingdom and its army would be nothing now if not for that fateful day you saved His Majesty's life.,|,Give a pep talk.,|
+Rodrigue,|,Ask about any personal news.,|,"I've made efforts to learn some more of Duscur's language of late. Once I've mastered that, I'll move on to the tongue of the Sreng region.",|,Show interest.,|
+Rodrigue,|,Ask about any personal news.,|,"I'm more interested in how you are. Felix hasn't been giving you any trouble, has he?",|,Dispute that.,|
+Holst,|,Ask about their likes.,|,I actually quite enjoy working in the kitchen. Mushroom dishes are my specialty!,|,Be pleased.,|
+Holst,|,Ask about their dislikes.,|,I've no fondness for gambling—I've seen far too many people ruin their lives to go down that path myself.,|,Reach out and commiserate.,|
+Holst,|,Ask about dreams for the future.,|,"Beyond protecting my land and my family, what more can I ask for?",|,Smile.,|
+Holst,|,Ask about their worries.,|,"I try not to worry, at least not about things I can't change. I simply do what I can and keep putting one foot in front of the other!",|,Give a pep talk.,|
+Holst,|,Ask about their family.,|,Watching over my younger sister is both my duty and my entire reason for living.,|,Be confounded.,|
+Holst,|,Ask about memories of the past.,|,"As a youth, I ran with quite the crowd of hooligans. Oh, we were a fearless bunch!",|,Be envious.,|
+Holst,|,Ask about their friends.,|,"If you forge strong relationships with your comrades, you'll fight much more effectively when it counts.",|,Reach out and commiserate.,|
+Holst,|,Ask about preferred fighting style.,|,"Solo charges on horseback were once my specialty, but they tend to make my subordinates nervous, so I try to restrain myself.",|,Reach out and commiserate.,|
+Holst,|,Ask what they think of you.,|,You have a lot of potential. Don't squander it.,|,Give a pep talk.,|
+Holst,|,Ask what they think of you.,|,A Crest does not guarantee strength—you and I will prove that to the world!,|,Champion that cause.,|
+Holst,|,Ask about any personal news.,|,My sister has been cold to me of late. I wonder what it is about me that bothers her.,|,Give advice.,|
+Holst,|,Ask about any personal news.,|,Fighting at the side of youngsters like yourself has been invigorating!,|,Reach out and commiserate.,|
+Gatekeeper,|,Ask about their likes.,|,"Well, I love seeing you all grow and develop, and I also love cheering you on!",|,Express gratitude.,|
+Gatekeeper,|,Ask about their dislikes.,|,I hate it when people die...but that's war for you. Let's all do our best to make sure that doesn't happen!,|,Act dependable.,|
+Gatekeeper,|,Ask about dreams for the future.,|,"When the war is over, I'm planning to get back to my music. Did you know I was in the church band?",|,Offer encouragement.,|
+Gatekeeper,|,Ask about their worries.,|,"Well, I worry about not being taken seriously. Sometimes I wonder if anyone even knows my name.",|,Ask his name.,|
+Gatekeeper,|,Ask about their family.,|,"My parents are in good health. And while I have a lot of younger brothers, I'm easily the most devout of the bunch.",|,Express worry.,|
+Gatekeeper,|,Ask about memories of the past.,|,I ran away from home with nothing but the shirt on my back and took a post at Garreg Mach.,|,Be impressed.,|
+Gatekeeper,|,Ask about their friends.,|,"Each day at the gate, I pray you'll all return safely.",|,Promise.,|
+Gatekeeper,|,Ask about preferred fighting style.,|,"I do have some training with a lance, but I doubt I could match you in combat.",|,Offer encouragement.,|
+Gatekeeper,|,Ask what they think of you.,|,"Everyone trusts you, so you must be pretty great!",|,Give a pep talk.,|
+Gatekeeper,|,Ask what they think of you.,|,(same as above),|,Give a pep talk.,|
+Gatekeeper,|,Ask about any personal news.,|,Nothing to report! How about yourself?,|,Nod.,|
+Gatekeeper,|,Ask about any personal news.,|,(same as above),|,Nod.,|
+none,|,none,|,none,|,none,|
+none,|,none,|,none,|,none,|
+none,|,none,|,none,|,none,|
+none,|,none,|,none,|,none,|
+none,|,none,|,none,|,none,|
+none,|,none,|,none,|,none,|
+none,|,none,|,none,|,none,|
+none,|,none,|,none,|,none,|

@@ -1,0 +1,303 @@
+TALK,,File 14,,,
+,,,,,
+Character?,|,Comment,|,Correct answer?,|
+Byleth M,|,I've always had strange dreams. You?,|,Reveal that you do too.,|
+Byleth M,|,Jeralt's reputation took a big hit after you defeated us.,|,Suggest building it up again.,|
+Byleth M,|,We live in an age of war—but I feel like that's what I'm suited to.,|,Express your doubt about that.,|
+Byleth M,|,I took naturally to the sword from the first moment I held one.,|,Share your own first sword memory.,|
+Byleth M,|,I hope all our allies survive this war.,|,Say you'll all pull through.,|
+Byleth M,|,You're easy to fight for. Your commands are intuitive.,|,Say Byleth is better.,|
+Byleth M,|,"I've had an immense appetite since I was small, but can also go days without eating a thing.",|,Say you feel the same way.,|
+Byleth F,|,I've always had strange dreams. You?,|,Reveal that you do too.,|
+Byleth F,|,Jeralt's reputation took a big hit after you defeated us.,|,Suggest building it up again.,|
+Byleth F,|,We live in an age of war—but I feel like that's what I'm suited to.,|,Express your doubt about that.,|
+Byleth F,|,I took naturally to the sword from the first moment I held one.,|,Share your own first sword memory.,|
+Byleth F,|,I hope all our allies survive this war.,|,Say you'll all pull through.,|
+Byleth F,|,You're easy to fight for. Your commands are intuitive.,|,Say Byleth is better.,|
+Byleth F,|,"I've had an immense appetite since I was small, but can also go days without eating a thing.",|,Say you feel the same way.,|
+Edelgard,|,"Though I don't see them, I know Hubert's people are out there somewhere, watching us.",|,Suggest you look for them.,|
+Edelgard,|,"I thought outings like this were a noble pastime, but I see you're an expert at it as well.",|,Say that you're just acting like one.,|
+Edelgard,|,Do you ever wish you could be completely and utterly alone? It is a daily dream for me.,|,Express concern for her.,|
+Edelgard,|,The sun is so warm on my skin. I see why people pine for it so.,|,Say you're one of those people.,|
+Edelgard,|,There are hunting grounds near Enbarr that the Imperial family uses for outings.,|,Invite her to hunt with you.,|
+Edelgard,|,"Tell me if you see any pretty flowers. Not to pluck, mind you—just to admire.",|,Promise you will.,|
+Edelgard,|,What are you thinking about? You look as if your mind is a dozen leagues away.,|,Say you're thinking about dinner.,|
+Dimitri,|,Consider the terrain we're in. How would you assault a position such as this?,|,Say it depends on the situation.,|
+Dimitri,|,I prefer not to name my horses if I can avoid it. Growing attached only makes their deaths more painful.,|,Say you understand how he feels.,|
+Dimitri,|,"At times, I feel there must be some purpose to the strength I was born bearing.",|,Express your thoughts on the matter.,|
+Dimitri,|,I'm not very comfortable around children. I never know quite what to say or how to act.,|,Help him think of things he can try.,|
+Dimitri,|,I'd like to show you around Fhirdiad if the opportunity arises. I could introduce you to my old friends.,|,Say you're looking forward to it.,|
+Dimitri,|,"I have seen much death, often dealt by my own hand. The idea that one can die with dignity is sadly nothing more than a myth.",|,Say he must always be ready for that.,|
+Dimitri,|,Lady Rhea granted me some wisdom regarding land cultivation the other day. The breadth of her knowledge never ceases to amaze me.,|,Express interest.,|
+Claude,|,You ever get this sudden urge to drop everything and go somewhere far away when work starts piling up?,|,Say you're OK because of Claude.,|
+Claude,|,It's crucial to have a victory feast after a hard-won battle. That kind of ritual keeps people going.,|,Say you should have more feasts.,|
+Claude,|,"The Five Great Lords are all pretty eccentric, but they're exceptionally capable all the same.",|,Question if he's being serious.,|
+Claude,|,I'd love to wander around Derdriu with you someday if we ever get the chance. It's an amazing city.,|,Ask about what it's famous for.,|
+Claude,|,"A lot of people think of foreigners as subhuman somehow, but they're the same flesh and blood as all the rest of us.",|,Say that it's what's inside that counts.,|
+Claude,|,"If Fódlan was a container, Fódlan's Locket would be its lid. It's safe inside, but you can't see what's happening on the outside. You know what I mean?",|,Say that ignorance can bring disaster.,|
+Claude,|,"Everyone's got at least one or two secrets, but you're an open book.",|,Give him an ambiguous smile.,|
+Hubert,|,"When I told Her Majesty about today, she expressed a wish to come along. You should invite her.",|,Suggest you all go together.,|
+Hubert,|,You do love inviting me on excursions. You must be quite fond of them...or me.,|,Laugh.,|
+Hubert,|,"If I were planning to kill me, this would be the perfect opportunity.",|,Purposefully let down your guard.,|
+Hubert,|,Have I ever mentioned how you would fit right in at House Vestra? Heh.,|,Consider the idea.,|
+Hubert,|,Are you ever suddenly struck with a brilliant strategy on expeditions such as this?,|,Propose a competition.,|
+Hubert,|,"In the beginning, there was no goddess in Fódlan. That is scripture, by the way—not sacrilege.",|,Say you've had the same thought.,|
+Hubert,|,"You always seem to be enjoying yourself. Not to say I am miserable, of course.",|,Reply that it goes without saying.,|
+Ferdinand,|,I admire how much effort you put into getting to know us all. I ought to do the same.,|,Say you won't be outdone.,|
+Ferdinand,|,"When I was young, my parents often took me out riding. Ah, but those were better times...",|,Say you're here for him now.,|
+Ferdinand,|,Your horse is so well-behaved. You must have something of a gift with animals.,|,Smile and say it's a special bond.,|
+Ferdinand,|,"Ah, the great horizon calls! Er, my apologies. I do not know what came over me just then.",|,Shout along with him.,|
+Ferdinand,|,"I hope I might escort you about Aegir territory one day. It is a cozy place nestled amidst the most beautiful, tranquil sea.",|,Jokingly ask if you'll live together.,|
+Ferdinand,|,"Fódlan's nobility face a crisis, and I consider it my sacred duty to see us through it.",|,Ask if there's anything you can do.,|
+Ferdinand,|,Hubert cannot abide my involving myself in any underhanded doings. The man needs to lighten up!,|,Say that Hubert is a true friend.,|
+Linhardt,|,Mind if I catch some shut-eye? I feel so safe with you I can't help myself.,|,Wake him with a funny story.,|
+Linhardt,|,"Oh, sorry. I was thinking about you so intently that I lost track of the conversation. What were you saying?",|,Crack a joke.,|
+Linhardt,|,"I thought for certain you would have a Crest, but no. I still find that so strange...",|,Offer to help him research.,|
+Linhardt,|,"Let's rest here a bit longer. Also, horseback riding really should be classified as heavy labor...",|,Wholeheartedly agree.,|
+Linhardt,|,"Have you ever been to Hevring territory? The seat of power sits in a steep valley, and the slopes are simply impossible!",|,Say it'd be perfect for hiding away.,|
+Linhardt,|,"The aristocracy often meets in the Imperial capital, so I recognized many of the other students when I first arrived at the academy.",|,Envy him for having such old friends.,|
+Linhardt,|,I'm fond of the little silences you often get in the middle of conversations.,|,Stay silent.,|
+Caspar,|,"Being in the outdoors really makes me wanna move. Say, how about a run? C'mon, just 20 miles or so!",|,Declare that he won't beat you.,|
+Caspar,|,You're good at pretty much everything. I really respect that.,|,Act cocky.,|
+Caspar,|,"This alone time is fun and all, but it'd be great to invite the whole team out sometime!",|,Suggest you do just that tomorrow.,|
+Caspar,|,"I dunno a thing about the Church of Seiros, but it's never really affected me all that much.",|,Doubt whether he's being truthful.,|
+Caspar,|,"I'm glad I don't have to take over for my father. Not sure if you've noticed this, but I'm not exactly what most people consider ""lord material.""",|,Say he's in his element right now.,|
+Caspar,|,"Sorry, are you bored? I wish I had something more interesting to say.",|,Come up with a fun topic yourself.,|
+Caspar,|,"Haha, whoops! Must be the nature getting to me. Don't worry, I'm not gonna doze off like someone we know.",|,Suggest you get some exercise.,|
+Bernadetta,|,I made us some sweets! Wanna eat them now?,|,Commend her.,|
+Bernadetta,|,I'm a lot more relaxed out here—probably because there aren't any people around to scare me.,|,Sympathize.,|
+Bernadetta,|,The only problem with these outings are all the wide open spaces you keep taking me to.,|,Ask if she wants to look for a cave.,|
+Bernadetta,|,"I'm pretty good at riding horses, and I should be— I didn't have a choice but to learn when I was a kid.",|,Admire her skills.,|
+Bernadetta,|,"You know, this war would be over tomorrow if we all decided to just stay home with the door shut.",|,Ask what exactly she would suggest.,|
+Bernadetta,|,What a great view! I should bring some paints with me next time.,|,Reassure her that you won't watch.,|
+Bernadetta,|,My mother and I used to go on little trips just like this.,|,Ask about memories of her mother.,|
+Dorothea,|,They can't possibly get mad at us for taking a little break every now and again.,|,Suggest it be your little secret.,|
+Dorothea,|,I hear the opera company is doing what they can to lift people's spirits in these dark times.,|,Say you want to help somehow.,|
+Dorothea,|,"Would you cry if something happened to me? I mean, not that anything will, but...I'm curious.",|,Declare that you wouldn't let her die.,|
+Dorothea,|,I sometimes wonder if orphans like me would be better off if the Southern Church had been restored sooner.,|,Say you don't know.,|
+Dorothea,|,You don't seem very concerned with pride. Are all mercenaries like that?,|,Shrug your shoulders.,|
+Dorothea,|,"You are a completely different creature from me, and I never tire of observing you.",|,Laugh and say you feel the same way.,|
+Dorothea,|,"Do you have a dream besides continuing on as a mercenary? I mean, how do you imagine your life after the war?",|,Say you do have dreams.,|
+Petra,|,"We have no horses in Brigid, so riding is still a thing of much newness to me.",|,Ask if they ate them all.,|
+Petra,|,We should be training here in secret! Then we will return stronger and give our friends much surprise.,|,Eagerly suggest you shock them all.,|
+Petra,|,Sometimes a hunt will last for days. I have to be sleeping in trees or between rocks.,|,Say you want to hunt too.,|
+Petra,|,Brigid is between Fódlan and Dagda. We are getting many ideas from both.,|,Hope that trade will flourish.,|
+Petra,|,Your hair changes color just like one of the legends of Brigid! This is a thing of much strangeness.,|,Ask about the legend.,|
+Petra,|,"I thought Fódlan's army would be highly disciplined. But instead, the rules are having much flexibility.",|,Say they should be even more so.,|
+Petra,|,I read books before coming to Fódlan. I wanted to be preparing. But it was still a thing of difficulty.,|,Say she should ask people for help.,|
+Dedue,|,I wouldn't be standing here now if His Majesty hadn't protected me on that horrible day.,|,Say he should be grateful.,|
+Dedue,|,I'll restore Duscur to its former glory someday. I'm sure of it.,|,Offer to help.,|
+Dedue,|,I have nothing but trust for Lord Rodrigue. He proved his worth time and again in the negotiations with Duscur.,|,Say you want to learn from him.,|
+Dedue,|,I hope to devote my entire life to His Majesty. There is no greater pleasure than standing at his side.,|,Laugh and say that's just like him.,|
+Dedue,|,Duscur is a land of fishermen. Even the son of a blacksmith like me learned how to row a boat growing up.,|,Suggest you take a boat next time.,|
+Dedue,|,"I don't adhere to the Seiros faith. But if the goddess does exist, I hope she protects His Majesty.",|,Say Dedue should do that himself.,|
+Dedue,|,"Not long ago, I saw children from Faerghus playing in the streets. With others from Duscur, no less.",|,Feel the significance of that.,|
+Felix,|,I don't care who you are or where you came from. All that matters is that you can fight.,|,Say you're ready for a fight anytime.,|
+Felix,|,"I would've gotten even better with a sword if the academy hadn't closed down. No point complaining about it, though.",|,Say he can learn on the battlefield.,|
+Felix,|,Houses Blaiddyd and Fraldarius have been practically inseparable ever since Faerghus was founded.,|,Ask for more details.,|
+Felix,|,They say you can't fight a war on an empty stomach. Makes me wonder what's going to happen with this year's harvest.,|,Say that's for the next war council.,|
+Felix,|,Gautier territory is famous across Fódlan for its dairy farms. Makes me wish my own land had something it was known for.,|,Suggest you think it over together.,|
+Felix,|,"Both the Empire and Alliance have a clear hierarchy of strength. It's hard to say who the strongest person in the Kingdom is, though.",|,Say that hierarchy is pointless.,|
+Felix,|,"The boar's more relaxed and genuine than he used to be. Only a little, though.",|,Say that you're relieved too.,|
+Ashe,|,It's almost like a dream for a commoner like me to be fighting alongside all these nobles.,|,Say that he earned it.,|
+Ashe,|,I wonder what life would've been like if you never showed up at the academy.,|,Say it would've been a bumpy ride.,|
+Ashe,|,I'm glad you asked me out here. Work has sort of ground to a halt recently.,|,Promise to invite him again.,|
+Ashe,|,Everyone has to figure out their own sense of justice for themselves.,|,Say that's exactly right.,|
+Ashe,|,"I worked so hard to get into the academy, only for it to close down right after I finally walked through the doors.",|,Say he can learn on the battlefield.,|
+Ashe,|,Lonato taught me so much. I couldn't even read before I ended up at Castle Gaspard.,|,Say that you'll be his teacher now.,|
+Ashe,|,"It's been so long, I can't even remember my father's voice. Though I do remember the taste of his cooking, strangely enough.",|,Ask for more details.,|
+Sylvain,|,Everyone keeps telling me how serious I am now. Is that really so big a change?,|,Say it doesn't matter.,|
+Sylvain,|,"His Majesty didn't have much of a way with women when he was young. Though...the years haven't really changed that, either.",|,Laugh and say you never know.,|
+Sylvain,|,"Ingrid's more delicate than she looks. Don't tease her too much, OK?",|,Nod solemnly.,|
+Sylvain,|,Felix used to be such a nice kid. What happened to him?,|,Say that people grow up.,|
+Sylvain,|,I wish I could've stayed a naïve kid just a little longer. None of this nonsense about Crests or nobility.,|,Laugh and say that's just how life is.,|
+Sylvain,|,I wish we could've stayed at the academy at least until the ball during the Ethereal Moon.,|,Suggest you hold a post-war ball.,|
+Sylvain,|,"My mother and father were fine enough when they weren't fighting. I'm not really sure I'd call them good parents, though.",|,Point out that he's still a good son.,|
+Mercedes,|,"I hope I can go shopping again soon. Baking supplies, makeup... There are so many things I want!",|,Invite her to go into town sometime.,|
+Mercedes,|,"I hate fighting...but if both sides have reason to do so, there's no avoiding it.",|,Vow to create an age of peace.,|
+Mercedes,|,"Sometimes I think about going back to Fhirdiad. I wouldn't want to live with my adoptive father, though.",|,Invite her to go to Fhirdiad with you.,|
+Mercedes,|,Annie and I have been close ever since we met at the school of sorcery in Fhirdiad. She's the best friend I've ever had.,|,Smile and say that's wonderful.,|
+Mercedes,|,My hair has been getting long recently. I'm never sure whether to cut it or let it keep growing.,|,Say she'd look great either way.,|
+Mercedes,|,"Both of my parents were great cooks. I even remember them teaching each other recipes when I was young. Cute, don't you think?",|,Ask her to teach you how to cook.,|
+Mercedes,|,"I wonder how my mother is faring. I do get letters from her sometimes, at least.",|,Say she should go see her.,|
+Annette,|,I never really get to relax on my days off. I'm so indecisive that I spend all my time thinking about what to do instead of actually doing it.,|,Promise to invite her out.,|
+Annette,|,"I like the capital fine enough, but Dominic territory is nice too. And it's way warmer, for one.",|,Ask her to give you a tour.,|
+Annette,|,"My cousin Simon's not a bad person or anything, but once he got it in his head that he was going to be a traveling minstrel, nobody could talk him out of it.",|,Simply listen.,|
+Annette,|,I'd love to visit Derdriu over in Leicester sometime. I hear the shopping there is to die for!,|,Agree.,|
+Annette,|,It gets so cold in Fhirdiad. I used to make snowfriends all the time when I was a kid.,|,Ask how to make snowfriends.,|
+Annette,|,"What do you like more, sweet or spicy food? I'd have to go with sweet, myself!",|,Say you like both.,|
+Annette,|,I bet I could swing a heavy axe around no problem if I was just a tiny bit taller...,|,Say it depends on how hard she tries.,|
+Ingrid,|,Have you ever read any chivalric romance? They're stories about the most heroic knights in the world. I'm sure you could find one you're interested in.,|,Talk about your favorite story.,|
+Ingrid,|,There are many things I wish I could say to the me of two years ago.,|,Ask for more details.,|
+Ingrid,|,"There was a famine in Galatea territory when I was young, so I know how precious food can be to people.",|,Sympathize.,|
+Ingrid,|,"I imagine if Faerghus had been even just slightly more destitute, we would've invaded the other regions of Fódlan ourselves.",|,Say not to get hung up on what-ifs.,|
+Ingrid,|,"If we can't bring an end to this war, our dream of a prosperous Faerghus will remain just that.",|,Say something motivational.,|
+Ingrid,|,Felix and His Majesty perform all their duties with such grace and skill. I can only hope to do the same myself.,|,Cheer her on.,|
+Ingrid,|,I want to create a world where nobody has to worry where their next meal might come from.,|,Offer to help.,|
+Lorenz,|,I always strive to live up to my noble status. Have I succeeded in your eyes?,|,Say he seems like a true noble.,|
+Lorenz,|,"My father has an unsavory reputation amongst the other nobles, but he is well loved by the commonfolk.",|,Say he's a wise ruler.,|
+Lorenz,|,Even the highest quality tea leaves will taste horrible if not brewed properly. Do you not agree?,|,Ask if the teaware is also important.,|
+Lorenz,|,Gloucester has many beautiful sights as well. I would love for you to see it someday.,|,Say you're looking forward to it.,|
+Lorenz,|,"An insurmountable wall exists between commoners and nobles, but there is only a fine line between a duke and a count.",|,Argue against that view.,|
+Lorenz,|,A person cannot grow stronger if they lack ambition. Do you have any aspirations?,|,Keep them to yourself.,|
+Lorenz,|,"I wish I could always be my ideal self, but reality makes that quite difficult. What say you?",|,Encourage him to try to attain it.,|
+Raphael,|,"I got a letter from my little sis the other day. It wasn't about anything important, but I was still happy to get it.",|,Suggest you write a reply together.,|
+Raphael,|,"I don't think I would've become a merchant, even if my parents were still alive. I just don't have it in me.",|,Laugh and say he's right.,|
+Raphael,|,"Animals are incredible. They provide us with such tasty meat. I always feel grateful to them, especially when I go for seconds.",|,Say you could learn from him.,|
+Raphael,|,Big cities aren't the only places with great food. Those inns along merchant roads serve up some pretty tasty grub.,|,Ask if the food is their main draw.,|
+Raphael,|,"My little sis will be fine without me, as long as she's got our grandpa. He's real strong.",|,Say she must still miss him.,|
+Raphael,|,I'm kinda bad at staying still. I just don't feel right if I'm not moving around.,|,Suggest you exercise together.,|
+Raphael,|,"I'm not so great at using my head, but I'm pretty handy when it comes to muscle stuff!",|,Declare that you won't be outdone.,|
+Ignatz,|,People often tell me that being a knight doesn't suit me. Do you think the same?,|,Say he'll be a knight unlike any other.,|
+Ignatz,|,"If there really is a goddess, I wonder what she looks like.",|,Say you think she's a young beauty.,|
+Ignatz,|,The world stretches far beyond Fódlan's borders. Wouldn't you like to see it all someday?,|,Ask where he'd like to go.,|
+Ignatz,|,Apparently my ancestors lived in Leicester before the Alliance was even formed.,|,Ask about Ignatz's ancestors.,|
+Ignatz,|,I'm not jealous of nobles or people with Crests. They have their own share of troubles.,|,Say that's something only they know.,|
+Ignatz,|,It's important to be mindful of your tableware choices. Foods and tea taste different depending on what they're served in.,|,Ask advice on the right tableware.,|
+Ignatz,|,I'm worried about historical ruins getting destroyed in the war. There's no way to get them back once they're gone.,|,Vow to protect those historical sites.,|
+Lysithea,|,"House Ordelia isn't descended from one of the Ten Elites, but nonetheless, many of us have been born with Crests over the years.",|,Show appreciation for their efforts.,|
+Lysithea,|,"If you could be reborn, would you choose to be a noble or a commoner?",|,Say you don't care about your rank.,|
+Lysithea,|,"I have a tendency to think I'm always right. I'm well aware I do that, but it's a difficult habit to break.",|,Praise her for being so self-aware.,|
+Lysithea,|,The responsibilities of a noble are such a burden. I don't have time for all that.,|,Say she should just give it all up.,|
+Lysithea,|,I find the mercenary lifestyle fascinating. It's a world that's so far removed from my own.,|,Say there's freedom but also danger.,|
+Lysithea,|,I honestly don't understand why certain vegetables exist. We can get along just fine without them.,|,Say she doesn't have to eat them.,|
+Lysithea,|,"For the life of me, I can't understand people who only want to talk about love during a time like this.",|,Say it's because they're facing death.,|
+Marianne,|,I'm adopted. House Edmund took me in when my real parents went missing.,|,Simply listen.,|
+Marianne,|,Do you think the goddess truly watches over us? I believe that she does.,|,Joke that you've met her once.,|
+Marianne,|,I often read books when I'm alone in my room.,|,Ask what books she'd recommend.,|
+Marianne,|,"Even if I become the next Margrave Edmund, I doubt I will be able to make the people in my territory happy.",|,Say it's OK to make mistakes.,|
+Marianne,|,Do you ever wish you could throw everything away and escape to another world?,|,Ask if she wants to escape together.,|
+Marianne,|,There's no need to kill poor animals for our food. Couldn't we just eat vegetables instead?,|,Apologize for liking meat.,|
+Marianne,|,"The goddess always watches over us, even now.",|,Whisper a prayer.,|
+Hilda,|,"I'm so glad I'm not an heir. ""Duke Goneril"" isn't a cute title at all.",|,Say that that's not the point.,|
+Hilda,|,I think people who have trouble relying on others are missing out. It's not like people get mad when you trust them with stuff.,|,Admit you do have trouble with that.,|
+Hilda,|,"My space is pretty messy, but I always clean it before it gets out of control.",|,Offer to help her clean.,|
+Hilda,|,A lot of people act differently towards me when they find out who my brother is.,|,Ask if you acted differently too.,|
+Hilda,|,Just because we're in the middle of a war doesn't mean we can't be fashionable!,|,Praise her motivation.,|
+Hilda,|,Have you noticed anything different about me? I'm trying out a new perfume.,|,Compliment her on how it suits her.,|
+Hilda,|,So many people are willing to risk their lives for any old cause. I wish they'd put more importance on living.,|,Say that sometimes you just have to.,|
+Leonie,|,People don't need Crests to be strong. I'm never gonna use my lack of a Crest as an excuse for anything.,|,Say that other stuff counts more.,|
+Leonie,|,"I borrowed a lot of money from the people in my village so that I could go to the Officers Academy, but then it shut down. I feel really bad about that.",|,Praise her for becoming a mercenary.,|
+Leonie,|,"Me and art don't really agree. It's not that I'm unskilled, it just...isn't in my wheelhouse.",|,Praise her other talents.,|
+Leonie,|,Most villagers go their whole lives without knowing what their lord looks like. That's just how it is.,|,Say they should get the chance to.,|
+Leonie,|,"In this day and age, what does it even matter who's a noble and who's a commoner?",|,Suggest getting rid of ranks entirely.,|
+Leonie,|,"I managed to become a mercenary, but it was really tough to make money when I was starting out.",|,Praise her dedication.,|
+Leonie,|,I think everybody has at least one fateful encounter that completely changes their life.,|,Say you've had one too.,|
+Seteth,|,"Just as nobility must abide by their duty, my position demands certain responsibilities of me.",|,Respect his attitude.,|
+Seteth,|,The Holy Church of Seiros is the sole reason behind Fódlan's long period of peace.,|,Ask for more details.,|
+Seteth,|,"I consider the archbishop to be a kindred spirit and intend to continue supporting her however I can, no matter what trials may come.",|,Be jealous of their relationship.,|
+Seteth,|,"Many think me rigid and unapproachable, but it is better to be feared than played for a fool.",|,Laugh and say he's approachable.,|
+Seteth,|,Garreg Mach Monastery has been the heart and soul of the church for over a thousand years.,|,Show how knowledgeable you are.,|
+Seteth,|,"I cannot defend every tenet of church doctrine, but the vast majority are worth adhering to.",|,Agree.,|
+Seteth,|,"I know what it is like to have one's parentage shrouded in mystery. Of course, in my case, it is because I choose not to make such details public.",|,Say you trust him.,|
+Flayn,|,People occasionally claim my manner of speaking to be eccentric. Do I not speak as everyone else does?,|,Say you think it's cute.,|
+Flayn,|,"I am fascinated by the lives of city dwellers, but do not often get the opportunity to observe them.",|,Tell her an anecdote.,|
+Flayn,|,I am rather unskilled when it comes to preparing food. Perhaps someone would be willing to teach me?,|,Invite her to practice with you.,|
+Flayn,|,"I enjoy eating fish caught fresh from the sea, but sadly have not enjoyed such bounty of late.",|,Promise she'll have her fill someday.,|
+Flayn,|,Lady Rhea is an incredibly kind person. I always find her to be thoughtful and caring toward me.,|,Be envious.,|
+Flayn,|,I think it so very sad that people fight merely because they hold differing opinions.,|,Agree.,|
+Flayn,|,"If we could simply speak with each other and find common ground, there would be no need for war.",|,Agree.,|
+Catherine,|,"I've never been great at needlework, but it sure comes in handy when a tent needs repairing.",|,Invite her to practice with you.,|
+Catherine,|,"You sure you don't want to spar a little? It seems like a waste not to, now that we're here and all.",|,Say that sometimes it's nice to relax.,|
+Catherine,|,"Come to think of it, you don't have a nickname, huh? Maybe I should give you one.",|,Be pleased.,|
+Catherine,|,"Until I can protect the people who are dear to me, I'm going to keep getting stronger.",|,Sympathize.,|
+Catherine,|,It sure is quiet here. It's actually making me a little antsy.,|,Suggest you train after you get back.,|
+Catherine,|,"I also studied at the Officers Academy at Garreg Mach, so I guess that would make me your senior.",|,Ask about her time there.,|
+Catherine,|,"Fódlan needs Lady Rhea now more than ever. We have to protect her, no matter what.",|,Nod fervently.,|
+Shamir,|,Yep. Nice and quiet.,|,Nod quietly.,|
+Shamir,|,I don't feel like we have to talk. I'm good with silence.,|,Say you talk because you want to.,|
+Shamir,|,The constant battles make times like this precious.,|,Be happy to hear that from her.,|
+Shamir,|,"It'd be pretty great if you came from outside Fódlan, too. Of course, there's no evidence of that.",|,Laugh and agree it would be neat.,|
+Shamir,|,"More and more people are making names for themselves in this war. And the bigger the name, the more their head is worth.",|,Declare that you won't be outdone.,|
+Shamir,|,I've spent seven years in Fódlan. Can't believe it's been that long.,|,Ask her where she'll go next.,|
+Shamir,|,We almost won the battle between Dagda and the Empire—but then one man changed everything.,|,Declare that you'll surpass him.,|
+Manuela,|,My beautiful singing voice is a gift from the goddess herself—a gift I would very much like to share.,|,Compliment her magnificent voice.,|
+Manuela,|,"I'm not single because I want to be. I just haven't found ""the one"" yet...",|,Cheer her up with a rational excuse.,|
+Manuela,|,"My ideal partner? Hmm... Well, someone who would clean my room without complaining, I suppose.",|,Say that love solves everything.,|
+Manuela,|,Everyone has at least a little darkness in them. Is there really anyone out there who is truly pure?,|,Say that can be alluring too.,|
+Manuela,|,"You might hear rumors about my being a mess when I'm drunk, but don't you dare believe them!",|,Offer to join her every so often.,|
+Manuela,|,"I know the river of time flows the same for everyone, but I still feel like I'm trapped in its rapids more often than not.",|,Compliment how ageless she looks.,|
+Manuela,|,"I'm a woman who tends to keep things bottled up, which means I need to let off steam once in a while.",|,Say you'll accompany her anytime.,|
+Jeralt,|,"The longer you live, the more past there is to haunt you.",|,Laugh and say you feel the same.,|
+Jeralt,|,Enbarr hasn't changed much over the years. I remember the churches had the most beautiful paintings hanging in them.,|,Ask him to tell you more.,|
+Jeralt,|,Fhirdiad underwent massive changes during the reign of the late king. Now few traces of the past remain.,|,Ask him to tell you more.,|
+Jeralt,|,Derdriu's always been a pretty unique place. Not sure if it's because of the people or the land itself.,|,Ask him to tell you more.,|
+Jeralt,|,"You spent some time at Garreg Mach, right? How did academy life treat you?",|,Talk about how you met your friends.,|
+Jeralt,|,"I won't tell you what to feel, but we're allies now, so let's at least try to get along.",|,Say you overcame obstacles together.,|
+Jeralt,|,I've been clumsy as an ox since birth. It nearly got Alois killed once.,|,Be relieved that Alois is all right.,|
+Jeritza,|,I fight as I see fit. Nothing more.,|,Simply listen.,|
+Jeritza,|,That sword of yours... Perhaps it can excise the evil inside me.,|,Say you'll try and see.,|
+Jeritza,|,Hmph. I can sense that you and those maggots are of the same ilk.,|,Consider the similarities.,|
+Jeritza,|,My mother and sister remain in good health. That is all I... No. Enough.,|,Stay silent.,|
+Jeritza,|,The evil inside me and I are one and the same— cursed swordsmen for whom there is no salvation.,|,Say he should atone for his deeds.,|
+Jeritza,|,Don't bother inviting me to victory parties. I won't go.,|,Nod quietly.,|
+Jeritza,|,This bores me. I only find delight in battle.,|,Volunteer to spar with him.,|
+Yuri,|,"I'm able to grin and bear it when I have to be on horseback, but in truth, I find riding a steed rather excruciating.",|,Suggest you take a break.,|
+Yuri,|,"I want this war to end, but there are plenty of folks making good coin from it that would disagree.",|,Brainstorm about what you can do.,|
+Yuri,|,One of my underlings recently got married. I had to come down on him about cleaning up his act.,|,Wince and say leaders have it rough.,|
+Yuri,|,I conduct most of my business in the backstreets. I'll have to show you around sometime—though I can't guarantee your safety.,|,Say you're used to danger.,|
+Yuri,|,"Are you a fan of board games? I'm a bit rusty, but we should definitely play sometime.",|,Gladly take him up on that.,|
+Yuri,|,"You often take chances when the odds are stacked against you, and I don't think I'll ever understand it.",|,Agree.,|
+Yuri,|,"Even if I wasn't born with this face, I would've found some other way to make it big.",|,Laugh and say you can imagine.,|
+Balthus,|,"You should open yourself up to nature, like I do. It's good for the soul.",|,Give it a try.,|
+Balthus,|,"Whenever I find myself somewhere with fresh air, I start to miss the mustiness of Abyss.",|,Ask him to tell you about Abyss.,|
+Balthus,|,"Up for some sparring? I mean, we don't have to, but...",|,Take him up on that.,|
+Balthus,|,"You might not know this, but there was a fourth house at Garreg Mach called the Ashen Wolves.",|,Say you did actually know that.,|
+Balthus,|,"If you ever see an unwholesome type trying to take a shot at me, be a pal and lend a hand, all right?",|,Laugh and say he'd owe you one.,|
+Balthus,|,"I'm pretty good at picking my fights, but these are hard times for folks who can't say the same.",|,Admit you're not good at it either.,|
+Balthus,|,"Just once, I'd like to be that guy who single-handedly turns the tide of battle.",|,Worry that he'll get himself killed.,|
+Constance,|,"You have also experienced the trauma of losing everything, have you not? We're kindred spirits in that sense.",|,Say you're here now because of it.,|
+Constance,|,I feel I would be more fit to serve as a squire who tended to cleaning and laundry. What do you think?,|,Be seriously unsure how to answer.,|
+Constance,|,"Are you familiar with curses? Unlike magic, there is much I do not understand about the art.",|,Say you want to learn to use them.,|
+Constance,|,"When I watch tea diffuse through water in my cup, I feel a fleeting moment of happiness.",|,Say enjoying it together is nice too.,|
+Constance,|,I suspect I'd be more useful to the army if I just left it altogether.,|,Say she's definitely useful in the army.,|
+Constance,|,I wonder if I will ever genuinely laugh from the bottom of my heart. Heh...,|,Suggest you laugh together.,|
+Constance,|,"I have drifted through the Kingdom, the Empire, and even Garreg Mach during my time in this most transient of worlds.",|,Tell her that you feel the same.,|
+Hapi,|,So I have a theory about you—that what you say and what you're thinking are usually very different things.,|,Admit it.,|
+Hapi,|,I can't imagine myself doing anything other than what I'm doing now.,|,Say that her decision must be right.,|
+Hapi,|,"I always sleep like a rock. That's pretty much the only perk to, you know...being the way I am.",|,Reveal that you have strange dreams.,|
+Hapi,|,"Say, have you ever eaten the root of this plant here? It's sweet, but I also think it's poisonous.",|,Say you almost died from eating it.,|
+Hapi,|,You ever eat fancy noble food? All the weird flavors just end up leaving my taste buds confused.,|,Agree.,|
+Hapi,|,Honestly? I'm secretly rooting for you. That's it. That's all I've got.,|,Say that you're rooting for her too.,|
+Hapi,|,"I really like singing, but I only know songs from my village that no one else has even heard of.",|,Ask her to teach you those songs.,|
+Monica,|,"Don't you think Her Majesty is at her most beautiful in profile? Apologies, just a stray thought.",|,Admire her devotion.,|
+Monica,|,"I know Hubert is capable, but his attitude leaves much to be desired!",|,Smirk and say she's not much better.,|
+Monica,|,I remember every single word you've said—even tracing back to when you first burst in to save me.,|,Say you're glad she's all right.,|
+Monica,|,"Are you ever overcome with feelings of complete and utter helplessness? I'm asking for a friend, of course.",|,Say you've never felt that way.,|
+Monica,|,Fighting inland for too long makes me miss the sea near my home. I used to love swimming there.,|,Vow to all go together someday.,|
+Monica,|,"My father was not a legitimate heir, and in truth had no desire to inherit his title. The situation is... complicated, to say the least.",|,Catch her meaning and feel for her.,|
+Monica,|,"If Her Majesty wills it, I want to annihilate every last one of those who slither in the dark.",|,Say you need to learn the truth first.,|
+Rodrigue,|,"In our Kingdom, a rigorous procedure must be followed before one can implement sweeping change.",|,Think about what you can do.,|
+Rodrigue,|,I had my first taste of Duscur wine the other day. It was almost like nectar from the goddess herself.,|,Ask to hear more about Duscur.,|
+Rodrigue,|,"During our time at the Officers Academy, His Majesty Lambert and I would often skip out on classes in search of adventure. Fond memories indeed.",|,Ask for more details.,|
+Rodrigue,|,"Lambert's aptitude for magic was...subpar, to say the least. So, I decided to master it myself instead.",|,Say you want to learn magic too.,|
+Rodrigue,|,I believe it's the duty of elders such as myself to support the younger generation as they build the foundation for a brighter tomorrow.,|,Say you trust him.,|
+Rodrigue,|,"The margrave is a cunning man, yet has great difficulty expressing his emotions. This is especially true of the events surrounding Miklan.",|,Be sympathetic.,|
+Rodrigue,|,"I've always encouraged Felix to pursue the path of the blade, but I never expected he'd take to it with such devotion.",|,Commend Felix's dedication.,|
+Holst,|,"In the end, training one's body doesn't count for much—the mind is what truly matters.",|,Say you should spar sometime.,|
+Holst,|,My battles with Almyra molded me into the soldier I am today. Perhaps I ought to thank them for that.,|,Say that you also have a good rival.,|
+Holst,|,"Some believe a Crest is all it takes to be a great noble, but I fully intend to prove otherwise.",|,Ask if he's doing that for his sister.,|
+Holst,|,"The key to a healthy body is a well-regimented life. Early to bed and early to rise, and the like. I suggest you give it a try!",|,Proudly inform him you already do.,|
+Holst,|,I learned much at the academy. It will be difficult to replace an institution of that caliber.,|,Say it would require trial and error.,|
+Holst,|,To accept the teachings of Seiros unquestioningly is to abandon reason itself.,|,Eagerly vow to study for yourself.,|
+Holst,|,"I often share vital intelligence with Claude, such as which mushrooms are and are not poisonous.",|,Say you have wisdom to share too.,|
+Gatekeeper,|,"A lot of soldiers have impressive nicknames, don't they? What would mine be? Keeper of the Gate is too boring... How about the Eternal Watchman?",|,Suggest Fódlan's Top Gatekeeper.,|
+Gatekeeper,|,I'm honored to man my post day and night to scare off any hooligans who think about wandering in.,|,Say you feel extremely safe.,|
+Gatekeeper,|,I really feel like gatekeeping is my true calling.,|,Agree.,|
+Gatekeeper,|,"I talk with the merchants all the time. Anna's the best of the bunch, in my humble opinion.",|,Strongly agree.,|
+none,|,none,|,none,|
+none,|,none,|,none,|
+none,|,none,|,none,|
+none,|,none,|,none,|
+none,|,none,|,none,|
+none,|,none,|,none,|
+none,|,none,|,none,|
+none,|,none,|,none,|
+none,|,none,|,none,|
+none,|,none,|,none,|
+none,|,none,|,none,|
+none,|,none,|,none,|
+none,|,none,|,none,|
+none,|,none,|,none,|
+none,|,none,|,none,|
+none,|,none,|,none,|

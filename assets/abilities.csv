@@ -1,0 +1,1281 @@
+"Text file 77, 76",Quantities need adding/re-adding...,,
+,,,
+ID,Name,,Description
+00,Shadowflash Lv 1,,Gain a chance to perform a few attacks that instantly defeat non-commander units. Chance increases with hit count. Press ZR to dash a short distance.
+01,Shadowflash Lv 2,,Gain a chance to perform several attacks that instantly defeat non-commander units. Chance increases with hit count. Press ZR to dash a moderate distance.
+02,Shadowflash Lv 3,,Gain a chance to perform many attacks that instantly defeat non-commander units. Chance increases with hit count. Press ZR to dash a long distance.
+03,Divine Pulse Lv 1,,"Press ZR to stop time. A follow-up attack will trigger when time restarts, based on damage dealt during the stoppage. Has a long cooldown time."
+04,Divine Pulse Lv 2,,"Press ZR to stop time. A follow-up attack will trigger when time restarts, based on damage dealt during the stoppage. Has a moderate cooldown time."
+05,Divine Pulse Lv 3,,"Press ZR to stop time. A follow-up attack will trigger when time restarts, based on damage dealt during the stoppage. Has a short cooldown time."
+06,Solar Prominence Lv 1,,Imbue attacks with fire.
+07,Solar Prominence Lv 2,,Imbue attacks with powerful fire.
+08,Solar Prominence Lv 3,,Imbue attacks with devastating fire.
+09,Dark Conjuration Lv 1,,Gain a low chance to impale an attacked enemy with a magic spike. Additional attacks power up the spike. Press ZR to detonate the spike and inflict dark damage based on power level.
+0A,Dark Conjuration Lv 2,,Gain a moderate chance to impale an attacked enemy with a magic spike. Additional attacks power up the spike. Press ZR to detonate the spike and inflict dark damage based on power level.
+0B,Dark Conjuration Lv 3,,Gain a high chance to impale an attacked enemy with a magic spike. Additional attacks power up the spike. Press ZR to detonate the spike and inflict dark damage based on power level.
+0C,Prismatic Resonance Lv 1,,Gain a low chance to spawn musical notes around the unit when performing regular attacks. Attacking the notes triggers elemental shockwaves.
+0D,Prismatic Resonance Lv 2,,Gain a moderate chance to spawn musical notes around the unit when performing regular attacks. Attacking the notes triggers elemental shockwaves.
+0E,Prismatic Resonance Lv 3,,Gain a high chance to spawn musical notes around the unit when performing regular attacks. Attacking the notes triggers elemental shockwaves.
+0F,Maximum Ambulation Lv 1,,At 300 hits and above: gain an increase in speed proportional to hit count.
+10,Maximum Ambulation Lv 2,,At 200 hits and above: gain an increase in speed proportional to hit count.
+11,Maximum Ambulation Lv 3,,At 150 hits and above: gain an increase in speed proportional to hit count.
+12,Personal Space Lv 1,,Press ZR to create a zone of ice that increases critical hit rate. Has a long cooldown time.
+13,Personal Space Lv 2,,Press ZR to create a zone of ice that increases critical hit rate. Has a moderate cooldown time.
+14,Personal Space Lv 3,,Press ZR to create a zone of ice that increases critical hit rate. Has a short cooldown time.
+15,One for the Books Lv 1,,"Hold the button when performing strong attacks to charge the attack, increasing attack range and damage dealt by one tier."
+16,One for the Books Lv 2,,"Hold the button when performing strong attacks to charge the attack, increasing attack range and damage dealt by up to two tiers."
+17,One for the Books Lv 3,,"Hold the button when performing strong attacks to charge the attack, increasing attack range and damage dealt by up to three tiers."
+18,Windstorm Lv 1,,Slightly increase evasion distance. Dodges inflict very minor wind damage.
+19,Windstorm Lv 2,,Moderately increase evasion distance. Dodges inflict minor wind damage.
+1A,Windstorm Lv 3,,Greatly increase evasion distance. Dodges inflict moderate wind damage.
+1B,Easy Breezy Lv 1,,Complete a final regular attack to spawn a pair of wind orbs in front of the unit. The orbs automatically attack in a narrow range.
+1C,Easy Breezy Lv 2,,Complete a final regular attack to spawn a pair of wind orbs in front of the unit. The orbs automatically attack in a moderate range.
+1D,Easy Breezy Lv 3,,Complete a final regular attack to spawn a pair of wind orbs in front of the unit. The orbs automatically attack in a wide range.
+1E,Azure Lightning Lv 1,,Imbue attacks with lightning.
+1F,Azure Lightning Lv 2,,Imbue attacks with powerful lightning.
+20,Azure Lightning Lv 3,,Imbue attacks with devastating lightning.
+21,Demolisher Lv 1,,Hold the button when performing strong attacks to trigger blasts on impact that deal minor damage to enemies.
+22,Demolisher Lv 2,,Hold the button when performing strong attacks to trigger blasts on impact that deal moderate damage to enemies.
+23,Demolisher Lv 3,,Hold the button when performing strong attacks to trigger blasts on impact that deal major damage to enemies.
+24,Intense Velocity Lv 1,,Dodge in the middle of an attack to increase speed by one tier for a period of time. Will reach maximum speed after 7 dodges.
+25,Intense Velocity Lv 2,,Dodge in the middle of an attack to increase speed by one tier for a period of time. Will reach maximum speed after 5 dodges.
+26,Intense Velocity Lv 3,,Dodge in the middle of an attack to increase speed by one tier for a period of time. Will reach maximum speed after 3 dodges.
+27,Radiant Love Lv 1,,"Attacking very slightly fills the Unique Ability Gauge and gradually restores HP. When the gauge is full, press ZR to damage enemies and heal allies."
+28,Radiant Love Lv 2,,"Attacking slightly fills the Unique Ability Gauge and gradually restores HP. When the gauge is full, press ZR to damage enemies and heal allies."
+29,Radiant Love Lv 3,,"Attacking moderately fills the Unique Ability Gauge and gradually restores HP. When the gauge is full, press ZR to damage enemies and heal allies."
+2A,Wind Stance Lv 1,,"While holding ZR, use L-Pad to create and place a zone of wind. Has a long cooldown time."
+2B,Wind Stance Lv 2,,"While holding ZR, use L-Pad to create and place a zone of wind. Has a moderate cooldown time."
+2C,Wind Stance Lv 3,,"While holding ZR, use L-Pad to create and place a zone of wind. Has a short cooldown time."
+2D,Courageous Aria Lv 1,,"Attacking very slightly fills the Unique Ability Gauge. When it is full, press ZR to temporarily strengthen yourself and surrounding allies."
+2E,Courageous Aria Lv 2,,"Attacking slightly fills the Unique Ability Gauge. When it is full, press ZR to temporarily strengthen yourself and surrounding allies."
+2F,Courageous Aria Lv 3,,"Attacking moderately fills the Unique Ability Gauge. When it is full, press ZR to temporarily strengthen yourself and surrounding allies."
+30,Gordian Stroke Lv 1,,At 300 hits and above: increase attack range and damage dealt proportional to the hit count.
+31,Gordian Stroke Lv 2,,At 200 hits and above: increase attack range and damage dealt proportional to the hit count.
+32,Gordian Stroke Lv 3,,At 150 hits and above: increase attack range and damage dealt proportional to the hit count.
+33,Icy Plunge Lv 1,,Enemies sent flying explode and deal ice damage to a narrow area.
+34,Icy Plunge Lv 2,,Enemies sent flying explode and deal ice damage to a moderate area.
+35,Icy Plunge Lv 3,,Enemies sent flying explode and deal ice damage to a wide area.
+36,Dustcloud Lv 1,,Imbue attacks with wind.
+37,Dustcloud Lv 2,,Imbue attacks with powerful wind.
+38,Dustcloud Lv 3,,Imbue attacks with devastating wind.
+39,Rondo of Roses Lv 1,,"Attacking fills the Unique Ability Gauge, while nullifying an enemy attack decreases it. When the gauge is full, press ZR to draw in foes a short distance away."
+3A,Rondo of Roses Lv 2,,"Attacking fills the Unique Ability Gauge, while nullifying an enemy attack decreases it. When the gauge is full, press ZR to draw in foes a moderate distance away."
+3B,Rondo of Roses Lv 3,,"Attacking fills the Unique Ability Gauge, while nullifying an enemy attack decreases it. When the gauge is full, press ZR to draw in foes a long distance away."
+3C,Lightning Bound,,"Hold the button during strong attacks to slightly increase damage and add lightning. While charging, enemies a short distance away will be drawn in."
+3D,Lightning Bound Lv 2,,"Hold the button during strong attacks to moderately increase damage and add lightning. While charging, enemies a moderate distance away will be drawn in."
+3E,Lightning Bound Lv 3,,"Hold the button during strong attacks to greatly increase damage and add lightning. While charging, enemies a long distance away will be drawn in."
+3F,Pure Brawn Lv 1,,Charge to power up attacks for a set period. Attacks will strengthen up to 2 tiers based on the number of charges.
+40,Pure Brawn Lv 2,,Charge to power up attacks for a set period. Attacks will strengthen up to 3 tiers based on the number of charges.
+41,Pure Brawn Lv 3,,Charge to power up attacks for a set period. Attacks will strengthen up to 4 tiers based on the number of charges.
+42,Cursed Expulsion Lv 1,,Enemies sent flying explode and deal dark damage to a narrow area. Press ZR to draw in Spellbound enemies. Can be used again after a cooldown.
+43,Cursed Expulsion Lv 2,,Enemies sent flying explode and deal dark damage to a moderate area. Press ZR to draw in Spellbound enemies. Can be used again after a cooldown.
+44,Cursed Expulsion Lv 3,,Enemies sent flying explode and deal dark damage to a wide area. Press ZR to draw in Spellbound enemies. Can be used again after a cooldown.
+45,Dreamer's Paintbrush Lv 1,,Send enemies flying to spatter the ground with a small amount of paint. Enemies that step in the paint incur elemental damage matching its color.
+46,Dreamer's Paintbrush Lv 2,,Send enemies flying to spatter the ground with a moderate amount of paint. Enemies that step in the paint incur elemental damage matching its color.
+47,Dreamer's Paintbrush Lv 3,,Send enemies flying to spatter the ground with a large amount of paint. Enemies that step in the paint incur elemental damage matching its color.
+48,Snowslip Lv 1,,At 300 hits and above: spawn falling ice orbs that deal ice damage to foes at intervals proportional to hit count.
+49,Snowslip Lv 2,,At 200 hits and above: spawn falling ice orbs that deal ice damage to foes at intervals proportional to hit count.
+4A,Snowslip Lv 3,,At 150 hits and above: spawn falling ice orbs that deal ice damage to foes at intervals proportional to hit count.
+4B,Careful Study Lv 1,,"Allows the unit to string together 2 times the normal number of regular attacks. Based on the number of consecutive hits, speed will increase, and final regular or strong attacks will strengthen."
+4C,Careful Study Lv 2,,"Allows the unit to string together 3 times the normal number of regular attacks. Based on the number of consecutive hits, speed will increase, and final regular or strong attacks will strengthen."
+4D,Careful Study Lv 3,,"Allows the unit to string together 4 times the normal number of regular attacks. Based on the number of consecutive hits, speed will increase, and final regular or strong attacks will strengthen."
+4E,Deceit Lv 1,,Press ZR to create an orb of wind that draws in enemies and then explodes. Has a long cooldown time.
+4F,Deceit Lv 2,,Press ZR to create an orb of wind that draws in enemies and explodes. Has a moderate cooldown time.
+50,Deceit Lv 3,,Press ZR to create an orb of wind that draws in enemies and explodes. Has a short cooldown time.
+51,Personality Shift Lv 1,,"Generate a small number of orbs with each attack. The orbs will be light or dark depending on the stage, up to a total of 6. Press ZR to launch the orbs."
+52,Personality Shift Lv 2,,"Generate several orbs with each attack. The orbs will be light or dark depending on the stage, up to a total of 10. Press ZR to launch the orbs."
+53,Personality Shift Lv 3,,"Generate many orbs with each attack. The orbs will be light or dark depending on the stage, up to a total of 13. Press ZR to launch the orbs."
+54,Golden Fists Lv 1,,At 300 hits and above: power up attacks proportional to the hit count. Sending enemies flying grants a very small amount of gold.
+55,Golden Fists Lv 2,,At 200 hits and above: power up attacks proportional to the hit count. Sending enemies flying grants a small amount of gold.
+56,Golden Fists Lv 3,,At 150 hits and above: power up attacks proportional to the hit count. Sending enemies flying grants a fair amount of gold.
+57,Nether Sigh Lv 1,,Strong attacks and the unit's final regular attack generate small zones in front of the unit that deal dark damage. Press ZR to detonate the zones and cause a small explosion.
+58,Nether Sigh Lv 2,,Strong attacks and the unit's final regular attack generate mid-sized zones in front of the unit that deal dark damage. Press ZR to detonate the zones and cause a moderate explosion.
+59,Nether Sigh Lv 3,,Strong attacks and the unit's final regular attack generate large zones in front of the unit that deal dark damage. Press ZR to detonate the zones and cause a large explosion.
+5A,Thunderous Refrain Lv 1,,"Attacking generates lightning-imbued musical staves and fills the Unique Ability Gauge. When the gauge is full, press ZR to deal a small amount of damage around the staves."
+5B,Thunderous Refrain Lv 2,,"Attacking generates lightning-imbued musical staves and fills the Unique Ability Gauge. When the gauge is full, press ZR to deal a moderate amount of damage around the staves."
+5C,Thunderous Refrain Lv 3,,"Attacking generates lightning-imbued musical staves and fills the Unique Ability Gauge. When the gauge is full, press ZR to deal a large amount of damage around the staves."
+5D,Windswept Lv 1,,Imbue non-regular attacks with wind. Press ZR to rend Windtorn enemies with air blades. Has a long cooldown time.
+5E,Windswept Lv 2,,Imbue non-regular attacks with wind. Press ZR to rend Windtorn enemies with air blades. Has a moderate cooldown time.
+5F,Windswept Lv 3,,Imbue non-regular attacks with wind. Press ZR to rend Windtorn enemies with air blades. Has a short cooldown time.
+60,Luminous Prayer Lv 1,,Gain a chance to spawn an orb of light around the unit when performing regular attacks. Press ZR to fire a beam of light toward all orbs.
+61,Luminous Prayer Lv 2,,Gain a chance to spawn 2 orbs of light around the unit when performing regular attacks. Press ZR to fire a beam of light toward all orbs.
+62,Luminous Prayer Lv 3,,Gain a chance to spawn 3 orbs of light around the unit when performing regular attacks. Press ZR to fire a beam of light toward all orbs.
+63,Twofold Ruin Lv 1,,Press ZR to make attacks hit twice for a period of time and deal a small amount of additional damage. This skill can be reused periodically.
+64,Twofold Ruin Lv 2,,Press ZR to make attacks hit twice for a period of time and deal a moderate amount of additional damage. This skill can be reused periodically.
+65,Twofold Ruin Lv 3,,Press ZR to make attacks hit twice for a period of time and deal a large amount of additional damage. This skill can be reused periodically.
+66,Cold Calculation Lv 1,,Strike with the right timing to slightly increase critical hit rate and imbue attacks with ice.
+67,Cold Calculation Lv 2,,Strike with the right timing to moderately increase critical hit rate and imbue attacks with ice.
+68,Cold Calculation Lv 3,,Strike with the right timing to greatly increase critical hit rate and imbue attacks with ice.
+69,Blade Breaker Lv 1,,"Hold the button when performing strong attacks to slightly increase damage, guard break, and explode enemies sent flying."
+6A,Blade Breaker Lv 2,,"Hold the button when performing strong attacks to increase damage up to two tiers proportional to the charge, guard break, and explode enemies sent flying."
+6B,Blade Breaker Lv 3,,"Hold the button when performing strong attacks to increase damage up to three tiers proportional to the charge, guard break, and explode enemies sent flying."
+6C,Purifying Rain Lv 1,,"Attacking slightly fills the Unique Ability Gauge. When it is full, press ZR to rain fire down on enemies."
+6D,Purifying Rain Lv 2,,"Attacking moderately fills the Unique Ability Gauge. When it is full, press ZR to rain fire down on enemies."
+6E,Purifying Rain Lv 3,,"Attacking greatly fills the Unique Ability Gauge. When it is full, press ZR to rain fire down on enemies."
+6F,Quietus Lv 1,,"Attacking very slightly fills the Unique Ability Gauge and increases damage dealt to enemies. When the gauge is full, press ZR to attack, instantly defeating non-commander enemies."
+70,Quietus Lv 2,,"Attacking slightly fills the Unique Ability Gauge and increases damage dealt to enemies. When the gauge is full, press ZR to attack, instantly defeating non-commander enemies."
+71,Quietus Lv 3,,"Attacking moderately fills the Unique Ability Gauge and increases damage dealt to enemies. When the gauge is full, press ZR to attack, instantly defeating non-commander enemies."
+72,Martial Prowess Lv 1,,"Strike with the right timing to slightly increase damage, attack range, and knockback rate."
+73,Martial Prowess Lv 2,,"Strike with the right timing to moderately increase damage, attack range, and knockback rate."
+74,Martial Prowess Lv 3,,"Strike with the right timing to greatly increase damage, attack range, and knockback rate."
+75,Wicked Impulse Lv 1,,Strike with the right timing to generate a small shockwave imbued with an element corresponding to the attack.
+76,Wicked Impulse Lv 2,,Strike with the right timing to generate a moderate shockwave imbued with an element corresponding to the attack.
+77,Wicked Impulse Lv 3,,Strike with the right timing to generate a large shockwave imbued with an element corresponding to the attack.
+78,Galvanic Surge Lv 1,,"Attacking slightly fills the Unique Ability Gauge. When it is full, press ZR to temporarily increase speed and imbue attacks with lightning."
+79,Galvanic Surge Lv 2,,"Attacking moderately fills the Unique Ability Gauge. When it is full, press ZR to temporarily increase speed and imbue attacks with lightning."
+7A,Galvanic Surge Lv 3,,"Attacking greatly fills the Unique Ability Gauge. When it is full, press ZR to temporarily increase speed and imbue attacks with lightning."
+7B,Divine Caprice Lv 1,,"Every 300 hits, create a magic sigil imbued with an element that will attack automatically. Max 3 sigils."
+7C,Divine Caprice Lv 2,,"Every 300 hits, create a powerful magic sigil imbued with an element that will attack automatically. Max 3 sigils."
+7D,Divine Caprice Lv 3,,"Every 300 hits, create a devastatingly powerful magic sigil imbued with an element that will attack automatically. Max 3 sigils."
+7E,Duality Lv 1,,Imbue attacks with either light or dark. Press ZR to switch between the two and trigger an additional attack.
+7F,Duality Lv 2,,Imbue attacks with either light or dark. Press ZR to switch between the two and trigger an additional powerful attack.
+80,Duality Lv 3,,Imbue attacks with either light or dark. Press ZR to switch between the two and trigger an additional devastating attack.
+81,Camaraderie Lv 1,,At 600 hits and above: a strong attack or final regular attack summons fellow gatekeepers to perform a follow-up attack.
+82,Camaraderie Lv 2,,At 450 hits and above: a strong attack or final regular attack summons fellow gatekeepers to perform a follow-up attack.
+83,Camaraderie Lv 3,,At 300 hits and above: a strong attack or final regular attack summons fellow gatekeepers to perform a follow-up attack.
+84,,,
+85,,,
+86,,,
+87,,,
+88,,,
+89,,,
+8A,,,
+8B,,,
+8C,,,
+8D,,,
+8E,,,
+8F,,,
+90,,,
+91,,,
+92,,,
+93,,,
+94,,,
+95,,,
+96,Mortal Coil Lv 1,,When HP is at 90% or above: increases the Warrior Gauge fill rate.
+97,Mortal Coil Lv 2,,When HP is at 75% or above: increases the Warrior Gauge fill rate.
+98,Mortal Coil Lv 3,,When HP is at 60% or above: increases the Warrior Gauge fill rate.
+99,Ashen Demon Lv 1,,Slightly increases damage while Awakened.
+9A,Ashen Demon Lv 2,,Moderately increases damage while Awakened.
+9B,Ashen Demon Lv 3,,Greatly increases damage while Awakened.
+9C,Emperor's Prestige Lv 1,,Causes enemies that are guarding to nonetheless sustain 50% of calculated damage.
+9D,Emperor's Prestige Lv 2,,Causes enemies that are guarding to nonetheless sustain 65% of calculated damage.
+9E,Emperor's Prestige Lv 3,,Causes enemies that are guarding to nonetheless sustain 80% of calculated damage.
+9F,Perception Lv 1,,Keeps the Stun Gauge visible slightly longer.
+A0,Perception Lv 2,,Keeps the Stun Gauge visible a while longer.
+A1,Perception Lv 3,,Keeps the Stun Gauge visible much longer.
+A2,Songstress Lv 1,,Slightly restores surrounding allies' HP and Awakening Gauges when the unit completes a Warrior Special.
+A3,Songstress Lv 2,,Moderately restores surrounding allies' HP and Awakening Gauges when the unit completes a Warrior Special.
+A4,Songstress Lv 3,,Greatly restores surrounding allies' HP and Awakening Gauges when the unit completes a Warrior Special.
+A5,Name Drop Lv 1,,Slightly restores the Awakening Gauge with each enemy commander defeated.
+A6,Name Drop Lv 2,,Moderately restores the Awakening Gauge with each enemy commander defeated.
+A7,Name Drop Lv 3,,Greatly restores the Awakening Gauge with each enemy commander defeated.
+A8,Persecution Complex Lv 1,,When hit by enemy attacks: grants a very low chance of temporarily increasing damage dealt to foes.
+A9,Persecution Complex Lv 2,,When hit by enemy attacks: grants a low chance of temporarily increasing damage dealt to foes.
+AA,Persecution Complex Lv 3,,When hit by enemy attacks: grants a moderate chance of temporarily increasing damage dealt to foes.
+AB,Fists of Justice Lv 1,,Slightly increases damage to enemy Stun Gauges.
+AC,Fists of Justice Lv 2,,Moderately increases damage to enemy Stun Gauges.
+AD,Fists of Justice Lv 3,,Greatly increases damage to enemy Stun Gauges.
+AE,Hunter's Boon Lv 1,,Slightly restores the Awakening Gauge with each critical hit.
+AF,Hunter's Boon Lv 2,,Moderately restores the Awakening Gauge with each critical hit.
+B0,Hunter's Boon Lv 3,,Greatly restores the Awakening Gauge with each critical hit.
+B1,Catnap Lv 1,,Slightly increases how much HP the unit automatically recovers while inside an allied stronghold.
+B2,Catnap Lv 2,,Moderately increases how much HP the unit automatically recovers while inside an allied stronghold.
+B3,Catnap Lv 3,,Greatly increases how much HP the unit automatically recovers while inside an allied stronghold.
+B4,King's Might Lv 1,,Slightly increases damage to enemy HP and Stun Gauges when sending them flying.
+B5,King's Might Lv 2,,Moderately increases damage to enemy HP and Stun Gauges when sending them flying.
+B6,King's Might Lv 3,,Greatly increases damage to enemy HP and Stun Gauges when sending them flying.
+B7,Staunch Shield Lv 1,,Taking hits while guarding slightly restores the Warrior Gauge. Perfect Guards restore the gauge even more.
+B8,Staunch Shield Lv 2,,Taking hits while guarding moderately restores the Warrior Gauge. Perfect Guards restore the gauge even more.
+B9,Staunch Shield Lv 3,,Taking hits while guarding greatly restores the Warrior Gauge. Perfect Guards restore the gauge even more.
+BA,Lone Wolf Lv 1,,When no battalion is deployed or if battalion endurance is depleted: slightly increases damage dealt to enemies.
+BB,Lone Wolf Lv 2,,When no battalion is deployed or if battalion endurance is depleted: moderately increases damage dealt to enemies.
+BC,Lone Wolf Lv 3,,When no battalion is deployed or if battalion endurance is depleted: greatly increases damage dealt to enemies.
+BD,Live to Serve Lv 1,,"When magic is used to restore an ally's HP, allows the caster to also recover half the amount of the restored HP."
+BE,Live to Serve Lv 2,,"When magic is used to restore an ally's HP, allows the caster to also recover three-quarters the amount of the restored HP."
+BF,Live to Serve Lv 3,,"When magic is used to restore an ally's HP, allows the caster to also recover an equal amount to the restored HP."
+C0,Lockpick Lv 1,,Allows the unit to open chests without a key and unlock special gates. Also grants a very low chance of increasing items dropped by fallen enemy commanders.
+C1,Lockpick Lv 2,,Allows the unit to open chests without a key and unlock special gates. Also grants a low chance of increasing items dropped by fallen enemy commanders.
+C2,Lockpick Lv 3,,Allows the unit to open chests without a key and unlock special gates. Also grants a moderate chance of increasing items dropped by fallen enemy commanders.
+C3,Overachiever Lv 1,,Defeating 30 or more enemies with a single Warrior Special grants a small increase in damage dealt to enemies for a period of time.
+C4,Overachiever Lv 2,,Defeating 30 or more enemies with a single Warrior Special grants a moderate increase in damage dealt to enemies for a period of time.
+C5,Overachiever Lv 3,,Defeating 30 or more enemies with a single Warrior Special grants a large increase in damage dealt to enemies for a period of time.
+C6,Adept Flirt Lv 1,,When an ally of the opposite sex is nearby or is the unit's adjutant: slightly increases the Awakening Gauge fill rate.
+C7,Adept Flirt Lv 2,,When an ally of the opposite sex is nearby or is the unit's adjutant: moderately increases the Awakening Gauge fill rate.
+C8,Adept Flirt Lv 3,,When an ally of the opposite sex is nearby or is the unit's adjutant: greatly increases the Awakening Gauge fill rate.
+C9,Heavensent Lv 1,,Slightly increases the Warrior Gauge fill rate when attacking enemies launched into the air.
+CA,Heavensent Lv 2,,Moderately increases the Warrior Gauge fill rate when attacking enemies launched into the air.
+CB,Heavensent Lv 3,,Greatly increases the Warrior Gauge fill rate when attacking enemies launched into the air.
+CC,Leader's Acumen Lv 1,,Slightly increases the Awakening Gauge fill rate when attacking enemies launched into the air.
+CD,Leader's Acumen Lv 2,,Moderately increases the Awakening Gauge fill rate when attacking enemies launched into the air.
+CE,Leader's Acumen Lv 3,,Greatly increases the Awakening Gauge fill rate when attacking enemies launched into the air.
+CF,Distinguished House Lv 1,,When a battalion is deployed: slightly increases the Awakening Gauge fill rate.
+D0,Distinguished House Lv 2,,When a battalion is deployed: moderately increases the Awakening Gauge fill rate.
+D1,Distinguished House Lv 3,,When a battalion is deployed: greatly increases the Awakening Gauge fill rate.
+D2,Advocate Lv 1,,When the unit's adjutant is a member of the opposite sex: slightly increases Adjutant Gauge fill rates and slightly increases damage dealt by Adjutant Follow-Ups.
+D3,Advocate Lv 2,,When the unit's adjutant is a member of the opposite sex: moderately increases Adjutant Gauge fill rates and moderately increases damage dealt by Adjutant Follow-Ups.
+D4,Advocate Lv 3,,When the unit's adjutant is a member of the opposite sex: greatly increases Adjutant Gauge fill rates and greatly increases damage dealt by Adjutant Follow-Ups.
+D5,Goody Basket Lv 1,,Slightly increases damage dealt to foes for a period of time after collecting recovery items.
+D6,Goody Basket Lv 2,,Moderately increases damage dealt to foes for a period of time after collecting recovery items.
+D7,Goody Basket Lv 3,,Greatly increases damage dealt to foes for a period of time after collecting recovery items.
+D8,Unsought Power Lv 1,,Slightly restores the Awakening and Warrior Gauges when activating Crests.
+D9,Unsought Power Lv 2,,Moderately restores the Awakening and Warrior Gauges when activating Crests.
+DA,Unsought Power Lv 3,,Greatly restores the Awakening and Warrior Gauges when activating Crests.
+DB,Watchful Eye Lv 1,,Slightly increases the critical hit rate of strong attacks.
+DC,Watchful Eye Lv 2,,Moderately increases the critical hit rate of strong attacks.
+DD,Watchful Eye Lv 3,,Greatly increases the critical hit rate of strong attacks.
+DE,Animal Friend Lv 1,,"When the unit, their adjutant, or a surrounding ally is mounted: slightly restores HP at regular intervals."
+DF,Animal Friend Lv 2,,"When the unit, their adjutant, or a surrounding ally is mounted: moderately restores HP at regular intervals."
+E0,Animal Friend Lv 3,,"When the unit, their adjutant, or a surrounding ally is mounted: greatly restores HP at regular intervals."
+E1,Rivalry Lv 1,,When an ally of the opposite sex is nearby or is the unit's adjutant: slightly increases the Warrior Gauge fill rate.
+E2,Rivalry Lv 2,,When an ally of the opposite sex is nearby or is the unit's adjutant: moderately increases the Warrior Gauge fill rate.
+E3,Rivalry Lv 3,,When an ally of the opposite sex is nearby or is the unit's adjutant: greatly increases the Warrior Gauge fill rate.
+E4,Schemer Lv 1,,Slightly restores the Awakening Gauge with each successful Perfect Dodge.
+E5,Schemer Lv 2,,Moderately restores the Awakening Gauge with each successful Perfect Dodge.
+E6,Schemer Lv 3,,Greatly restores the Awakening Gauge with each successful Perfect Dodge.
+E7,Emergent Magic Lv 1,,Grants a very low chance when using elemental magic to instead cast a more powerful version of that magic.
+E8,Emergent Magic Lv 2,,Grants a low chance when using elemental magic to instead cast a more powerful version of that magic.
+E9,Emergent Magic Lv 3,,Grants a moderate chance when using elemental magic to instead cast a more powerful version of that magic.
+EA,King of Grappling Lv 1,,When HP is at 25% or below: greatly increases critical hit rate.
+EB,King of Grappling Lv 2,,When HP is at 35% or below: greatly increases critical hit rate.
+EC,King of Grappling Lv 3,,When HP is at 50% or below: greatly increases critical hit rate.
+ED,Monstrous Appeal Lv 1,,Deals a very small amount of damage to one of a monster's barriers even when the unit does not attack with the correct elemental weakness.
+EE,Monstrous Appeal Lv 2,,Deals a small amount of damage to one of a monster's barriers even when the unit does not attack with the correct elemental weakness.
+EF,Monstrous Appeal Lv 3,,Deals a moderate amount of damage to one of a monster's barriers even when the unit does not attack with the correct elemental weakness.
+F0,Infirmary Master Lv 1,,"When using a vulnerary, concoction, or elixir, surrounding allies also receive 50% of the medicine's benefits."
+F1,Infirmary Master Lv 2,,"When using a vulnerary, concoction, or elixir, surrounding allies also receive 75% of the medicine's benefits."
+F2,Infirmary Master Lv 3,,"When using a vulnerary, concoction, or elixir, surrounding allies also receive the medicine's full benefits."
+F3,Guardian Lv 1,,"When the unit collects a recovery item, surrounding allies also receive 50% of the item's benefits."
+F4,Guardian Lv 2,,"When the unit collects a recovery item, surrounding allies also receive 75% of the item's benefits."
+F5,Guardian Lv 3,,"When the unit collects a recovery item, surrounding allies also receive the item's full benefits."
+F6,Lily's Poise Lv 1,,"When the unit recovers HP, their adjutant also recovers half the amount of the restored HP."
+F7,Lily's Poise Lv 2,,"When the unit recovers HP, their adjutant also recovers three-quarters the amount of the restored HP."
+F8,Lily's Poise Lv 3,,"When the unit recovers HP, their adjutant also recovers an equal amount to the restored HP."
+F9,Fighting Spirit Lv 1,,When no battalion is deployed or if battalion endurance is depleted: slightly reduces damage from enemies.
+FA,Fighting Spirit Lv 2,,When no battalion is deployed or if battalion endurance is depleted: moderately reduces damage from enemies.
+FB,Fighting Spirit Lv 3,,When no battalion is deployed or if battalion endurance is depleted: greatly reduces damage from enemies.
+FC,Survival Instinct Lv 1,,Slightly restores the Warrior Gauge when an enemy commander is defeated.
+FD,Survival Instinct Lv 2,,Moderately restores the Warrior Gauge when an enemy commander is defeated.
+FE,Survival Instinct Lv 3,,Greatly restores the Warrior Gauge when an enemy commander is defeated.
+FF,Captain's Grit Lv 1,,When a battalion is deployed: slightly reduces knockback from enemies the battalion is effective against.
+100,Captain's Grit Lv 2,,When a battalion is deployed: moderately reduces knockback from enemies the battalion is effective against.
+101,Captain's Grit Lv 3,,When a battalion is deployed: completely prevents knockback from enemies the battalion is effective against.
+102,Power of the Saints Lv 1,,Restores the Awakening Gauge a very small amount at a time.
+103,Power of the Saints Lv 2,,Restores the Awakening Gauge a small amount at a time.
+104,Power of the Saints Lv 3,,Restores the Awakening Gauge a moderate amount at a time.
+105,Murderous Intent Lv 1,,Greatly increases critical hit rate when attacking enemies with full HP.
+106,Murderous Intent Lv 2,,Greatly increases critical hit rate when attacking enemies with 90% or more of their HP.
+107,Murderous Intent Lv 3,,Greatly increases critical hit rate when attacking enemies with 80% or more of their HP.
+108,Right-Hand Man Lv 1,,"When HP is at 25% or below: nullifies critical hits and status effects, and prevents knockback while attacking."
+109,Right-Hand Man Lv 2,,"When HP is at 35% or below: nullifies critical hits and status effects, and prevents knockback while attacking."
+10A,Right-Hand Man Lv 3,,"When HP is at 50% or below: nullifies critical hits and status effects, and prevents knockback while attacking."
+10B,Shrewd Operator Lv 1,,Slightly increases the damage dealt to enemies afflicted with a status effect.
+10C,Shrewd Operator Lv 2,,Moderately increases the damage dealt to enemies afflicted with a status effect.
+10D,Shrewd Operator Lv 3,,Greatly increases the damage dealt to enemies afflicted with a status effect.
+10E,Natural Warrior Lv 1,,When HP is at 50% or below: increases damage to enemy Stun Gauges.
+10F,Natural Warrior Lv 2,,When HP is at 50% or below: greatly increases damage dealt to enemy Stun Gauges.
+110,Natural Warrior Lv 3,,When HP is at 50% or below: massively increases damage dealt to enemy Stun Gauges.
+111,Sacrosanct Lv 1,,"Temporarily nullifies all attack damage for a short amount of time after performing a Perfect Guard, Perfect Dodge, or air recovery."
+112,Sacrosanct Lv 2,,"Temporarily nullifies all attack damage for a moderate amount of time after performing a Perfect Guard, Perfect Dodge, or air recovery."
+113,Sacrosanct Lv 3,,"Temporarily nullifies all attack damage for a large amount of time after performing a Perfect Guard, Perfect Dodge, or air recovery."
+114,Agarthan Arcana Lv 1,,When hit by enemy attacks: inflicts a small amount of proportional damage to surrounding foes.
+115,Agarthan Arcana Lv 2,,When hit by enemy attacks: inflicts a moderate amount of proportional damage to surrounding foes.
+116,Agarthan Arcana Lv 3,,When hit by enemy attacks: inflicts a large amount of proportional damage to surrounding foes.
+117,Nothing to Report Lv 1,,Nullifies a percentage of status effects.
+118,Nothing to Report Lv 2,,Nullifies a high percentage of status effects.
+119,Nothing to Report Lv 3,,Nullifies all status effects.
+11A,,,
+11B,,,
+11C,,,
+11D,,,
+11E,,,
+11F,,,
+120,,,
+121,,,
+122,,,
+123,,,
+124,,,
+125,,,
+126,,,
+127,,,
+128,,,
+129,,,
+12A,,,
+12B,,,
+12C,,,Changes the unit's Unique Action Ability to [SKILL].
+12D,,,Changes the unit's Unique Action Ability to [SKILL].
+12E,Divine Pulse,,Changes the unit's Unique Action Ability to Divine Pulse.
+12F,,,Changes the unit's Unique Action Ability to [SKILL].
+130,Solar Prominence,,Changes the unit's Unique Action Ability to Solar Prominence.
+131,Dark Conjuration,,Changes the unit's Unique Action Ability to Dark Conjuration.
+132,Prismatic Resonance,,Changes the unit's Unique Action Ability to Prismatic Resonance.
+133,Maximum Ambulation,,Changes the unit's Unique Action Ability to Maximum Ambulation.
+134,Personal Space,,Changes the unit's Unique Action Ability to Personal Space.
+135,One for the Books,,Changes the unit's Unique Action Ability to One for the Books.
+136,Windstorm,,Changes the unit's Unique Action Ability to Windstorm.
+137,Easy Breezy,,Changes the unit's Unique Action Ability to Easy Breezy.
+138,Azure Lightning,,Changes the unit's Unique Action Ability to Azure Lightning.
+139,Demolisher,,Changes the unit's Unique Action Ability to Demolisher.
+13A,Intense Velocity,,Changes the unit's Unique Action Ability to Intense Velocity.
+13B,Radiant Love,,Changes the unit's Unique Action Ability to Radiant Love.
+13C,Wind Stance,,Changes the unit's Unique Action Ability to Wind Stance.
+13D,Courageous Aria,,Changes the unit's Unique Action Ability to Courageous Aria.
+13E,Gordian Stroke,,Changes the unit's Unique Action Ability to Gordian Stroke.
+13F,Icy Plunge,,Changes the unit's Unique Action Ability to Icy Plunge.
+140,Dustcloud,,Changes the unit's Unique Action Ability to Dustcloud.
+141,Rondo of Roses,,Changes the unit's Unique Action Ability to Rondo of Roses.
+142,Lightning Bound,,Changes the unit's Unique Action Ability to Lightning Bound.
+143,Pure Brawn,,Changes the unit's Unique Action Ability to Pure Brawn.
+144,Cursed Expulsion,,Changes the unit's Unique Action Ability to Cursed Expulsion.
+145,Dreamer's Paintbrush,,Changes the unit's Unique Action Ability to Dreamer's Paintbrush.
+146,Snowslip,,Changes the unit's Unique Action Ability to Snowslip.
+147,Careful Study,,Changes the unit's Unique Action Ability to Careful Study.
+148,Deceit,,Changes the unit's Unique Action Ability to Deceit.
+149,Personality Shift,,Changes the unit's Unique Action Ability to Personality Shift.
+14A,Golden Fists,,Changes the unit's Unique Action Ability to Golden Fists.
+14B,Nether Sigh,,Changes the unit's Unique Action Ability to Nether Sigh.
+14C,Thunderous Refrain,,Changes the unit's Unique Action Ability to Thunderous Refrain.
+14D,Windswept,,Changes the unit's Unique Action Ability to Windswept.
+14E,Luminous Prayer,,Changes the unit's Unique Action Ability to Luminous Prayer.
+14F,Twofold Ruin,,Changes the unit's Unique Action Ability to Twofold Ruin.
+150,Cold Calculation,,Changes the unit's Unique Action Ability to Cold Calculation.
+151,Blade Breaker,,Changes the unit's Unique Action Ability to Blade Breaker.
+152,,,Changes the unit's Unique Action Ability to [SKILL].
+153,Quietus,,Changes the unit's Unique Action Ability to Quietus.
+154,Martial Prowess,,Changes the unit's Unique Action Ability to Martial Prowess.
+155,Wicked Impulse,,Changes the unit's Unique Action Ability to Wicked Impulse.
+156,Galvanic Surge,,Changes the unit's Unique Action Ability to Galvanic Surge.
+157,,,Changes the unit's Unique Action Ability to [SKILL].
+158,,,Changes the unit's Unique Action Ability to [SKILL].
+159,,,Changes the unit's Unique Action Ability to [SKILL].
+15A,,,Changes the unit's Unique Action Ability to [SKILL].
+15B,,,
+15C,,,
+15D,,,
+15E,Steal,,Periodically increases the number of items that drop when an enemy commander is defeated.
+15F,Locktouch,,Allows the unit to open chests without a key and unlock special gates.
+160,Pass,,Makes it easier to perform Perfect Guards.
+161,Lucky Seven,,"Temporarily increases one of the following stats when an enemy commander is defeated: Str, Mag, Dex, Spd, Lck, Def, or Res."
+162,Impregnable,,Prevents the unit from being knocked back when performing a strong attack.
+163,Terrain Resistance,,Prevents damage from terrain.
+164,Black Magic+,,Increases black magic damage to enemies.
+165,Dark Magic+,,Increases dark magic damage to enemies.
+166,White Magic+,,Increases the amount of HP restored by white magic.
+167,Deadly Scythe,,Grants combat arts and magic a rare chance to instantly defeat non-commander units.
+168,Alert Stance,,Increases the invincibility window when dodging.
+169,Grievous Blow,,Increases critical hit damage to enemies.
+16A,Swordfaire,,Increases critical hit rate when equipped with a sword.
+16B,Bowfaire,,Increases critical hit rate when equipped with a bow.
+16C,Shatter,,Causes strong attacks to break an enemy's guard.
+16D,Fire,,"Grants the unit Fire, or increases the spell's potency if already learned."
+16E,Black Magic Mastery,,Reduces cooldown for black magic.
+16F,Dark Magic Mastery,,Reduces cooldown for dark magic.
+170,White Magic Mastery,,Reduces cooldown for white magic.
+171,Miasma Δ,,"Grants the unit Miasma Δ, or increases the spell's potency if already learned."
+172,Impair,,Extends the duration of status effects inflicted on an enemy.
+173,Heal,,"Grants the unit Heal, or increases the spell's potency if already learned."
+174,Charm,,Restores HP to surrounding allies when an enemy commander is defeated.
+175,Blessed Breath,,"When magic is used to recover the caster's or an ally's HP, restores the caster's Warrior Gauge proportionally."
+176,Swift Awakening,,Increases the amount that successful attacks fill the Awakening Gauge.
+177,Seal Strength,,Temporarily lowers the Str of enemies the unit attacks.
+178,Seal Magic,,Temporarily lowers the Mag of enemies the unit attacks.
+179,Tenacity,,Increases damage to enemies as the unit's HP decreases.
+17A,Ancient Dragon Wrath,,Calculates damage using the lower of the enemy's Def or Res stat.
+17B,Ancient Dragonskin,,Halves damage taken from combat arts and magic.
+17C,Immune Status,,Nullifies all status effects.
+17D,Alert Stance+,,Greatly increases the invincibility window when dodging.
+17E,Crestological Wisdom,,Grants temporary invincibility when attacking with a Hero's Relic.
+17F,Unsealable Magic,,Grants immunity to Silence.
+180,,,
+181,,,
+182,,,
+183,,,
+184,,,
+185,,,
+186,Sword Buster Lv 1,,Grants one tier greater advantage against enemies equipped with swords. Increases damage to them by [0:NUMBER]%.
+187,Sword Buster Lv 2,,Grants one tier greater advantage against enemies equipped with swords. Increases damage to them by [0:NUMBER]%.
+188,Sword Buster Lv 3,,Grants one tier greater advantage against enemies equipped with swords. Increases damage to them by [0:NUMBER]%.
+189,Sword Buster Lv 4,,Grants one tier greater advantage against enemies equipped with swords. Increases damage to them by [0:NUMBER]%.
+18A,Sword Buster Lv 5,,Grants one tier greater advantage against enemies equipped with swords. Increases damage to them by [0:NUMBER]%.
+18B,,,Grants one tier greater advantage against enemies equipped with swords. Increases damage to them by [0:NUMBER]%.
+18C,,,Grants one tier greater advantage against enemies equipped with swords. Increases damage to them by [0:NUMBER]%.
+18D,,,Grants one tier greater advantage against enemies equipped with swords. Increases damage to them by [0:NUMBER]%.
+18E,,,Grants one tier greater advantage against enemies equipped with swords. Increases damage to them by [0:NUMBER]%.
+18F,,,Grants one tier greater advantage against enemies equipped with swords. Increases damage to them by [0:NUMBER]%.
+190,,,Grants one tier greater advantage against enemies equipped with swords. Increases damage to them by [0:NUMBER]%.
+191,Lance Buster Lv 1,,Grants one tier greater advantage against enemies equipped with lances. Increases damage to them by [0:NUMBER]%.
+192,Lance Buster Lv 2,,Grants one tier greater advantage against enemies equipped with lances. Increases damage to them by [0:NUMBER]%.
+193,Lance Buster Lv 3,,Grants one tier greater advantage against enemies equipped with lances. Increases damage to them by [0:NUMBER]%.
+194,Lance Buster Lv 4,,Grants one tier greater advantage against enemies equipped with lances. Increases damage to them by [0:NUMBER]%.
+195,Lance Buster Lv 5,,Grants one tier greater advantage against enemies equipped with lances. Increases damage to them by [0:NUMBER]%.
+196,,,Grants one tier greater advantage against enemies equipped with lances. Increases damage to them by [0:NUMBER]%.
+197,,,Grants one tier greater advantage against enemies equipped with lances. Increases damage to them by [0:NUMBER]%.
+198,,,Grants one tier greater advantage against enemies equipped with lances. Increases damage to them by [0:NUMBER]%.
+199,,,Grants one tier greater advantage against enemies equipped with lances. Increases damage to them by [0:NUMBER]%.
+19A,,,Grants one tier greater advantage against enemies equipped with lances. Increases damage to them by [0:NUMBER]%.
+19B,,,Grants one tier greater advantage against enemies equipped with lances. Increases damage to them by [0:NUMBER]%.
+19C,Axe Buster Lv 1,,Grants one tier greater advantage against enemies equipped with axes. Increases damage to them by [0:NUMBER]%.
+19D,Axe Buster Lv 2,,Grants one tier greater advantage against enemies equipped with axes. Increases damage to them by [0:NUMBER]%.
+19E,Axe Buster Lv 3,,Grants one tier greater advantage against enemies equipped with axes. Increases damage to them by [0:NUMBER]%.
+19F,Axe Buster Lv 4,,Grants one tier greater advantage against enemies equipped with axes. Increases damage to them by [0:NUMBER]%.
+1A0,Axe Buster Lv 5,,Grants one tier greater advantage against enemies equipped with axes. Increases damage to them by [0:NUMBER]%.
+1A1,,,Grants one tier greater advantage against enemies equipped with axes. Increases damage to them by [0:NUMBER]%.
+1A2,,,Grants one tier greater advantage against enemies equipped with axes. Increases damage to them by [0:NUMBER]%.
+1A3,,,Grants one tier greater advantage against enemies equipped with axes. Increases damage to them by [0:NUMBER]%.
+1A4,,,Grants one tier greater advantage against enemies equipped with axes. Increases damage to them by [0:NUMBER]%.
+1A5,,,Grants one tier greater advantage against enemies equipped with axes. Increases damage to them by [0:NUMBER]%.
+1A6,,,Grants one tier greater advantage against enemies equipped with axes. Increases damage to them by [0:NUMBER]%.
+1A7,Bow Buster Lv 1,,Grants one tier greater advantage against enemies equipped with bows. Increases damage to them by [0:NUMBER]%.
+1A8,Bow Buster Lv 2,,Grants one tier greater advantage against enemies equipped with bows. Increases damage to them by [0:NUMBER]%.
+1A9,Bow Buster Lv 3,,Grants one tier greater advantage against enemies equipped with bows. Increases damage to them by [0:NUMBER]%.
+1AA,Bow Buster Lv 4,,Grants one tier greater advantage against enemies equipped with bows. Increases damage to them by [0:NUMBER]%.
+1AB,,,Grants one tier greater advantage against enemies equipped with bows. Increases damage to them by [0:NUMBER]%.
+1AC,,,Grants one tier greater advantage against enemies equipped with bows. Increases damage to them by [0:NUMBER]%.
+1AD,,,Grants one tier greater advantage against enemies equipped with bows. Increases damage to them by [0:NUMBER]%.
+1AE,,,Grants one tier greater advantage against enemies equipped with bows. Increases damage to them by [0:NUMBER]%.
+1AF,,,Grants one tier greater advantage against enemies equipped with bows. Increases damage to them by [0:NUMBER]%.
+1B0,,,Grants one tier greater advantage against enemies equipped with bows. Increases damage to them by [0:NUMBER]%.
+1B1,,,Grants one tier greater advantage against enemies equipped with bows. Increases damage to them by [0:NUMBER]%.
+1B2,Gauntlet Buster Lv 1,,Grants one tier greater advantage against enemies equipped with gauntlets. Increases damage to them by [0:NUMBER]%.
+1B3,Gauntlet Buster Lv 2,,Grants one tier greater advantage against enemies equipped with gauntlets. Increases damage to them by [0:NUMBER]%.
+1B4,Gauntlet Buster Lv 3,,Grants one tier greater advantage against enemies equipped with gauntlets. Increases damage to them by [0:NUMBER]%.
+1B5,Gauntlet Buster Lv 4,,Grants one tier greater advantage against enemies equipped with gauntlets. Increases damage to them by [0:NUMBER]%.
+1B6,Gauntlet Buster Lv 5,,Grants one tier greater advantage against enemies equipped with gauntlets. Increases damage to them by [0:NUMBER]%.
+1B7,,,Grants one tier greater advantage against enemies equipped with gauntlets. Increases damage to them by [0:NUMBER]%.
+1B8,,,Grants one tier greater advantage against enemies equipped with gauntlets. Increases damage to them by [0:NUMBER]%.
+1B9,,,Grants one tier greater advantage against enemies equipped with gauntlets. Increases damage to them by [0:NUMBER]%.
+1BA,,,Grants one tier greater advantage against enemies equipped with gauntlets. Increases damage to them by [0:NUMBER]%.
+1BB,,,Grants one tier greater advantage against enemies equipped with gauntlets. Increases damage to them by [0:NUMBER]%.
+1BC,,,Grants one tier greater advantage against enemies equipped with gauntlets. Increases damage to them by [0:NUMBER]%.
+1BD,Tome Buster Lv 1,,Grants one tier greater advantage against enemies equipped with tomes. Increases damage to them by [0:NUMBER]%.
+1BE,Tome Buster Lv 2,,Grants one tier greater advantage against enemies equipped with tomes. Increases damage to them by [0:NUMBER]%.
+1BF,Tome Buster Lv 3,,Grants one tier greater advantage against enemies equipped with tomes. Increases damage to them by [0:NUMBER]%.
+1C0,Tome Buster Lv 4,,Grants one tier greater advantage against enemies equipped with tomes. Increases damage to them by [0:NUMBER]%.
+1C1,,,Grants one tier greater advantage against enemies equipped with tomes. Increases damage to them by [0:NUMBER]%.
+1C2,Tome Buster Lv 6,,Grants one tier greater advantage against enemies equipped with tomes. Increases damage to them by [0:NUMBER]%.
+1C3,,,Grants one tier greater advantage against enemies equipped with tomes. Increases damage to them by [0:NUMBER]%.
+1C4,,,Grants one tier greater advantage against enemies equipped with tomes. Increases damage to them by [0:NUMBER]%.
+1C5,,,Grants one tier greater advantage against enemies equipped with tomes. Increases damage to them by [0:NUMBER]%.
+1C6,,,Grants one tier greater advantage against enemies equipped with tomes. Increases damage to them by [0:NUMBER]%.
+1C7,,,Grants one tier greater advantage against enemies equipped with tomes. Increases damage to them by [0:NUMBER]%.
+1C8,,,
+1C9,,,
+1CA,,,
+1CB,,,
+1CC,,,
+1CD,,,
+1CE,,,
+1CF,,,
+1D0,,,
+1D1,,,
+1D2,,,
+1D3,,,
+1D4,,,
+1D5,,,
+1D6,,,
+1D7,,,
+1D8,,,
+1D9,,,
+1DA,,,
+1DB,,,
+1DC,,,
+1DD,,,
+1DE,,,Grants one tier greater advantage against cavalry units. Increases damage to them by [0:NUMBER]%.
+1DF,,,Grants one tier greater advantage against cavalry units. Increases damage to them by [0:NUMBER]%.
+1E0,Cavalry Buster Lv 3,,Grants one tier greater advantage against cavalry units. Increases damage to them by [0:NUMBER]%.
+1E1,Cavalry Buster Lv 4,,Grants one tier greater advantage against cavalry units. Increases damage to them by [0:NUMBER]%.
+1E2,,,Grants one tier greater advantage against cavalry units. Increases damage to them by [0:NUMBER]%.
+1E3,,,Grants one tier greater advantage against cavalry units. Increases damage to them by [0:NUMBER]%.
+1E4,,,Grants one tier greater advantage against cavalry units. Increases damage to them by [0:NUMBER]%.
+1E5,,,Grants one tier greater advantage against cavalry units. Increases damage to them by [0:NUMBER]%.
+1E6,,,Grants one tier greater advantage against cavalry units. Increases damage to them by [0:NUMBER]%.
+1E7,,,Grants one tier greater advantage against cavalry units. Increases damage to them by [0:NUMBER]%.
+1E8,,,Grants one tier greater advantage against cavalry units. Increases damage to them by [0:NUMBER]%.
+1E9,,,
+1EA,,,
+1EB,,,
+1EC,,,
+1ED,,,
+1EE,,,
+1EF,,,
+1F0,,,
+1F1,,,
+1F2,,,
+1F3,,,
+1F4,Resist Swords Lv 1,,Grants one tier greater advantage against enemies equipped with swords. Reduces damage from them by [0:NUMBER]%.
+1F5,Resist Swords Lv 2,,Grants one tier greater advantage against enemies equipped with swords. Reduces damage from them by [0:NUMBER]%.
+1F6,Resist Swords Lv 3,,Grants one tier greater advantage against enemies equipped with swords. Reduces damage from them by [0:NUMBER]%.
+1F7,Resist Swords Lv 4,,Grants one tier greater advantage against enemies equipped with swords. Reduces damage from them by [0:NUMBER]%.
+1F8,Resist Swords Lv 5,,Grants one tier greater advantage against enemies equipped with swords. Reduces damage from them by [0:NUMBER]%.
+1F9,Resist Swords Lv 6,,Grants one tier greater advantage against enemies equipped with swords. Reduces damage from them by [0:NUMBER]%.
+1FA,Resist Swords Lv 7,,Grants one tier greater advantage against enemies equipped with swords. Reduces damage from them by [0:NUMBER]%.
+1FB,,,Grants one tier greater advantage against enemies equipped with swords. Reduces damage from them by [0:NUMBER]%.
+1FC,Resist Swords Lv 9,,Grants one tier greater advantage against enemies equipped with swords. Reduces damage from them by [0:NUMBER]%.
+1FD,,,Grants one tier greater advantage against enemies equipped with swords. Reduces damage from them by [0:NUMBER]%.
+1FE,,,Grants one tier greater advantage against enemies equipped with swords. Reduces damage from them by [0:NUMBER]%.
+1FF,Resist Lances Lv 1,,Grants one tier greater advantage against enemies equipped with lances. Reduces damage from them by [0:NUMBER]%.
+200,Resist Lances Lv 2,,Grants one tier greater advantage against enemies equipped with lances. Reduces damage from them by [0:NUMBER]%.
+201,Resist Lances Lv 3,,Grants one tier greater advantage against enemies equipped with lances. Reduces damage from them by [0:NUMBER]%.
+202,Resist Lances Lv 4,,Grants one tier greater advantage against enemies equipped with lances. Reduces damage from them by [0:NUMBER]%.
+203,Resist Lances Lv 5,,Grants one tier greater advantage against enemies equipped with lances. Reduces damage from them by [0:NUMBER]%.
+204,Resist Lances Lv 6,,Grants one tier greater advantage against enemies equipped with lances. Reduces damage from them by [0:NUMBER]%.
+205,Resist Lances Lv 7,,Grants one tier greater advantage against enemies equipped with lances. Reduces damage from them by [0:NUMBER]%.
+206,,,Grants one tier greater advantage against enemies equipped with lances. Reduces damage from them by [0:NUMBER]%.
+207,,,Grants one tier greater advantage against enemies equipped with lances. Reduces damage from them by [0:NUMBER]%.
+208,Resist Lances Lv 10,,Grants one tier greater advantage against enemies equipped with lances. Reduces damage from them by [0:NUMBER]%.
+209,,,Grants one tier greater advantage against enemies equipped with lances. Reduces damage from them by [0:NUMBER]%.
+20A,Resist Axes Lv 1,,Grants one tier greater advantage against enemies equipped with axes. Reduces damage from them by [0:NUMBER]%.
+20B,Resist Axes Lv 2,,Grants one tier greater advantage against enemies equipped with axes. Reduces damage from them by [0:NUMBER]%.
+20C,Resist Axes Lv 3,,Grants one tier greater advantage against enemies equipped with axes. Reduces damage from them by [0:NUMBER]%.
+20D,Resist Axes Lv 4,,Grants one tier greater advantage against enemies equipped with axes. Reduces damage from them by [0:NUMBER]%.
+20E,Resist Axes Lv 5,,Grants one tier greater advantage against enemies equipped with axes. Reduces damage from them by [0:NUMBER]%.
+20F,Resist Axes Lv 6,,Grants one tier greater advantage against enemies equipped with axes. Reduces damage from them by [0:NUMBER]%.
+210,,,Grants one tier greater advantage against enemies equipped with axes. Reduces damage from them by [0:NUMBER]%.
+211,Resist Axes Lv 8,,Grants one tier greater advantage against enemies equipped with axes. Reduces damage from them by [0:NUMBER]%.
+212,,,Grants one tier greater advantage against enemies equipped with axes. Reduces damage from them by [0:NUMBER]%.
+213,,,Grants one tier greater advantage against enemies equipped with axes. Reduces damage from them by [0:NUMBER]%.
+214,,,Grants one tier greater advantage against enemies equipped with axes. Reduces damage from them by [0:NUMBER]%.
+215,,,Grants one tier greater advantage against enemies equipped with bows. Reduces damage from them by [0:NUMBER]%.
+216,Resist Bows Lv 2,,Grants one tier greater advantage against enemies equipped with bows. Reduces damage from them by [0:NUMBER]%.
+217,Resist Bows Lv 3,,Grants one tier greater advantage against enemies equipped with bows. Reduces damage from them by [0:NUMBER]%.
+218,Resist Bows Lv 4,,Grants one tier greater advantage against enemies equipped with bows. Reduces damage from them by [0:NUMBER]%.
+219,Resist Bows Lv 5,,Grants one tier greater advantage against enemies equipped with bows. Reduces damage from them by [0:NUMBER]%.
+21A,Resist Bows Lv 6,,Grants one tier greater advantage against enemies equipped with bows. Reduces damage from them by [0:NUMBER]%.
+21B,,,Grants one tier greater advantage against enemies equipped with bows. Reduces damage from them by [0:NUMBER]%.
+21C,,,Grants one tier greater advantage against enemies equipped with bows. Reduces damage from them by [0:NUMBER]%.
+21D,,,Grants one tier greater advantage against enemies equipped with bows. Reduces damage from them by [0:NUMBER]%.
+21E,,,Grants one tier greater advantage against enemies equipped with bows. Reduces damage from them by [0:NUMBER]%.
+21F,,,Grants one tier greater advantage against enemies equipped with bows. Reduces damage from them by [0:NUMBER]%.
+220,,,Grants one tier greater advantage against enemies equipped with gauntlets. Reduces damage from them by [0:NUMBER]%.
+221,Resist Gauntlets Lv 2,,Grants one tier greater advantage against enemies equipped with gauntlets. Reduces damage from them by [0:NUMBER]%.
+222,Resist Gauntlets Lv 3,,Grants one tier greater advantage against enemies equipped with gauntlets. Reduces damage from them by [0:NUMBER]%.
+223,Resist Gauntlets Lv 4,,Grants one tier greater advantage against enemies equipped with gauntlets. Reduces damage from them by [0:NUMBER]%.
+224,Resist Gauntlets Lv 5,,Grants one tier greater advantage against enemies equipped with gauntlets. Reduces damage from them by [0:NUMBER]%.
+225,Resist Gauntlets Lv 6,,Grants one tier greater advantage against enemies equipped with gauntlets. Reduces damage from them by [0:NUMBER]%.
+226,,,Grants one tier greater advantage against enemies equipped with gauntlets. Reduces damage from them by [0:NUMBER]%.
+227,,,Grants one tier greater advantage against enemies equipped with gauntlets. Reduces damage from them by [0:NUMBER]%.
+228,,,Grants one tier greater advantage against enemies equipped with gauntlets. Reduces damage from them by [0:NUMBER]%.
+229,,,Grants one tier greater advantage against enemies equipped with gauntlets. Reduces damage from them by [0:NUMBER]%.
+22A,,,Grants one tier greater advantage against enemies equipped with gauntlets. Reduces damage from them by [0:NUMBER]%.
+22B,,,Grants one tier greater advantage against enemies equipped with tomes. Reduces damage from them by [0:NUMBER]%.
+22C,Resist Tomes Lv 2,,Grants one tier greater advantage against enemies equipped with tomes. Reduces damage from them by [0:NUMBER]%.
+22D,Resist Tomes Lv 3,,Grants one tier greater advantage against enemies equipped with tomes. Reduces damage from them by [0:NUMBER]%.
+22E,Resist Tomes Lv 4,,Grants one tier greater advantage against enemies equipped with tomes. Reduces damage from them by [0:NUMBER]%.
+22F,Resist Tomes Lv 5,,Grants one tier greater advantage against enemies equipped with tomes. Reduces damage from them by [0:NUMBER]%.
+230,Resist Tomes Lv 6,,Grants one tier greater advantage against enemies equipped with tomes. Reduces damage from them by [0:NUMBER]%.
+231,,,Grants one tier greater advantage against enemies equipped with tomes. Reduces damage from them by [0:NUMBER]%.
+232,,,Grants one tier greater advantage against enemies equipped with tomes. Reduces damage from them by [0:NUMBER]%.
+233,,,Grants one tier greater advantage against enemies equipped with tomes. Reduces damage from them by [0:NUMBER]%.
+234,,,Grants one tier greater advantage against enemies equipped with tomes. Reduces damage from them by [0:NUMBER]%.
+235,,,Grants one tier greater advantage against enemies equipped with tomes. Reduces damage from them by [0:NUMBER]%.
+236,,,Grants one tier greater advantage against monsters. Reduces damage from them by [0:NUMBER]%.
+237,,,Grants one tier greater advantage against monsters. Reduces damage from them by [0:NUMBER]%.
+238,Resist Monsters Lv 3,,Grants one tier greater advantage against monsters. Reduces damage from them by [0:NUMBER]%.
+239,Resist Monsters Lv 4,,Grants one tier greater advantage against monsters. Reduces damage from them by [0:NUMBER]%.
+23A,Resist Monsters Lv 5,,Grants one tier greater advantage against monsters. Reduces damage from them by [0:NUMBER]%.
+23B,Resist Monsters Lv 6,,Grants one tier greater advantage against monsters. Reduces damage from them by [0:NUMBER]%.
+23C,Resist Monsters Lv 7,,Grants one tier greater advantage against monsters. Reduces damage from them by [0:NUMBER]%.
+23D,,,Grants one tier greater advantage against monsters. Reduces damage from them by [0:NUMBER]%.
+23E,,,Grants one tier greater advantage against monsters. Reduces damage from them by [0:NUMBER]%.
+23F,,,Grants one tier greater advantage against monsters. Reduces damage from them by [0:NUMBER]%.
+240,,,Grants one tier greater advantage against monsters. Reduces damage from them by [0:NUMBER]%.
+241,,,Grants one tier greater advantage against armored units. Reduces damage from them by [0:NUMBER]%.
+242,,,Grants one tier greater advantage against armored units. Reduces damage from them by [0:NUMBER]%.
+243,,,Grants one tier greater advantage against armored units. Reduces damage from them by [0:NUMBER]%.
+244,Resist Armor Lv 4,,Grants one tier greater advantage against armored units. Reduces damage from them by [0:NUMBER]%.
+245,Resist Armor Lv 5,,Grants one tier greater advantage against armored units. Reduces damage from them by [0:NUMBER]%.
+246,,,Grants one tier greater advantage against armored units. Reduces damage from them by [0:NUMBER]%.
+247,,,Grants one tier greater advantage against armored units. Reduces damage from them by [0:NUMBER]%.
+248,,,Grants one tier greater advantage against armored units. Reduces damage from them by [0:NUMBER]%.
+249,,,Grants one tier greater advantage against armored units. Reduces damage from them by [0:NUMBER]%.
+24A,,,Grants one tier greater advantage against armored units. Reduces damage from them by [0:NUMBER]%.
+24B,,,Grants one tier greater advantage against armored units. Reduces damage from them by [0:NUMBER]%.
+24C,,,Grants one tier greater advantage against cavalry units. Reduces damage from them by [0:NUMBER]%.
+24D,,,Grants one tier greater advantage against cavalry units. Reduces damage from them by [0:NUMBER]%.
+24E,,,Grants one tier greater advantage against cavalry units. Reduces damage from them by [0:NUMBER]%.
+24F,Resist Cavalry Lv 4,,Grants one tier greater advantage against cavalry units. Reduces damage from them by [0:NUMBER]%.
+250,Resist Cavalry Lv 5,,Grants one tier greater advantage against cavalry units. Reduces damage from them by [0:NUMBER]%.
+251,,,Grants one tier greater advantage against cavalry units. Reduces damage from them by [0:NUMBER]%.
+252,Resist Cavalry Lv 7,,Grants one tier greater advantage against cavalry units. Reduces damage from them by [0:NUMBER]%.
+253,,,Grants one tier greater advantage against cavalry units. Reduces damage from them by [0:NUMBER]%.
+254,,,Grants one tier greater advantage against cavalry units. Reduces damage from them by [0:NUMBER]%.
+255,,,Grants one tier greater advantage against cavalry units. Reduces damage from them by [0:NUMBER]%.
+256,,,Grants one tier greater advantage against cavalry units. Reduces damage from them by [0:NUMBER]%.
+257,,,Grants one tier greater advantage against flying units. Reduces damage from them by [0:NUMBER]%.
+258,,,Grants one tier greater advantage against flying units. Reduces damage from them by [0:NUMBER]%.
+259,,,Grants one tier greater advantage against flying units. Reduces damage from them by [0:NUMBER]%.
+25A,Resist Fliers Lv 4,,Grants one tier greater advantage against flying units. Reduces damage from them by [0:NUMBER]%.
+25B,Resist Fliers Lv 5,,Grants one tier greater advantage against flying units. Reduces damage from them by [0:NUMBER]%.
+25C,,,Grants one tier greater advantage against flying units. Reduces damage from them by [0:NUMBER]%.
+25D,,,Grants one tier greater advantage against flying units. Reduces damage from them by [0:NUMBER]%.
+25E,,,Grants one tier greater advantage against flying units. Reduces damage from them by [0:NUMBER]%.
+25F,,,Grants one tier greater advantage against flying units. Reduces damage from them by [0:NUMBER]%.
+260,,,Grants one tier greater advantage against flying units. Reduces damage from them by [0:NUMBER]%.
+261,,,Grants one tier greater advantage against flying units. Reduces damage from them by [0:NUMBER]%.
+262,,,
+263,,,
+264,,,
+265,,,
+266,,,
+267,,,
+268,,,
+269,,,
+26A,,,
+26B,,,
+26C,,,
+26D,,,
+26E,,,
+26F,,,
+270,,,
+271,,,
+272,,,
+273,,,
+274,,,
+275,,,
+276,,,
+277,,,
+278,,,
+279,,,
+27A,,,
+27B,,,
+27C,,,
+27D,,,
+27E,,,
+27F,,,
+280,,,
+281,,,
+282,,,
+283,,,
+284,,,
+285,,,
+286,,,
+287,,,
+288,,,
+289,,,
+28A,Mercenary Creed Lv 1,,When ordered to attack: increases damage dealt to enemies by 30%.
+28B,Mercenary Creed Lv 2,,When ordered to attack: increases damage dealt to enemies by 40%.
+28C,Mercenary Creed Lv 3,,When ordered to attack: increases damage dealt to enemies by 50%.
+28D,Unfeeling Blade Lv 1,,When ordered to attack: increases damage dealt to enemies by 30%.
+28E,Unfeeling Blade Lv 2,,When ordered to attack: increases damage dealt to enemies by 40%.
+28F,Unfeeling Blade Lv 3,,When ordered to attack: increases damage dealt to enemies by 50%.
+290,Ambition Lv 1,,When ordered to attack: reduces damage received from enemies by 30%.
+291,Ambition Lv 2,,When ordered to attack: reduces damage received from enemies by 40%.
+292,Ambition Lv 3,,When ordered to attack: reduces damage received from enemies by 50%.
+293,Officer's Duty Lv 1,,When ordered to guard: reduces damage received from enemies by 30%.
+294,Officer's Duty Lv 2,,When ordered to guard: reduces damage received from enemies by 40%.
+295,Officer's Duty Lv 3,,When ordered to guard: reduces damage received from enemies by 50%.
+296,Center Stage Lv 1,,When ordered to seize: increases damage dealt to enemies by 30%.
+297,Center Stage Lv 2,,When ordered to seize: increases damage dealt to enemies by 40%.
+298,Center Stage Lv 3,,When ordered to seize: increases damage dealt to enemies by 50%.
+299,Noble Pride Lv 1,,When ordered to seize: reduces damage received from enemies by 30%.
+29A,Noble Pride Lv 2,,When ordered to seize: reduces damage received from enemies by 40%.
+29B,Noble Pride Lv 3,,When ordered to seize: reduces damage received from enemies by 50%.
+29C,Master of Concealment Lv 1,,When ordered to defend: increases damage dealt to enemies by 30%.
+29D,Master of Concealment Lv 2,,When ordered to defend: increases damage dealt to enemies by 40%.
+29E,Master of Concealment Lv 3,,When ordered to defend: increases damage dealt to enemies by 50%.
+29F,Born Fighter Lv 1,,When ordered to seize: increases damage dealt to enemies by 30%.
+2A0,Born Fighter Lv 2,,When ordered to seize: increases damage dealt to enemies by 40%.
+2A1,Born Fighter Lv 3,,When ordered to seize: increases damage dealt to enemies by 50%.
+2A2,Outland Technique Lv 1,,When ordered to attack: increases damage dealt to enemies by 30%.
+2A3,Outland Technique Lv 2,,When ordered to attack: increases damage dealt to enemies by 40%.
+2A4,Outland Technique Lv 3,,When ordered to attack: increases damage dealt to enemies by 50%.
+2A5,Logician Lv 1,,When ordered to defend: reduces damage received from enemies by 30%.
+2A6,Logician Lv 2,,When ordered to defend: reduces damage received from enemies by 40%.
+2A7,Logician Lv 3,,When ordered to defend: reduces damage received from enemies by 50%.
+2A8,Reign Lv 1,,When ordered to attack: increases damage dealt to enemies by 30%.
+2A9,Reign Lv 2,,When ordered to attack: increases damage dealt to enemies by 40%.
+2AA,Reign Lv 3,,When ordered to attack: increases damage dealt to enemies by 50%.
+2AB,Life and Limb Lv 1,,When ordered to guard: reduces damage received from enemies by 30%.
+2AC,Life and Limb Lv 2,,When ordered to guard: reduces damage received from enemies by 40%.
+2AD,Life and Limb Lv 3,,When ordered to guard: reduces damage received from enemies by 50%.
+2AE,Eager Blade Lv 1,,When ordered to seize: increases damage dealt to enemies by 30%.
+2AF,Eager Blade Lv 2,,When ordered to seize: increases damage dealt to enemies by 40%.
+2B0,Eager Blade Lv 3,,When ordered to seize: increases damage dealt to enemies by 50%.
+2B1,Devotion Lv 1,,When ordered to defend: reduces damage received from enemies by 30%.
+2B2,Devotion Lv 2,,When ordered to defend: reduces damage received from enemies by 40%.
+2B3,Devotion Lv 3,,When ordered to defend: reduces damage received from enemies by 50%.
+2B4,Knight's Oath Lv 1,,When ordered to seize: reduces damage received from enemies by 30%.
+2B5,Knight's Oath Lv 2,,When ordered to seize: reduces damage received from enemies by 40%.
+2B6,Knight's Oath Lv 3,,When ordered to seize: reduces damage received from enemies by 50%.
+2B7,Ray of Sunshine Lv 1,,When ordered to defend: increases damage dealt to enemies by 30%.
+2B8,Ray of Sunshine Lv 2,,When ordered to defend: increases damage dealt to enemies by 40%.
+2B9,Ray of Sunshine Lv 3,,When ordered to defend: increases damage dealt to enemies by 50%.
+2BA,Valiant Bloodline Lv 1,,When ordered to attack: reduces damage received from enemies by 30%.
+2BB,Valiant Bloodline Lv 2,,When ordered to attack: reduces damage received from enemies by 40%.
+2BC,Valiant Bloodline Lv 3,,When ordered to attack: reduces damage received from enemies by 50%.
+2BD,Sworn Lance Lv 1,,When ordered to guard: increases damage dealt to enemies by 30%.
+2BE,Sworn Lance Lv 2,,When ordered to guard: increases damage dealt to enemies by 40%.
+2BF,Sworn Lance Lv 3,,When ordered to guard: increases damage dealt to enemies by 50%.
+2C0,Foresight Lv 1,,When ordered to defend: increases damage dealt to enemies by 30%.
+2C1,Foresight Lv 2,,When ordered to defend: increases damage dealt to enemies by 40%.
+2C2,Foresight Lv 3,,When ordered to defend: increases damage dealt to enemies by 50%.
+2C3,Noble Duty Lv 1,,When ordered to guard: increases damage dealt to enemies by 30%.
+2C4,Noble Duty Lv 2,,When ordered to guard: increases damage dealt to enemies by 40%.
+2C5,Noble Duty Lv 3,,When ordered to guard: increases damage dealt to enemies by 50%.
+2C6,Delicate Flower Lv 1,,When ordered to seize: increases damage dealt to enemies by 30%.
+2C7,Delicate Flower Lv 2,,When ordered to seize: increases damage dealt to enemies by 40%.
+2C8,Delicate Flower Lv 3,,When ordered to seize: increases damage dealt to enemies by 50%.
+2C9,Unbending Spirit Lv 1,,When ordered to guard: reduces damage received from enemies by 30%.
+2CA,Unbending Spirit Lv 2,,When ordered to guard: reduces damage received from enemies by 40%.
+2CB,Unbending Spirit Lv 3,,When ordered to guard: reduces damage received from enemies by 50%.
+2CC,Virtuoso Lv 1,,When ordered to attack: increases damage dealt to enemies by 30%.
+2CD,Virtuoso Lv 2,,When ordered to attack: increases damage dealt to enemies by 40%.
+2CE,Virtuoso Lv 3,,When ordered to attack: increases damage dealt to enemies by 50%.
+2CF,Heart's Desire Lv 1,,When ordered to seize: reduces damage received from enemies by 30%.
+2D0,Heart's Desire Lv 2,,When ordered to seize: reduces damage received from enemies by 40%.
+2D1,Heart's Desire Lv 3,,When ordered to seize: reduces damage received from enemies by 50%.
+2D2,Reverence Lv 1,,When ordered to defend: reduces damage received from enemies by 30%.
+2D3,Reverence Lv 2,,When ordered to defend: reduces damage received from enemies by 40%.
+2D4,Reverence Lv 3,,When ordered to defend: reduces damage received from enemies by 50%.
+2D5,Makings of a Merc Lv 1,,When ordered to attack: reduces damage received from enemies by 30%.
+2D6,Makings of a Merc Lv 2,,When ordered to attack: reduces damage received from enemies by 40%.
+2D7,Makings of a Merc Lv 3,,When ordered to attack: reduces damage received from enemies by 50%.
+2D8,Honorable Spirit Lv 1,,When ordered to defend: increases damage dealt to enemies by 30%.
+2D9,Honorable Spirit Lv 2,,When ordered to defend: increases damage dealt to enemies by 40%.
+2DA,Honorable Spirit Lv 3,,When ordered to defend: increases damage dealt to enemies by 50%.
+2DB,Resolute Path Lv 1,,When ordered to seize: reduces damage received from enemies by 30%.
+2DC,Resolute Path Lv 2,,When ordered to seize: reduces damage received from enemies by 40%.
+2DD,Resolute Path Lv 3,,When ordered to seize: reduces damage received from enemies by 50%.
+2DE,Raging Tempest Lv 1,,When ordered to seize: increases damage dealt to enemies by 30%.
+2DF,Raging Tempest Lv 2,,When ordered to seize: increases damage dealt to enemies by 40%.
+2E0,Raging Tempest Lv 3,,When ordered to seize: increases damage dealt to enemies by 50%.
+2E1,Power of Night Lv 1,,When ordered to guard: increases damage dealt to enemies by 30%.
+2E2,Power of Night Lv 2,,When ordered to guard: increases damage dealt to enemies by 40%.
+2E3,Power of Night Lv 3,,When ordered to guard: increases damage dealt to enemies by 50%.
+2E4,Polymath Lv 1,,When ordered to attack: reduces damage received from enemies by 30%.
+2E5,Polymath Lv 2,,When ordered to attack: reduces damage received from enemies by 40%.
+2E6,Polymath Lv 3,,When ordered to attack: reduces damage received from enemies by 50%.
+2E7,Second-in-Command Lv 1,,When ordered to guard: reduces damage received from enemies by 30%.
+2E8,Second-in-Command Lv 2,,When ordered to guard: reduces damage received from enemies by 40%.
+2E9,Second-in-Command Lv 3,,When ordered to guard: reduces damage received from enemies by 50%.
+2EA,Healthy Curiosity Lv 1,,When ordered to seize: reduces damage received from enemies by 30%.
+2EB,Healthy Curiosity Lv 2,,When ordered to seize: reduces damage received from enemies by 40%.
+2EC,Healthy Curiosity Lv 3,,When ordered to seize: reduces damage received from enemies by 50%.
+2ED,Nature's Wrath Lv 1,,When ordered to seize: increases damage dealt to enemies by 30%.
+2EE,Nature's Wrath Lv 2,,When ordered to seize: increases damage dealt to enemies by 40%.
+2EF,Nature's Wrath Lv 3,,When ordered to seize: increases damage dealt to enemies by 50%.
+2F0,Deadly Aim Lv 1,,When ordered to attack: increases damage dealt to enemies by 30%.
+2F1,Deadly Aim Lv 2,,When ordered to attack: increases damage dealt to enemies by 40%.
+2F2,Deadly Aim Lv 3,,When ordered to attack: increases damage dealt to enemies by 50%.
+2F3,Veteran Commander Lv 1,,When ordered to seize: reduces damage received from enemies by 30%.
+2F4,Veteran Commander Lv 2,,When ordered to seize: reduces damage received from enemies by 40%.
+2F5,Veteran Commander Lv 3,,When ordered to seize: reduces damage received from enemies by 50%.
+2F6,Merciful Auspices Lv 1,,When ordered to defend: reduces damage received from enemies by 30%.
+2F7,Merciful Auspices Lv 2,,When ordered to defend: reduces damage received from enemies by 40%.
+2F8,Merciful Auspices Lv 3,,When ordered to defend: reduces damage received from enemies by 50%.
+2F9,Obliteration Lv 1,,When ordered to attack: increases damage dealt to enemies by 30%.
+2FA,Obliteration Lv 2,,When ordered to attack: increases damage dealt to enemies by 40%.
+2FB,Obliteration Lv 3,,When ordered to attack: increases damage dealt to enemies by 50%.
+2FC,King's Lance Lv 1,,When ordered to guard: reduces damage received from enemies by 30%.
+2FD,King's Lance Lv 2,,When ordered to guard: reduces damage received from enemies by 40%.
+2FE,King's Lance Lv 3,,When ordered to guard: reduces damage received from enemies by 50%.
+2FF,Perfect Memory Lv 1,,When ordered to guard: increases damage dealt to enemies by 30%.
+300,Perfect Memory Lv 2,,When ordered to guard: increases damage dealt to enemies by 40%.
+301,Perfect Memory Lv 3,,When ordered to guard: increases damage dealt to enemies by 50%.
+302,True Champion Lv 1,,When ordered to defend: increases damage dealt to enemies by 30%.
+303,True Champion Lv 2,,When ordered to defend: increases damage dealt to enemies by 40%.
+304,True Champion Lv 3,,When ordered to defend: increases damage dealt to enemies by 50%.
+305,Hand of Time Lv 1,,When ordered to guard: reduces damage received from enemies by 30%.
+306,Hand of Time Lv 2,,When ordered to guard: reduces damage received from enemies by 40%.
+307,Hand of Time Lv 3,,When ordered to guard: reduces damage received from enemies by 50%.
+308,Vigilant Gaze Lv 1,,When ordered to defend: increases damage dealt to enemies by 30%.
+309,Vigilant Gaze Lv 2,,When ordered to defend: increases damage dealt to enemies by 40%.
+30A,Vigilant Gaze Lv 3,,When ordered to defend: increases damage dealt to enemies by 50%.
+30B,Soldier's Honor Lv 1,,When ordered to defend: reduces damage received from enemies by 30%.
+30C,Soldier's Honor Lv 2,,When ordered to defend: reduces damage received from enemies by 40%.
+30D,Soldier's Honor Lv 3,,When ordered to defend: reduces damage received from enemies by 50%.
+30E,??? (dupe),,Some weapons gain an attribute when repaired.
+30F,Morale Level 1,,Increases damage to enemies by [0:NUMBER]%.
+310,Morale Level 2,,Increases damage to enemies by [0:NUMBER]%.
+311,Morale Level 3,,Increases damage to enemies by [0:NUMBER]%.
+312,,,
+313,???,,This hidden attribute can be unlocked at the blacksmith.
+314,Effective vs Monsters,,Effective against monsters.
+315,Effective vs Fliers,,Effective against flying units.
+316,Effective vs Armored Units,,Effective against armored units.
+317,Effective vs Cavalry,,Effective against cavalry units.
+318,,,
+319,,,
+31A,,,
+31B,,,
+31C,,,
+31D,,,
+31E,Strengthened State,,Enhances the unit's attack and defense.
+31F,Weakened State,,Weakens the unit's attack and defense.
+320,Boost Critical Lv 2 (dupe),,Increases critical hit rate.
+321,Lightning Crash,,Calculates damage using the unit's Mag stat. Strong attacks periodically trigger lightning magic.
+322,Witstrike,,Calculates damage using the unit's Mag stat.
+323,,,Moderately increases damage to enemies launched into the air.
+324,Range+,,Extends the range of bows.
+325,Holy Glow,,Restores HP at regular intervals.
+326,Price of Power,,When HP is at [0:NUMBER]% or above: attacking causes the unit to sustain damage for a period of time.
+327,Divine Glow,,Restores a large amount of HP at regular intervals.
+328,Seiros's Favor,,Restores HP proportional to damage dealt by the unit.
+329,Sacred Synchronicity,,
+32A,Price of Power+,,"When HP is at [0:NUMBER]% or above: critical hit rate is greatly increased, but attacking causes the unit to sustain damage for a period of time."
+32B,Relentless Barrage,,Reduces the cooldown of combat arts by [0:NUMBER]%.
+32C,Subversion,,Drastically increases critical hit rate for magical attacks.
+32D,Impulse,,Drastically increases the critical hit rate for combat arts.
+32E,Lethal Blow,,Allows the unit to damage enemies that are guarding.
+32F,Scorch,,Strong attacks periodically trigger Bolganone.
+330,Overwhelm,,Greatly increases damage to enemy Stun Gauges.
+331,Stagger,,Periodically produces the Stun Gauge when attacking.
+332,Windbender,,Greatly extends the range of bows.
+333,Unstoppable,,Restores the Warrior and Awakening Gauges when an enemy commander is defeated.
+334,Twin-Crest's Darkness,,Causes attacks to hit twice.
+335,Venom Edge Lv 2 (dupe),,Grants attacks a chance to poison enemies.
+336,Divine Ancestry,,When equipped by [BYLETH_MF] or Sothis: causes attacks to hit twice.
+337,Eye for an Eye,,Increases damage to enemies as the unit's HP decreases.
+338,Resistance Breaker,,When attacking enemies equipped with tomes: reduces the enemy's Res by [0:NUMBER]% when calculating damage.
+339,Brawnstrike,,Calculates damage using the unit's Str stat.
+33A,Relentless Magic,,Reduces magic cooldown by [0:NUMBER]%.
+33B,Radiance,,Strong attacks periodically trigger Nosferatu.
+33C,Naturebender,,Calculates damage using the higher of the unit's Str or Mag stat.
+33D,,,
+33E,,,
+33F,,,
+340,,,
+341,,,
+342,,,
+343,,,
+344,,,
+345,,,
+346,,,
+347,,,
+348,,,
+349,,,
+34A,,,
+34B,,,
+34C,,,
+34D,,,
+34E,,,
+34F,,,
+350,,,
+351,,,
+352,Heroic Synchronicity,,
+353,Divine Glow (dupe),,Restores a large amount of HP at regular intervals.
+354,Immune Status (dupe),,Nullifies all status effects.
+355,Sacred Synchronicity (dupe),,
+356,Monster Aegis,,Halves damage from monsters.
+357,Nullify Flying Effect,,Nullifies effectiveness against flying units.
+358,Nullify Armored Effect,,Nullifies effectiveness against armored units.
+359,Nullify Cavalry Effect,,Nullifies effectiveness against cavalry units.
+35A,Boost Critical (dupe),,Increases critical hit rate.
+35B,Alert Stance (dupe),,Increases the invincibility window when dodging.
+35C,Renewal (dupe),,Restores a slight amount of HP at regular intervals.
+35D,Expert Wizardry,,Increases the damage of Mag-based attacks.
+35E,Expert Healing,,Increases the recovery amount of healing magic.
+35F,Far-Reaching Magic,,Extends the range of long-distance tome attacks.
+360,Nullify All Effects,,Nullifies all effective attacks.
+361,Experience+,,Increases Exp gained on the battlefield.
+362,Class Experience+,,Increases class Exp gained on the battlefield.
+363,Counterattack,,Enemies take damage proportional to the damage they inflict.
+364,Earthshrinker,,Grants cavalry mobility to any unit.
+365,,,
+366,Immune Status (dupe),,Nullifies all status effects.
+367,,,
+368,,,
+369,,,
+36A,,,
+36B,,,
+36C,,,
+36D,,,
+36E,,,
+36F,,,
+370,,,
+371,,,
+372,,,
+373,,,
+374,,,
+375,,,
+376,,,
+377,,,
+378,,,
+379,,,
+37A,,,
+37B,,,
+37C,,,
+37D,Sword Prowess,,Increases damage dealt to enemies when equipped with a sword.
+37E,Lance Prowess,,Increases damage dealt to enemies when equipped with a lance.
+37F,Axe Prowess,,Increases damage dealt to enemies when equipped with an axe.
+380,Bow Prowess,,Increases damage dealt to enemies when equipped with a bow.
+381,Brawling Prowess,,Increases damage dealt to enemies when equipped with gauntlets.
+382,Reason,,Increases damage dealt to enemies when equipped with a tome.
+383,Faith,,Increases the recovery amount of healing magic.
+384,Sword Prowess Lv 1,,When a sword is equipped: increases damage to enemies by [0:NUMBER]%.
+385,Sword Prowess Lv 2,,When a sword is equipped: increases damage to enemies by [0:NUMBER]%.
+386,Sword Prowess Lv 3,,When a sword is equipped: increases damage to enemies by [0:NUMBER]%.
+387,,,When a sword is equipped: increases damage to enemies by [0:NUMBER]%.
+388,,,When a sword is equipped: increases damage to enemies by [0:NUMBER]%.
+389,Axe Prowess Lv 1,,When an axe is equipped: increases damage to enemies by [0:NUMBER]%.
+38A,Axe Prowess Lv 2,,When an axe is equipped: increases damage to enemies by [0:NUMBER]%.
+38B,Axe Prowess Lv 3,,When an axe is equipped: increases damage to enemies by [0:NUMBER]%.
+38C,,,When an axe is equipped: increases damage to enemies by [0:NUMBER]%.
+38D,,,When an axe is equipped: increases damage to enemies by [0:NUMBER]%.
+38E,Lance Prowess Lv 1,,When a lance is equipped: increases damage to enemies by [0:NUMBER]%.
+38F,Lance Prowess Lv 2,,When a lance is equipped: increases damage to enemies by [0:NUMBER]%.
+390,Lance Prowess Lv 3,,When a lance is equipped: increases damage to enemies by [0:NUMBER]%.
+391,,,When a lance is equipped: increases damage to enemies by [0:NUMBER]%.
+392,,,When a lance is equipped: increases damage to enemies by [0:NUMBER]%.
+393,Bow Prowess Lv 1,,When a bow is equipped: increases damage to enemies by [0:NUMBER]%.
+394,Bow Prowess Lv 2,,When a bow is equipped: increases damage to enemies by [0:NUMBER]%.
+395,Bow Prowess Lv 3,,When a bow is equipped: increases damage to enemies by [0:NUMBER]%.
+396,,,When a bow is equipped: increases damage to enemies by [0:NUMBER]%.
+397,,,When a bow is equipped: increases damage to enemies by [0:NUMBER]%.
+398,Brawling Prowess Lv 1,,When gauntlets are equipped: increases damage to enemies by [0:NUMBER]%.
+399,Brawling Prowess Lv 2,,When gauntlets are equipped: increases damage to enemies by [0:NUMBER]%.
+39A,Brawling Prowess Lv 3,,When gauntlets are equipped: increases damage to enemies by [0:NUMBER]%.
+39B,,,When gauntlets are equipped: increases damage to enemies by [0:NUMBER]%.
+39C,,,When gauntlets are equipped: increases damage to enemies by [0:NUMBER]%.
+39D,Reason Lv 1,,When a tome is equipped: increases damage to enemies by [0:NUMBER]%.
+39E,Reason Lv 2,,When a tome is equipped: increases damage to enemies by [0:NUMBER]%.
+39F,Reason Lv 3,,When a tome is equipped: increases damage to enemies by [0:NUMBER]%.
+3A0,,,When a tome is equipped: increases damage to enemies by [0:NUMBER]%.
+3A1,,,When a tome is equipped: increases damage to enemies by [0:NUMBER]%.
+3A2,Faith Lv 1,,Increases the recovery amount of healing magic by [0:NUMBER]%.
+3A3,Faith Lv 2,,Increases the recovery amount of healing magic by [0:NUMBER]%.
+3A4,Faith Lv 3,,Increases the recovery amount of healing magic by [0:NUMBER]%.
+3A5,,,Increases the recovery amount of healing magic by [0:NUMBER]%.
+3A6,,,Increases the recovery amount of healing magic by [0:NUMBER]%.
+3A7,Apex Sword,,Increases critical hit damage when equipped with a sword.
+3A8,Apex Axe,,Increases critical hit damage when equipped with an axe.
+3A9,Apex Lance,,Increases critical hit damage when equipped with a lance.
+3AA,Apex Bow,,Increases critical hit damage when equipped with a bow.
+3AB,Apex Gauntlet,,Increases critical hit damage when equipped with gauntlets.
+3AC,Apex Tome,,Increases critical hit damage when equipped with a tome.
+3AD,Boost Critical (dupe),,Increases critical hit rate.
+3AE,Magic Attack Range+,,Extends the range of long-distance tome attacks.
+3AF,Max HP +500,,Increases max HP by 500.
+3B0,Max HP +1000,,Increases max HP by 1000.
+3B1,Max HP +1500,,Increases max HP by 1500.
+3B2,Str +2,,Increases Str by 2.
+3B3,Str +5,,Increases Str by 5.
+3B4,Str +10,,Increases Str by 10.
+3B5,Mag +2,,Increases Mag by 2.
+3B6,Mag +5,,Increases Mag by 5.
+3B7,Mag +10,,Increases Mag by 10.
+3B8,Def +2,,Increases Def by 2.
+3B9,Def +5,,Increases Def by 5.
+3BA,Def +10,,Increases Def by 10.
+3BB,Res +2,,Increases Res by 2.
+3BC,Res +5,,Increases Res by 5.
+3BD,Res +10,,Increases Res by 10.
+3BE,Dex +2,,Increases Dex by 2.
+3BF,Dex +5,,Increases Dex by 5.
+3C0,Dex +10,,Increases Dex by 10.
+3C1,Spd +2,,Increases Spd by 2.
+3C2,Spd +5,,Increases Spd by 5.
+3C3,Spd +10,,Increases Spd by 10
+3C4,Pomp & Circumstance,,Increases Lck and Cha by 5.
+3C5,Rally Strength,,When this unit is an adjutant: increases the active unit's Str by 10.
+3C6,Rally Magic,,When this unit is an adjutant: increases the active unit's Mag by 10.
+3C7,Rally Speed,,When this unit is an adjutant: increases the active unit's Spd by 10.
+3C8,Rally Defense,,When this unit is an adjutant: increases the active unit's Def by 10.
+3C9,Rally Resistance,,When this unit is an adjutant: increases the active unit's Res by 10.
+3CA,Rally Dexterity,,When this unit is an adjutant: increases the active unit's Dex by 10.
+3CB,Rally Luck,,When this unit is an adjutant: increases the active unit's Lck by 10.
+3CC,Rally Charm,,When this unit is an adjutant: increases the active unit's Cha by 10.
+3CD,Seasoned Tactics,,Restores battalion endurance when an enemy commander is defeated.
+3CE,Defensive Tactics,,Reduces damage to battalion endurance by 30%.
+3CF,Offensive Tactics,,When a battalion is deployed: increases damage to enemies by 20%.
+3D0,Death Blow,,Keeps the Stun Gauge visible for longer.
+3D1,Fiendish Blow,,Increases the power of elemental effects.
+3D2,Darting Blow,,Increases the amount that successful attacks fill the Awakening Gauge.
+3D3,Stalwart Stance,,"Prevents hits from swords, lances, axes, and gauntlets from knocking back the unit mid-attack."
+3D4,Serene Stance,,Prevents hits from bows and tomes from knocking back the unit mid-attack.
+3D5,Defiant Str,,When HP is at 25% or below: increases Str by 20.
+3D6,Defiant Mag,,When HP is at 25% or below: increases Mag by 20.
+3D7,Defiant Spd,,When HP is at 25% or below: increases Spd by 20.
+3D8,Defiant Def,,When HP is at 25% or below: increases Def by 20.
+3D9,Defiant Res,,When HP is at 25% or below: increases Res by 20.
+3DA,Defiant Crit,,When HP is at 25% or below: drastically increases damage dealt by critical rushes.
+3DB,Renewal,,Restores a slight amount of HP at regular intervals.
+3DC,Lifetaker,,Restores a small amount of HP when an enemy commander is defeated.
+3DD,Poison Strike,,Grants attacks a chance to poison enemies.
+3DE,Lethality,,Grants a (Dex × 0.25%) chance of instantly defeating non-commander units.
+3DF,Pavise,,"Grants a (Dex × 0.25%) chance of nullifying damage from enemies equipped with swords, lances, axes, or gauntlets."
+3E0,Aegis,,Grants a (Dex × 0.25%) chance of nullifying damage from enemies equipped with bows or tomes.
+3E1,Miracle,,Allows the unit to survive a single blow that would otherwise reduce HP to zero.
+3E2,Vantage,,When HP is at 50% or below: Perfect Guards restore a small amount of the Warrior and Awakening Gauges.
+3E3,Desperation,,When HP is at 50% or below: strong attacks will break an enemy's guard.
+3E4,Quick Riposte,,When HP is at 50% or below: forces enemies to sustain damage proportional to the damage they inflict.
+3E5,Wrath,,When HP is at 50% or below: greatly increases damage dealt by critical rushes.
+3E6,Special Dance,,Increases the potency of a dancer unit's class actions.
+3E7,Pass (dupe),,Makes it easier to perform Perfect Guards.
+3E8,Axebreaker,,Effective against enemies equipped with axes.
+3E9,Swordbreaker,,Effective against enemies equipped with swords.
+3EA,Lancebreaker,,Effective against enemies equipped with lances.
+3EB,Gauntletbreaker,,Effective against enemies equipped with gauntlets.
+3EC,Bowbreaker,,Effective against enemies equipped with bows.
+3ED,Tomebreaker,,Effective against enemies equipped with tomes.
+3EE,Nullify Armored Effect (dupe),,Nullifies effectiveness against armored units.
+3EF,Nullify Cavalry Effect (dupe),,Nullifies effectiveness against cavalry units.
+3F0,Nullify Flying Effect (dupe),,Nullifies effectiveness against flying units.
+3F1,Battalion Wrath,,When battalion endurance is at 1/3 or below: greatly increases damage dealt by critical rushes.
+3F2,Battalion Renewal,,When battalion endurance is at 1/3 or below: restores a large amount of HP at regular intervals.
+3F3,Battalion Desperation,,When battalion endurance is at 1/3 or below: strong attacks will break an enemy's guard.
+3F4,Battalion Vantage,,When battalion endurance is at 1/3 or below: Perfect Guards restore a small amount of the Warrior and Awakening Gauges.
+3F5,Transmute,,Taking hits from enemies equipped with tomes increases all stats by 3 for a period of time.
+3F6,Rebellious Spirit,,"While guarding, causes the unit to perform a Perfect Guard for (Dex × 0.25%) of incoming attacks."
+3F7,Mercenary's Ploy,,"Increases the critical hit rate of Mercenary, Swordmaster, and Mortal Savant class actions."
+3F8,Mercenary's Wisdom,,"Increases damage dealt by Mercenary, Swordmaster, and Mortal Savant class actions in proportion to Spd."
+3F9,Expert Guard,,Makes it easier to perform Perfect Guards.
+3FA,Provoke,,"Draws attacks, increasing the frequency that surrounding foes attack the unit."
+3FB,Big Game Hunter,,Increases damage dealt to enemy commanders.
+3FC,Counterstrike,,Successful Perfect Guards inflict elemental damage. The element is determined by the active unit.
+3FD,Dual Onslaught,,Factors Mag into physical attacks and Str into magical attacks when calculating damage.
+3FE,Counterbreak,,Successful Perfect Guards temporarily reduce all stats of surrounding foes by 10.
+3FF,Goddess's Blessing,,If the unit has not sustained damage for a set period of time: grants a barrier that nullifies a single attack of any kind.
+400,Counterattack (dupe),,Enemies take damage proportional to the damage they inflict.
+401,Appraisal,,Improves the quality of weapons and materials dropped by fallen enemy commanders.
+402,Thief's Ploy,,"Gives Thieves, Assassins, and Tricksters a rare chance to instantly defeat non-commander units with class actions."
+403,Thief's Wisdom,,"Adds an element to Thief, Assassin, and Trickster class actions. The element is determined by the active unit."
+404,Sneak Attack,,Attacking foes from behind greatly increases damage in proportion to the unit's Dex.
+405,Despoil,,Awards gold for defeating enemies.
+406,Forethought,,Restores the Awakening and Warrior Gauges when using combat arts or magic.
+407,Medical Expertise,,"Increases the potency of vulneraries, concoctions, and elixirs by 50%."
+408,Patience,,Hitting an enemy while they are readying an attack greatly increases damage to the Stun Gauge.
+409,Burst of Valor,,Restores the Warrior Gauge with each critical hit.
+40A,Burst of Resolve,,Restores the Awakening Gauge with each critical hit.
+40B,Rally Deluxe,,"When this unit is an adjutant: increases the active unit's Str, Spd, and Res by 10."
+40C,Charm Catalyst,,Increases the Warrior Gauge fill rate in proportion to the unit's Cha.
+40D,Backbone,,Reduces the unit's chance of getting knocked back by attacks.
+40E,Knight's Ploy,,Guarantees the enemy's guard will break when activating the class actions of lance-wielding cavalry with at least one bar filled.
+40F,Knight's Wisdom,,Increases Warrior Gauge fill rate when using class actions of lance-wielding cavalry.
+410,Vanguard's Benefit,,"When this unit is the active unit: if the adjutant would gain any experience, this unit gains it instead."
+411,Cyclical Specials,,Temporarily increases the Warrior Gauge fill rate after initiating a Warrior Special.
+412,Specials Master,,Defeating 30 or more enemies with a single Warrior Special temporarily increases critical hit rate.
+413,Driven Spirit,,Increases the Warrior Gauge fill rate while Awakened.
+414,Panache,,Defeating multiple enemies with a single Warrior Special restores the Awakening Gauge in proportion to the number of foes defeated.
+415,Solitary Stand,,Increases damage dealt to enemies when no allied units are deployed nearby.
+416,United Front,,Increases damage dealt to enemies in proportion to the number of allied commanders nearby.
+417,Adjutant's Benefit,,"When this unit is the active unit: if this unit would gain any experience, their adjutant gains it instead."
+418,Cyclical Awakening,,Temporarily increases the Awakening Gauge fill rate after an Awakening has concluded.
+419,Shining Guardian,,Reduces the damage allies sustain when inside the same allied stronghold as the unit.
+41A,Pegasus Knight's Ploy,,Adds an element to Pegasus Knight and Falcon Knight class actions. The element is determined by the active unit.
+41B,Pegasus Knight's Wisdom,,Increases the Awakening Gauge fill rate when using Pegasus Knight and Falcon Knight class actions.
+41C,Tableturner,,Extends the period of critical attack time after a Perfect Dodge.
+41D,Item Expertise,,Increases the potency of recovery items by 50%.
+41E,Harmonious Specials,,When this unit is the active unit or an adjutant: increases the damage of Partner Specials.
+41F,Speed Catalyst,,Increases the Warrior Gauge fill rate in proportion to the unit's Spd.
+420,Sol,,Restores HP proportional to the unit's Lck each time an enemy commander is defeated.
+421,Muster,,Temporarily increases all stats by 10 after a successful Perfect Dodge.
+422,Spirited Seize,,Slightly restores the Warrior Gauge upon seizing a stronghold.
+423,Armored Infantry's Ploy,,Improves physical damage reduction inside areas created by Armor Knight and Fortress Knight class actions.
+424,Armored Infantry's Wisdom,,Nullifies status effects inside areas created by Armor Knight and Fortress Knight class actions.
+425,Anchor,,Sometimes automatically guards against enemy attacks that would otherwise knock the unit back.
+426,Smite,,"When using cavalry or armored classes, dashing through enemies inflicts damage."
+427,Armored Cavalry's Ploy,,Increases the attack range of Great Knight class actions.
+428,Armored Cavalry's Wisdom,,Increases damage dealt by Great Knight class actions in proportion to Def.
+429,Knucklebreaker,,Taking a hit while guarding causes the enemy to incur damage proportional to the unit's Def. The enemy's Str is also temporarily reduced by 10.
+42A,Luna,,"When attacking, causes enemies to incur a reduction in Def proportional to the unit's Lck."
+42B,Wild Abandon,,"Greatly increases damage dealt to enemies, but also greatly increases damage received from them."
+42C,Warrior's Ploy,,"When using Brigand and Warrior class actions, temporarily reduces enemy Def in proportion to the number of bars filled."
+42D,Warrior's Wisdom,,"Gives Brigand and Warrior class actions a chance to produce the Stun Gauge. The more bars in the Class Gauge, the better the chance."
+42E,Heavy Hitter,,Gives strong attacks a low chance to produce the Stun Gauge.
+42F,Wyvern Rider's Ploy,,Guarantees an enemy's guard will break when activating the class actions of axe-wielding fliers with at least one bar filled.
+430,Wyvern Rider's Wisdom,,Increases damage to enemy Stun Gauges when using the class actions of axe-wielding fliers.
+431,Undaunted,,"Greatly increases damage dealt to enemies, but prevents the unit from guarding."
+432,Howl,,Makes it easier to knock back enemy commanders.
+433,Safeguard,,When this unit is the active unit: restores HP to the adjutant periodically.
+434,Archer's Ploy,,"Increases the critical hit rate of Archer, Sniper, and Bow Knight class actions."
+435,Archer's Wisdom,,"Increases damage dealt by Archer, Sniper, and Bow Knight class actions in proportion to Dex."
+436,Armsthrift,,Slows the degrading of weapon durability when using combat arts or magic.
+437,One Heart One Mind,,When this unit is an adjutant: greatly increases elemental effects of Adjutant Follow-Ups.
+438,Awakening Assist,,When this unit is an adjutant: increases the fill rate of the active unit's Awakening Gauge.
+439,Warrior Assist,,When this unit is an adjutant: increases the fill rate of the active unit's Warrior Gauge.
+43A,Dexterity Catalyst,,Increases the Warrior Gauge fill rate in proportion to the unit's Dex.
+43B,Battle Instincts,,Increases the fill rate of both the Warrior and Awakening Gauges until one of them is completely full.
+43C,Brawler's Ploy,,"Grants the class actions of Brawlers, Grapplers, and War Masters a chance to produce the Stun Gauge."
+43D,Brawler's Wisdom,,"Increases damage to enemy Stun Gauges when using the class actions of Brawlers, Grapplers, and War Masters."
+43E,Underdog,,Increases damage dealt to an enemy in proportion to how much higher the enemy's level is.
+43F,Concentration,,Moderately extends the time before the hit count expires.
+440,Rejuvenation,,Restores HP every 800 hits.
+441,Piercing Gaze,,Restores the Warrior Gauge every 800 hits.
+442,Piercing Cry,,Restores the Awakening Gauge every 800 hits.
+443,Trust,,When this unit is the active unit or an adjutant: increases the fill rate of the Adjutant Attack Gauge and Adjutant Guard Gauge.
+444,Lifeforce,,"Greatly increases damage dealt by combat arts and magic, but causes the unit to sustain damage with each use in proportion to Mt."
+445,Mage's Ploy,,"Imbues Mage, Warlock, and Gremory class actions with an element regardless of whether they are chained from strong attacks."
+446,Mage's Wisdom,,"Increases damage dealt by Mage, Warlock, and Gremory class actions. The gauge will deplete more quickly."
+447,Essence of Fire,,"Causes fire-based combat arts, magic, strong attacks, and class actions to instead produce a more powerful version of that attack."
+448,Essence of Ice,,"Causes ice-based combat arts, magic, strong attacks, and class actions to instead produce a more powerful version of that attack."
+449,Essence of Lightning,,"Causes lightning-based combat arts, magic, strong attacks, and class actions to instead produce a more powerful version of that attack."
+44A,Essence of Wind,,"Causes wind-based combat arts, magic, strong attacks, and class actions to instead produce a more powerful version of that attack."
+44B,Aggression,,Increases the Warrior Gauge fill rate when attacking foes with status effects.
+44C,Flare,,"When attacking, enemies incur a reduction in Res proportional to the unit's Lck."
+44D,Pact,,"Greatly increases the Warrior Gauge fill rate, but also increases the damage the unit sustains."
+44E,Fire Assist,,When this unit is an adjutant: adds a fire element to the active unit's strong attacks.
+44F,Ice Assist,,When this unit is an adjutant: adds an ice element to the active unit's strong attacks.
+450,Lightning Assist,,When this unit is an adjutant: adds a lightning element to the active unit's strong attacks.
+451,Wind Assist,,When this unit is an adjutant: adds a wind element to the active unit's strong attacks.
+452,Light Assist,,When this unit is an adjutant: adds a light element to the active unit's strong attacks.
+453,Dark Assist,,When this unit is an adjutant: adds a dark element to the active unit's strong attacks.
+454,Essence of Darkness,,"Causes dark-based combat arts, magic, strong attacks, and class actions to instead produce a more powerful version of that attack."
+455,Dark Mage's Ploy,,Extends the time enemies are paralyzed by Dark Mage and Dark Bishop class actions.
+456,Dark Mage's Wisdom,,Grants Dark Mages and Dark Bishops a rare chance to instantly defeat non-commander units with class actions.
+457,Impossible Feat,,"When HP is at 25% or above: greatly increases damage dealt to foes, but attacking also causes the unit to sustain damage for a period of time."
+458,Covenant,,"Greatly increases the Awakening Gauge fill rate, but also increases the damage the unit sustains."
+459,Absorb Strength,,Grants a minor boost to Str each time an enemy commander is defeated. The boosts last throughout the battle.
+45A,Absorb Magic,,Grants a minor boost to Mag each time an enemy commander is defeated. The boosts last throughout the battle.
+45B,Absorb Dexterity,,Grants a minor boost to Dex each time an enemy commander is defeated. The boosts last throughout the battle.
+45C,Absorb Speed,,Grants a minor boost to Spd each time an enemy commander is defeated. The boosts last throughout the battle.
+45D,Absorb Luck,,Grants a minor boost to Lck each time an enemy commander is defeated. The boosts last throughout the battle.
+45E,Absorb Defense,,Grants a minor boost to Def each time an enemy commander is defeated. The boosts last throughout the battle.
+45F,Absorb Resistance,,Grants a minor boost to Res each time an enemy commander is defeated. The boosts last throughout the battle.
+460,Absorb Charm,,Grants a minor boost to Cha each time an enemy commander is defeated. The boosts last throughout the battle.
+461,Essence of Light,,"Causes light-based combat arts, magic, strong attacks, and class actions to instead produce a more powerful version of that attack."
+462,Kinship,,Makes it easier for the unit to receive support points during battle.
+463,Priest's Ploy,,Increases the recovery amounts of Priest and Bishop class actions.
+464,Priest's Wisdom,,Increases damage dealt by Priest and Bishop class actions in proportion to Lck.
+465,Luck Catalyst,,Increases the Warrior Gauge fill rate in proportion to the unit's Lck.
+466,Emperor's Ploy,,Guarantees ignited enemies will explode when using Armored Lord and Emperor class actions.
+467,Perspective,,Increases damage dealt to enemies proportional to the number of allied strongholds.
+468,Stormer of the Land,,Reduces damage taken from an enemy proportional to how much lower the enemy's Cha is.
+469,King's Ploy,,Increases the number of permitted lance throws during High Lord and Great Lord class actions.
+46A,Savior of the Meek,,Makes it easier to knock back enemies in proportion to how much lower an enemy's Str is.
+46B,Leader's Ploy,,Grants an additional fireball volley to the Wyvern Master and Barbarossa class actions.
+46C,Seeker of Greatness,,Increases critical hit rate proportional to how much lower the enemy's Dex is.
+46D,Carpe Diem,,Increases Dex and Spd by 5.
+46E,Mage Knight's Ploy,,Increases the elemental potency of Silverheart and Enlightened One class actions.
+46F,True Awakening,,Extends the duration of Awakenings.
+470,Saint's Power,,Gradually restores the Awakening Gauge.
+471,Goddess's Vessel,,Completely prevents knockback if at least 50% of the Awakening Gauge is filled.
+472,Dual Wielder's Ploy,,Increases the attack range of Asura and Fluegel class actions.
+473,Renewed Carnage,,Gradually restores the Warrior Gauge.
+474,The Creation,,Completely prevents knockback if at least one bar of the Warrior Gauge is filled.
+475,Mastermind,,Increases class Exp gained on the battlefield.
+476,Proficient Witstrike,,Calculates damage for all attacks using the unit's Mag stat.
+477,Gather,,Brings nearby enemies in front of the unit before starting regular attack 1.
+478,Range Master,,Increases attack range.
+479,Exalted Breath,,"When using magic to restore the caster's or an ally's HP, the caster's Awakening Gauge is restored proportionally."
+47A,Flyswatter,,Increases both the Awakening and Warrior Gauge fill rates when attacking enemies that have been launched into the air.
+47B,Ironclad,,"Nullifies enemy attacks that would break, penetrate, or otherwise bypass the unit's guard."
+47C,Inspiring Agility,,Enables dash attacks for all classes.
+47D,Heaviest Hitter,,Causes strong attacks to produce the Stun Gauge at a high rate.
+47E,Domineer,,Increases damage dealt to enemies on foot.
+47F,Sharpshooter,,Causes critical hits to instantly defeat non-commander units.
+480,Prepared to Die,,Rapidly restores the Warrior Gauge when HP is at 25% or below and the Warrior Gauge is less than one bar.
+481,Nullify Magic,,Nullifies enemies' offensive magic.
+482,,,
+483,,,
+484,,,
+485,,,
+486,,,
+487,,,
+488,,,
+489,,,
+48A,,,
+48B,,,
+48C,,,
+48D,,,
+48E,,,
+48F,,,
+490,,,
+491,,,
+492,,,
+493,,,
+494,,,
+495,,,
+496,,,
+497,,,
+498,,,
+499,,,
+49A,,,
+49B,,,
+49C,,,
+49D,,,
+49E,,,
+49F,,,
+4A0,,,
+4A1,,,
+4A2,,,
+4A3,,,
+4A4,,,
+4A5,,,
+4A6,,,
+4A7,,,
+4A8,,,
+4A9,,,
+4AA,,,
+4AB,,,
+4AC,,,
+4AD,,,
+4AE,,,
+4AF,,,
+4B0,Boost Critical Lv 1,,Slightly increases critical hit rate.
+4B1,Boost Critical Lv 2,,Increases critical hit rate.
+4B2,Boost Critical Lv 3,,Greatly increases critical hit rate.
+4B3,Boost Aerial Attacks Lv 1,,Slightly increases damage to enemies launched into the air.
+4B4,Boost Aerial Attacks Lv 2,,Moderately increases damage to enemies launched into the air.
+4B5,Boost Aerial Attacks Lv 3,,Greatly increases damage to enemies launched into the air.
+4B6,Venom Edge Lv 1,,Grants attacks a low chance to poison enemies.
+4B7,Venom Edge Lv 2,,Grants attacks a chance to poison enemies.
+4B8,Venom Edge Lv 3,,Grants attacks a high chance to poison enemies.
+4B9,Boost Regular Attacks Lv 1,,Slightly increases damage dealt by regular attacks.
+4BA,Boost Regular Attacks Lv 2,,Moderately increases damage dealt by regular attacks.
+4BB,Boost Regular Attacks Lv 3,,Greatly increases damage dealt by regular attacks.
+4BC,Boost Strong Attacks Lv 1,,Slightly increases damage dealt by strong attacks.
+4BD,Boost Strong Attacks Lv 2,,Moderately increases damage dealt by strong attacks.
+4BE,Boost Strong Attacks Lv 3,,Greatly increases damage dealt by strong attacks.
+4BF,Boost Class Attacks Lv 1,,Slightly increases damage dealt by class actions.
+4C0,Boost Class Attacks Lv 2,,Moderately increases damage dealt by class actions.
+4C1,Boost Class Attacks Lv 3,,Greatly increases damage dealt by class actions.
+4C2,Boost Critical Rushes Lv 1,,Slightly increases damage dealt by critical rushes.
+4C3,Boost Critical Rushes Lv 2,,Moderately increases damage dealt by critical rushes.
+4C4,Boost Critical Rushes Lv 3,,Greatly increases damage dealt by critical rushes.
+4C5,Boost Specials Lv 1,,Slightly increases damage dealt by Warrior Specials.
+4C6,Boost Specials Lv 2,,Moderately increases damage dealt by Warrior Specials.
+4C7,Boost Specials Lv 3,,Greatly increases damage dealt by Warrior Specials.
+4C8,Boost Awakenings Lv 1,,Slightly increases damage while Awakened.
+4C9,Boost Awakenings Lv 2,,Moderately increases damage while Awakened.
+4CA,Boost Awakenings Lv 3,,Greatly increases damage while Awakened.
+4CB,Boost Combat Arts/Magic Lv 1,,Slightly increases damage dealt by combat arts and magic.
+4CC,Boost Combat Arts/Magic Lv 2,,Moderately increases damage dealt by combat arts and magic.
+4CD,Boost Combat Arts/Magic Lv 3,,Greatly increases damage dealt by combat arts and magic.
+4CE,Invoke Crest Effects Lv 1,,Slightly increases the chance to trigger Crest Effects.
+4CF,Invoke Crest Effects Lv 2,,Moderately increases the chance to trigger Crest Effects.
+4D0,Invoke Crest Effects Lv 3,,Greatly increases the chance to trigger Crest Effects.
+4D1,Boost Collisions Lv 1,,Slightly increases damage dealt when sending enemies flying. Enemies deal a small amount of area damage upon collision.
+4D2,Boost Collisions Lv 2,,Moderately increases damage dealt when sending enemies flying. Enemies deal a moderate amount of area damage upon collision.
+4D3,Boost Collisions Lv 3,,Greatly increases damage dealt when sending enemies flying. Enemies deal a large amount of area damage upon collision.
+4D4,Boost Adjutant Follow-Up Lv 1,,When this unit is an adjutant: slightly increases damage dealt by Adjutant Follow-Ups.
+4D5,Boost Adjutant Follow-Up Lv 2,,When this unit is an adjutant: moderately increases damage dealt by Adjutant Follow-Ups.
+4D6,Boost Adjutant Follow-Up Lv 3,,When this unit is an adjutant: greatly increases damage dealt by Adjutant Follow-Ups.
+4D7,Boost Consecutive Hits Lv 1,,Slightly increases damage to enemies as the hit count rises.
+4D8,Boost Consecutive Hits Lv 2,,Moderately increases damage to enemies as the hit count rises.
+4D9,Boost Consecutive Hits Lv 3,,Greatly increases damage to enemies as the hit count rises.
+4DA,Chain Lv 1,,Slightly extends the time before the hit count expires.
+4DB,Chain Lv 2,,Moderately extends the time before the hit count expires.
+4DC,Chain Lv 3,,Greatly extends the time before the hit count expires.
+4DD,Boost Mounted Damage Lv 1,,Slightly increases damage dealt to enemies while mounted.
+4DE,Boost Mounted Damage Lv 2,,Moderately increases damage dealt to enemies while mounted.
+4DF,Boost Mounted Damage Lv 3,,Greatly increases damage dealt to enemies while mounted.
+4E0,Barrier Breaker Lv 1,,Slightly increases damage dealt to monster barriers.
+4E1,Barrier Breaker Lv 2,,Moderately increases damage dealt to monster barriers.
+4E2,Barrier Breaker Lv 3,,Greatly increases damage dealt to monster barriers.
+4E3,Reckless Power Lv 1,,Sacrifices weapon durability to slightly increase Mt.
+4E4,Reckless Power Lv 2,,Sacrifices weapon durability to moderately increase Mt.
+4E5,Reckless Power Lv 3,,Sacrifices weapon durability to greatly increase Mt.
+4E6,Quality Material Lv 1,,Adds [0:NUMBER] to the maximum forge count when remaking weapons.
+4E7,Quality Material Lv 2,,Adds [0:NUMBER] to the maximum forge count when remaking weapons.
+4E8,Quality Material Lv 3,,Adds [0:NUMBER] to the maximum forge count when remaking weapons.
+4E9,Dexterity Factor Lv 1,,The unit temporarily receives a minor boost to Str and Mag proportional to Dex when attacking.
+4EA,Dexterity Factor Lv 2,,The unit temporarily receives a moderate boost to Str and Mag proportional to Dex when attacking.
+4EB,Dexterity Factor Lv 3,,The unit temporarily receives a major boost to Str and Mag proportional to Dex when attacking.
+4EC,Speed Factor Lv 1,,The unit temporarily receives a minor boost to Str and Mag proportional to Spd when attacking.
+4ED,Speed Factor Lv 2,,The unit temporarily receives a moderate boost to Str and Mag proportional to Spd when attacking.
+4EE,Speed Factor Lv 3,,The unit temporarily receives a major boost to Str and Mag proportional to Spd when attacking.
+4EF,Luck Factor Lv 1,,The unit temporarily receives a minor boost to Str and Mag proportional to Lck when attacking.
+4F0,Luck Factor Lv 2,,The unit temporarily receives a moderate boost to Str and Mag proportional to Lck when attacking.
+4F1,Luck Factor Lv 3,,The unit temporarily receives a major boost to Str and Mag proportional to Lck when attacking.
+4F2,Defense Factor Lv 1,,The unit temporarily receives a minor boost to Str and Mag proportional to Def when attacking.
+4F3,Defense Factor Lv 2,,The unit temporarily receives a moderate boost to Str and Mag proportional to Def when attacking.
+4F4,Defense Factor Lv 3,,The unit temporarily receives a major boost to Str and Mag proportional to Def when attacking.
+4F5,Resistance Factor Lv 1,,The unit temporarily receives a minor boost to Str and Mag proportional to Res when attacking.
+4F6,Resistance Factor Lv 2,,The unit temporarily receives a moderate boost to Str and Mag proportional to Res when attacking.
+4F7,Resistance Factor Lv 3,,The unit temporarily receives a major boost to Str and Mag proportional to Res when attacking.
+4F8,Charm Factor Lv 1,,The unit temporarily receives a minor boost to Str and Mag proportional to Cha when attacking.
+4F9,Charm Factor Lv 2,,The unit temporarily receives a moderate boost to Str and Mag proportional to Cha when attacking.
+4FA,Charm Factor Lv 3,,The unit temporarily receives a major boost to Str and Mag proportional to Cha when attacking.
+4FB,Invert Physical/Magic,,Swaps the unit's physical and magical attack stats.
+4FC,Invert Offense/Defense,,"Swaps the unit's Str and Def, and also Mag and Res."
+4FD,Range+ (dupe),,Extends the range of bows.
