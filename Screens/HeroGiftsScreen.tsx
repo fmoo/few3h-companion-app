@@ -17,6 +17,9 @@ function useHeroGifts(heroId: string) {
     let dislikes = null;
 
     const allGifts = useCSV(require('../assets/gifts.csv'), 2);
+    if (allGifts == null) {
+        return [null, null];
+    }
     for (const row of allGifts) {
         if (String(row[0]).toLowerCase() == heroId || (heroId == "byleth" && row[0] == "Byleth F")) {
             favorites = row.slice(1, 8).filter(f => f != "none");
