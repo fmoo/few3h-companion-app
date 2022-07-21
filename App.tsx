@@ -14,22 +14,34 @@ import HeroSupportsScreen from './Screens/HeroSupportsScreen';
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
 export type RootStackParamList = {
-  Home: undefined,
-  ChangeHouse: undefined,
-  Gifts: undefined,
-  Expeditions: undefined,
-  HeroExpedition: { heroId: string },
+  Home: undefined;
+  ChangeHouse: undefined;
+  Gifts: undefined;
+  Expeditions: undefined;
+  HeroExpedition: { heroId: string };
 
-  HeroGifts: { heroId: string },
-  InnateAbilities: undefined,
+  HeroGifts: { heroId: string };
+  InnateAbilities: undefined;
 
-  Supports: undefined,
-  HeroSupports: { heroId: string },
+  Supports: undefined;
+  HeroSupports: { heroId: string };
 };
 
 export default function App() {
   return (
-    <NavigationContainer>
+    <NavigationContainer
+      theme={{
+        dark: false,
+        colors: {
+          primary: 'red',
+          background: 'orange',
+          card: 'yellow',
+          text: 'green',
+          border: 'blue',
+          notification: 'pink',
+        },
+      }}
+    >
       <Stack.Navigator initialRouteName="Home">
         <Stack.Screen name="Home" component={HomeScreen} />
         <Stack.Screen name="ChangeHouse" component={ChangeHouseScreen} options={{ title: 'Change House' }} />
@@ -37,11 +49,14 @@ export default function App() {
         <Stack.Screen name="Gifts" component={GiftsScreen} />
         <Stack.Screen name="HeroExpedition" component={HeroExpeditionScreen} options={{ title: 'Expedition' }} />
         <Stack.Screen name="HeroGifts" component={HeroGiftsScreen} options={{ title: 'Gifts' }} />
-        <Stack.Screen name="InnateAbilities" component={InnateAbilitiesScreen} options={{ title: 'Innate Abilities' }} />
+        <Stack.Screen
+          name="InnateAbilities"
+          component={InnateAbilitiesScreen}
+          options={{ title: 'Innate Abilities' }}
+        />
         <Stack.Screen name="Supports" component={SupportsScreen} />
         <Stack.Screen name="HeroSupports" component={HeroSupportsScreen} options={{ title: 'Hero Supports' }} />
       </Stack.Navigator>
     </NavigationContainer>
   );
 }
-
