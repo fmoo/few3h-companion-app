@@ -11,6 +11,7 @@ import InnateAbilitiesScreen from './Screens/InnateAbilitiesScreen';
 import SupportsScreen from './Screens/SupportsScreen';
 import HeroSupportsScreen from './Screens/HeroSupportsScreen';
 import { useHouseTheme } from './Util/Theme';
+import { Platform, UIManager } from 'react-native';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
@@ -27,6 +28,10 @@ export type RootStackParamList = {
   Supports: undefined;
   HeroSupports: { heroId: string };
 };
+
+if (Platform.OS === 'android' && UIManager.setLayoutAnimationEnabledExperimental) {
+  UIManager.setLayoutAnimationEnabledExperimental(true);
+}
 
 export default function App() {
   const houseTheme = useHouseTheme();

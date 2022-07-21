@@ -1,4 +1,4 @@
-import { Button, ScrollView, StyleSheet, View, Text } from 'react-native';
+import { Button, ScrollView, StyleSheet, View, Text, LayoutAnimation } from 'react-native';
 import { House, useHouse, useChapter, getHouseMetadata } from '../State/Progress';
 import Slider from '@react-native-community/slider';
 
@@ -53,6 +53,7 @@ function HouseButton({ house }: { house: House }) {
         title={getHouseName(house) + (house == currentHouse ? ' ✅' : ' ')}
         onPress={() => {
           setHouse(house);
+          LayoutAnimation.configureNext(LayoutAnimation.Presets.easeInEaseOut);
         }}
       />
       <HouseProgress house={house} />
