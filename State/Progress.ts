@@ -37,7 +37,7 @@ export function getHouseMetadata(house: House): HouseMetadata {
                 name: "Golden Deer",
                 minChapter: 2,
                 maxChapter: 15,
-                baseChars: ["shez", "claude", "lorenz", "hilda", "rephael", "lysithea", "ignatz", "marianne", "leonie"],
+                baseChars: ["shez", "claude", "lorenz", "hilda", "raphael", "lysithea", "ignatz", "marianne", "leonie"],
                 unlockChars: {
                     "shamir": {"chapter": 4},
                     "linhardt": {"chapter": 4, tactics: true},
