@@ -21,6 +21,9 @@ export function useSupportState() {
         setSupportState(newState);
     }
     function getSupportLevel(heroId1: string, heroId2: string) {
+        if (supportState == null) {
+            return '';
+        }
         return supportState[getSupportKey(heroId1, heroId2)] ?? '';
     }
 
