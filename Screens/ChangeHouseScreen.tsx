@@ -35,7 +35,7 @@ function HouseProgress({ house }: { house: House }) {
         minimumValue={minChapter}
         maximumValue={maxChapter}
         onValueChange={(value) => {
-          console.log(value);
+          // console.log(value);
           setChapter(value);
         }}
         value={currentChapter}

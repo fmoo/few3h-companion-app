@@ -1,4 +1,4 @@
-import { ActivityIndicator, Button, ScrollView, StyleSheet, Text, TouchableNativeFeedback, View } from 'react-native';
+import { ActivityIndicator, Button, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { House, useHouse, useRoster } from '../State/Progress';
 
 import type { RootStackParamList } from '../App';
@@ -29,7 +29,7 @@ export default function SupportsScreen({ route, navigation }: NativeStackScreenP
         continue;
       }
       seen.add(heroKey);
-      console.log(`${heroKey} - ${getSupportLevel(heroId1, heroId2)} / ${getMaxSupportScene(heroId1, heroId2)}`);
+      // console.log(`${heroKey} - ${getSupportLevel(heroId1, heroId2)} / ${getMaxSupportScene(heroId1, heroId2)}`);
       counts[heroId1] ??= 0;
       counts[heroId2] ??= 0;
       if (getSupportLevel(heroId1, heroId2) != getMaxSupportScene(heroId1, heroId2)) {
@@ -47,12 +47,12 @@ export default function SupportsScreen({ route, navigation }: NativeStackScreenP
         const needsSupport = counts[heroId] > 0;
 
         return (
-          <TouchableNativeFeedback key={heroId} onPress={() => navigation.push('HeroSupports', { heroId })}>
+          <Pressable key={heroId} onPress={() => navigation.push('HeroSupports', { heroId })}>
             <View style={[styles.hero, needsSupport ? styles.heroNeedSupports : null]}>
               <Text style={styles.heroName}>{heroId}</Text>
               <Text style={styles.heroSupportsNeeded}>{counts[heroId]}</Text>
             </View>
-          </TouchableNativeFeedback>
+          </Pressable>
         );
       })}
     </ScrollView>

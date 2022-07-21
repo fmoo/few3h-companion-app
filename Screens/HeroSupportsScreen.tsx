@@ -1,13 +1,4 @@
-import {
-  ActivityIndicator,
-  Button,
-  Pressable,
-  ScrollView,
-  StyleSheet,
-  Text,
-  TouchableNativeFeedback,
-  View,
-} from 'react-native';
+import { ActivityIndicator, Button, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { House, useHouse, useRoster } from '../State/Progress';
 
 import type { RootStackParamList } from '../App';
@@ -79,7 +70,7 @@ export default function HeroSupportsScreen({ route }: NativeStackScreenProps<Roo
         const needsSupport = supportLevel != maxSupportScene;
 
         return (
-          <TouchableNativeFeedback key={heroId2} onPress={() => cycleSupportLevel(heroId2)}>
+          <Pressable key={heroId2} onPress={() => cycleSupportLevel(heroId2)}>
             <View
               style={[
                 styles.hero,
@@ -92,7 +83,7 @@ export default function HeroSupportsScreen({ route }: NativeStackScreenProps<Roo
                 {supportLevel} / {getMaxSupportLevel(heroId, heroId2)}
               </Text>
             </View>
-          </TouchableNativeFeedback>
+          </Pressable>
         );
       })}
     </ScrollView>
