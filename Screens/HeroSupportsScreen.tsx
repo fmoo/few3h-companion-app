@@ -64,11 +64,22 @@ export default function HeroSupportsScreen({ route }: NativeStackScreenProps<Roo
                     return null;
                 }
 
+                const maxSupportScene = getMaxSupportScene(heroId, heroId2);
+                const noSupports = maxSupportScene == '';
+                const supportLevel = getSupportLevel(heroId, heroId2);
+                const needsSupport = supportLevel != maxSupportScene;
+
                 return (
                     <TouchableNativeFeedback key={heroId2} onPress={() => cycleSupportLevel(heroId2)}>
-                        <View style={styles.hero}>
-                            <Text style={styles.heroName}>{heroId2}</Text>
-                            <Text style={styles.supportLevel}>{getSupportLevel(heroId, heroId2)} / {getMaxSupportLevel(heroId, heroId2)}</Text>
+                        <View style={[
+                            styles.hero,
+                            noSupports ? styles.heroNoSupports : null,
+                            (needsSupport && !noSupports) ? styles.heroNeedSupports : null,
+                        ]}>
+                            <Text style={[styles.heroName, noSupports ? styles.heroTextNoSupports : null]}>{heroId2}</Text>
+                            <Text style={[styles.supportLevel, noSupports ? styles.heroTextNoSupports : null]}>
+                                {supportLevel} / {getMaxSupportLevel(heroId, heroId2)}
+                            </Text>
                         </View>
                     </TouchableNativeFeedback>
                 );
@@ -89,10 +100,21 @@ const styles = StyleSheet.create({
     },
     hero: {
         flexDirection: 'row',
-        paddingVertical: 8,
+        width: '100%',
+        justifyContent: 'center',
+        paddingVertical: 12,
+    },
+    heroNoSupports: {
+        backgroundColor: '#eee',
+    },
+    heroNeedSupports: {
+        backgroundColor: '#ffffe0',
     },
     heroName: {
         marginRight: 8,
+    },
+    heroTextNoSupports: {
+        color: '#111',
     },
     supportLevel: {},
     header: {

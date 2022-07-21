@@ -44,15 +44,22 @@ export default function SupportsScreen({ route, navigation }: NativeStackScreenP
 
     return (
         <ScrollView style={styles.container} contentContainerStyle={styles.contentContainer} bounces={true}>
-            {roster.map(heroId =>
-                <TouchableNativeFeedback key={heroId} onPress={() => navigation.push('HeroSupports', { heroId })}>
-                    <View style={styles.hero}>
-                        <Text style={styles.heroName}>{heroId}</Text>
-                        <Text style={styles.heroSupportsNeeded}>{counts[heroId]}</Text>
-                    </View>
+            {roster.map(heroId => {
+                const needsSupport = counts[heroId] > 0;
 
-                </TouchableNativeFeedback>
-            )}
+                return (
+                    <TouchableNativeFeedback key={heroId} onPress={() => navigation.push('HeroSupports', { heroId })}>
+                        <View style={[
+                            styles.hero,
+                            needsSupport ? styles.heroNeedSupports : null,
+                        ]}>
+                            <Text style={styles.heroName}>{heroId}</Text>
+                            <Text style={styles.heroSupportsNeeded}>{counts[heroId]}</Text>
+                        </View>
+
+                    </TouchableNativeFeedback>
+                );
+            })}
         </ScrollView>
     );
 }
@@ -70,6 +77,11 @@ const styles = StyleSheet.create({
     hero: {
         flexDirection: 'row',
         paddingVertical: 8,
+        width: '100%',
+        justifyContent: 'center',
+    },
+    heroNeedSupports: {
+        backgroundColor: '#ffffe0',
     },
     heroName: {
         marginRight: 8,
