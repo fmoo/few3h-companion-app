@@ -8,6 +8,35 @@ import { useAssets } from 'expo-asset';
 import { SpinnerView } from '../Components/Spinners';
 import { useEffect, useState } from 'react';
 import { readString } from 'react-native-csv';
+import { useCSV } from '../Util/CSV';
+
+function useExpeditions(heroId: string) {
+  const qRows = useCSV(require('../assets/expeditions-qs.csv'), 2);
+  const talkRows = useCSV(require('../assets/expeditions-talk.csv'), 2);
+  const qs = [];
+  const talks = [];
+
+  if (qRows != null) {
+    for (const row of qRows) {
+      if (String(row[0]).toLowerCase() == heroId || (heroId == 'byleth' && row[0] == 'Byleth F')) {
+        qs.push(row.slice(2));
+      }
+    }
+  }
+
+  if (talkRows != null) {
+    for (const row of talkRows) {
+      if (String(row[0]).toLowerCase() == heroId || (heroId == 'byleth' && row[0] == 'Byleth F')) {
+        talks.push(row.slice(2));
+      }
+    }
+  }
+
+  return {
+    qs,
+    talks,
+  };
+}
 
 export default function HeroExpeditionScreen({ route }: NativeStackScreenProps<RootStackParamList, 'HeroExpedition'>) {
   const { heroId } = route.params;
@@ -15,57 +44,16 @@ export default function HeroExpeditionScreen({ route }: NativeStackScreenProps<R
     require('../assets/expeditions-qs.csv'),
     require('../assets/expeditions-talk.csv'),
   ]);
-  const [heroTalks, setHeroTalks] = useState<Array<string>>(null);
-  const [heroQs, setHeroQs] = useState<Array<string>>(null);
+  const { qs, talks } = useExpeditions(heroId);
 
-  useEffect(() => {
-    const doFetch = async () => {
-      if (errors != null) {
-        console.error(errors);
-        return;
-      }
-      if (assets == null) {
-        return;
-      }
-
-      const [qs, talks] = assets;
-
-      const resp = await fetch(qs.localUri);
-      const content = await resp.text();
-      const parseResult = readString(content);
-      const work = [];
-      for (const item of Object.values(parseResult.data)) {
-        const row = item as string[];
-        if (String(row[0]).toLowerCase() == heroId || (heroId == 'byleth' && row[0] == 'Byleth F')) {
-          work.push(row.slice(2));
-        }
-      }
-      setHeroQs(work);
-
-      const resp2 = await fetch(talks.localUri);
-      const content2 = await resp2.text();
-      const parseResult2 = readString(content2);
-      const work2 = [];
-      for (const item of Object.values(parseResult2.data)) {
-        const row = item as string[];
-        if (String(row[0]).toLowerCase() == heroId || (heroId == 'byleth' && row[0] == 'Byleth F')) {
-          work2.push(row.slice(2));
-        }
-      }
-      setHeroTalks(work2);
-    };
-
-    doFetch().catch(console.error);
-  }, [assets, heroId]);
-
-  if (assets == null || heroQs == null || heroTalks == null) {
+  if (assets == null) {
     return <SpinnerView />;
   }
 
   return (
     <ScrollView style={styles.container} contentContainerStyle={styles.contentContainer} bounces={true}>
       <Text style={styles.header}>Talk</Text>
-      {heroTalks.map((g) => {
+      {talks.map((g) => {
         return (
           <View key={g[0]} style={styles.promptContainer}>
             <Text style={styles.prompt}>{g[0]}</Text>
@@ -74,7 +62,7 @@ export default function HeroExpeditionScreen({ route }: NativeStackScreenProps<R
         );
       })}
       <Text style={styles.header}>Ask a Question</Text>
-      {heroQs.map((g) => {
+      {qs.map((g) => {
         return (
           <View key={`${g[0]}:${g[2]}`} style={styles.promptContainer}>
             <Text style={styles.prompt}>{g[0]}</Text>
