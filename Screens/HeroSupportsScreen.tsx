@@ -27,7 +27,9 @@ export default function HeroSupportsScreen({ route }: NativeStackScreenProps<Roo
       continue;
     }
     seen.add(heroKey);
-    counts[heroId2] ??= 0;
+    if (counts[heroId2] == null) {
+      counts[heroId2] = 0;
+    }
     if (getSupportLevel(heroId, heroId2) != getMaxSupportScene(heroId, heroId2)) {
       counts[heroId2] += 1;
     }

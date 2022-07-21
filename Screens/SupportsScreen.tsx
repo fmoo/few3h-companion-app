@@ -30,8 +30,12 @@ export default function SupportsScreen({ route, navigation }: NativeStackScreenP
       }
       seen.add(heroKey);
       // console.log(`${heroKey} - ${getSupportLevel(heroId1, heroId2)} / ${getMaxSupportScene(heroId1, heroId2)}`);
-      counts[heroId1] ??= 0;
-      counts[heroId2] ??= 0;
+      if (counts[heroId1] == null) {
+        counts[heroId1] = 0;
+      }
+      if (counts[heroId2] == null) {
+        counts[heroId2] = 0;
+      }
       if (getSupportLevel(heroId1, heroId2) != getMaxSupportScene(heroId1, heroId2)) {
         counts[heroId1] += 1;
         counts[heroId2] += 1;
