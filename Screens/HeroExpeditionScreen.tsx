@@ -9,6 +9,7 @@ import { SpinnerView } from '../Components/Spinners';
 import { useEffect, useState } from 'react';
 import { readString } from 'react-native-csv';
 import { useCSV } from '../Util/CSV';
+import { backgroundColor } from '../Util/Theme';
 
 function useExpeditions(heroId: string) {
   const qRows = useCSV(require('../assets/expeditions-qs.csv'), 2);
@@ -77,11 +78,11 @@ export default function HeroExpeditionScreen({ route }: NativeStackScreenProps<R
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: '#fff',
+    backgroundColor,
   },
   contentContainer: {
     paddingHorizontal: 20,
-    backgroundColor: '#fff',
+    // backgroundColor,
     // alignItems: 'center',
     // justifyContent: 'center',
   },

@@ -11,6 +11,7 @@ import { readString } from 'react-native-csv';
 import { useCSV } from '../Util/CSV';
 import { getSupportKey, useSupportState } from '../State/Supports';
 import { useSupportsData } from '../Data/Supports';
+import { backgroundColor } from '../Util/Theme';
 
 export default function SupportsScreen({ route, navigation }: NativeStackScreenProps<RootStackParamList, 'Supports'>) {
   const { getMaxSupportScene } = useSupportsData();
@@ -51,8 +52,8 @@ export default function SupportsScreen({ route, navigation }: NativeStackScreenP
         const needsSupport = counts[heroId] > 0;
 
         return (
-          <Pressable key={heroId} onPress={() => navigation.push('HeroSupports', { heroId })}>
-            <View style={[styles.hero, needsSupport ? styles.heroNeedSupports : null]}>
+          <Pressable style={styles.hero} key={heroId} onPress={() => navigation.push('HeroSupports', { heroId })}>
+            <View style={[styles.hero, styles.heroInner, needsSupport ? styles.heroNeedSupports : null]}>
               <Text style={styles.heroName}>{heroId}</Text>
               <Text style={styles.heroSupportsNeeded}>{counts[heroId]}</Text>
             </View>
@@ -65,19 +66,22 @@ export default function SupportsScreen({ route, navigation }: NativeStackScreenP
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: '#fff',
+    backgroundColor,
   },
   contentContainer: {
     paddingVertical: 8,
-    backgroundColor: '#fff',
+    // backgroundColor,
     alignItems: 'center',
     // justifyContent: 'center',
   },
   hero: {
     flexDirection: 'row',
-    paddingVertical: 8,
+    paddingVertical: 4,
     width: '100%',
     justifyContent: 'center',
+  },
+  heroInner: {
+    paddingVertical: 12,
   },
   heroNeedSupports: {
     backgroundColor: '#ffffe0',

@@ -72,10 +72,11 @@ export default function HeroSupportsScreen({ route }: NativeStackScreenProps<Roo
         const needsSupport = supportLevel != maxSupportScene;
 
         return (
-          <Pressable key={heroId2} onPress={() => cycleSupportLevel(heroId2)}>
+          <Pressable style={styles.hero} key={heroId2} onPress={() => cycleSupportLevel(heroId2)}>
             <View
               style={[
                 styles.hero,
+                styles.heroInner,
                 noSupports ? styles.heroNoSupports : null,
                 needsSupport && !noSupports ? styles.heroNeedSupports : null,
               ]}
@@ -106,10 +107,13 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     width: '100%',
     justifyContent: 'center',
+    paddingVertical: 4,
+  },
+  heroInner: {
     paddingVertical: 12,
   },
   heroNoSupports: {
-    backgroundColor: '#eee',
+    backgroundColor: 'rgba(0, 0, 0, 0.1)',
   },
   heroNeedSupports: {
     backgroundColor: '#ffffe0',

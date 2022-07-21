@@ -3,6 +3,7 @@ import { House, useHouse, useRoster } from '../State/Progress';
 
 import type { RootStackParamList } from '../App';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
+import { backgroundColor } from '../Util/Theme';
 
 export default function ExpeditionsScreen({ navigation }: NativeStackScreenProps<RootStackParamList, 'Expeditions'>) {
   const roster = useRoster();
@@ -29,10 +30,10 @@ export default function ExpeditionsScreen({ navigation }: NativeStackScreenProps
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: '#fff',
+    backgroundColor,
   },
   contentContainer: {
-    backgroundColor: '#fff',
+    // backgroundColor: backgroundColor,
     // alignItems: 'center',
     // justifyContent: 'center',
   },

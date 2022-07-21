@@ -4,6 +4,7 @@ import { House, useHouse, useRoster } from '../State/Progress';
 import type { RootStackParamList } from '../App';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { useInnateAbilities } from '../Util/CSV';
+import { backgroundColor } from '../Util/Theme';
 
 export default function InnateAbilitiesScreen({
   navigation,
@@ -39,14 +40,9 @@ export default function InnateAbilitiesScreen({
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: '#fff',
+    backgroundColor,
   },
-  contentContainer: {
-    backgroundColor: '#fff',
-    // alignItems: 'center',
-    // alignContent: 'center',
-    // justifyContent: 'center',
-  },
+  contentContainer: {},
   hero: {
     flexDirection: 'row',
     flexWrap: 'wrap',

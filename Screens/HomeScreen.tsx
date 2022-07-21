@@ -3,6 +3,7 @@ import { Button, ScrollView, StyleSheet, Text, View } from 'react-native';
 
 import type { RootStackParamList } from '../App';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
+import { backgroundColor } from '../Util/Theme';
 
 function HomeScreen({ navigation }: NativeStackScreenProps<RootStackParamList, 'Home'>) {
   return (
@@ -47,8 +48,6 @@ export default HomeScreen;
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
+    backgroundColor,
   },
 });

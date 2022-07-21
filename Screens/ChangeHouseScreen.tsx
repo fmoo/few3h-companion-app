@@ -4,6 +4,7 @@ import Slider from '@react-native-community/slider';
 
 import type { RootStackParamList } from '../App';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
+import { backgroundColor } from '../Util/Theme';
 
 function getHouseName(house: House): string {
   switch (house) {
@@ -28,7 +29,7 @@ function HouseProgress({ house }: { house: House }) {
   const { minChapter, maxChapter } = getHouseMetadata(currentHouse);
 
   return (
-    <>
+    <View style={styles.houseConfig}>
       <Slider
         step={1}
         style={styles.houseSlider}
@@ -40,8 +41,8 @@ function HouseProgress({ house }: { house: House }) {
         }}
         value={currentChapter}
       />
-      <Text>{currentChapter}</Text>
-    </>
+      <Text style={styles.houseSliderCaption}>{currentChapter}</Text>
+    </View>
   );
 }
 
@@ -77,14 +78,17 @@ const styles = StyleSheet.create({
   houseButtonItem: {},
   houseButtonLabel: {},
   houseButtonCheck: {},
-  houseSlider: {
-    width: '80%',
+  houseSlider: {},
+  houseSliderCaption: {
+    alignSelf: 'center',
+  },
+  houseConfig: {
+    paddingVertical: 24,
+    paddingHorizontal: 24,
   },
 
   container: {
     flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
+    backgroundColor,
   },
 });

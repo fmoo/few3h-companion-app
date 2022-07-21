@@ -3,6 +3,7 @@ import { House, useHouse, useRoster } from '../State/Progress';
 
 import type { RootStackParamList } from '../App';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
+import { backgroundColor } from '../Util/Theme';
 
 export default function GiftsScreen({ navigation }: NativeStackScreenProps<RootStackParamList>) {
   const roster = useRoster();
@@ -28,11 +29,7 @@ export default function GiftsScreen({ navigation }: NativeStackScreenProps<RootS
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: '#fff',
+    backgroundColor,
   },
-  contentContainer: {
-    backgroundColor: '#fff',
-    // alignItems: 'center',
-    // justifyContent: 'center',
-  },
+  contentContainer: {},
 });

@@ -14,6 +14,8 @@ const DEFAULT_THEME = {
   },
 };
 
+export const backgroundColor = 'rgba(255, 255, 255, 0.7)';
+
 export function useHouseTheme(): Theme {
   const [house] = useHouse();
 

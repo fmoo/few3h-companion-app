@@ -11,6 +11,7 @@ import { readString } from 'react-native-csv';
 
 import PapaParse from 'papaparse';
 import { useCSV } from '../Util/CSV';
+import { backgroundColor } from '../Util/Theme';
 
 function useHeroGifts(heroId: string) {
   let favorites = null;
@@ -56,7 +57,7 @@ export default function HeroGiftsScreen({ route }: NativeStackScreenProps<RootSt
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor,
     alignItems: 'center',
     paddingTop: 24,
     // justifyContent: 'center',
