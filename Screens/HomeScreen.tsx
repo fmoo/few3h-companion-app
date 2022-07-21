@@ -21,6 +21,9 @@ function HomeScreen({ navigation }: NativeStackScreenProps<RootStackParamList, "
       <Button title="Innate Abilities" onPress={() => {
         navigation.push('InnateAbilities');
       }} />
+      <Button title="Supports" onPress={() => {
+        navigation.push('Supports');
+      }} />
       <StatusBar style="auto" />
     </View>
   );
