@@ -10,6 +10,7 @@ import HomeScreen from './Screens/HomeScreen';
 import InnateAbilitiesScreen from './Screens/InnateAbilitiesScreen';
 import SupportsScreen from './Screens/SupportsScreen';
 import HeroSupportsScreen from './Screens/HeroSupportsScreen';
+import { useHouseTheme } from './Util/Theme';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
@@ -28,20 +29,9 @@ export type RootStackParamList = {
 };
 
 export default function App() {
+  const houseTheme = useHouseTheme();
   return (
-    <NavigationContainer
-      theme={{
-        dark: false,
-        colors: {
-          primary: 'red',
-          background: 'orange',
-          card: 'yellow',
-          text: 'green',
-          border: 'blue',
-          notification: 'pink',
-        },
-      }}
-    >
+    <NavigationContainer theme={houseTheme}>
       <Stack.Navigator initialRouteName="Home">
         <Stack.Screen name="Home" component={HomeScreen} />
         <Stack.Screen name="ChangeHouse" component={ChangeHouseScreen} options={{ title: 'Change House' }} />
