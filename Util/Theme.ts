@@ -9,7 +9,7 @@ const DEFAULT_THEME = {
     primary: 'black',
     border: 'black',
     card: 'white',
-    notification: 'ping',
+    notification: 'pink',
     text: 'black',
   },
 };
